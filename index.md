@@ -10,4 +10,8 @@ page.title: "Welcome to Gen(API)re"
 page.keywords: "API, documentation, genre"
 ---
 
-# Welcome on Gen(API)re
+## What
+
+## Why
+
+## How
