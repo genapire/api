@@ -1,2 +1,1 @@
-# api
-genre json and xml api
+# Welcome on Gen(API)re
