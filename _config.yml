@@ -1,4 +1,6 @@
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
+remote_theme: jekyll/minima@d4d779a
+
 
 collections:
  posts:
