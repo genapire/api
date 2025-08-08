@@ -13,7 +13,7 @@ defaults:
 
 exclude:
  - "_posts"
- - "README.md"   # Nie wykluczamy, bo to nasza jedyna strona
+ - "README.md"
 
 title: Gen(API)re
 
