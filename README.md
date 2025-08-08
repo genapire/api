@@ -1,1 +1,5 @@
-# Welcome on Gen(API)re
+## What
+
+## Why
+
+## How

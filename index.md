@@ -6,6 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+page.title: "Welcome to Gen(API)re"
+page.keywords: "API, documentation, genre"
 ---
 
 # Welcome on Gen(API)re
