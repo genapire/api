@@ -2,33 +2,46 @@
 <artist>
   <name>Power-Haus</name>
   <albums>
+    <album>Abandoned</album>
+    <album>Avant</album>
+    <album>Barrens</album>
+    <album>Bizzaro</album>
     <album>Bounce Back</album>
-  <album>Bounce Back</album>
-  <album>Capriccio</album>
-  <album>Capriccio</album>
-  <album>Covered001</album>
-  <album>Covered001</album>
-  <album>Shutdown</album>
-  <album>Shutdown</album>
-  <album>The Analog</album>
-  <album>The Analog</album>
-  <album>The Blade Album</album>
-  <album>The Blade Album</album>
-  <album>The Bounce Album</album>
-  <album>The Bounce Album</album>
-  <album>The Cinematic Covers Album</album>
-  <album>The Cinematic Covers Album</album>
-  <album>The Cyber Album</album>
-  <album>The Cyber Album</album>
-  <album>The Derange Album</album>
-  <album>The Derange Album</album>
-  <album>The Distort Album</album>
-  <album>The Distort Album</album>
-  <album>The Fret Album</album>
-  <album>The Fret Album</album>
-  <album>The Noir Album</album>
-  <album>The Noir Album</album>
-  <album>The North Album</album>
-  <album>The North Album</album>
+    <album>Capriccio</album>
+    <album>Covered001</album>
+    <album>Erebus</album>
+    <album>Forte</album>
+    <album>Geiger</album>
+    <album>Hertz</album>
+    <album>Ignis</album>
+    <album>Kalahari</album>
+    <album>Leitmotif</album>
+    <album>Liminal</album>
+    <album>Modular</album>
+    <album>novus</album>
+    <album>Operetta</album>
+    <album>Ostinato</album>
+    <album>Paces</album>
+    <album>Phantasm</album>
+    <album>Quest</album>
+    <album>Revival 2</album>
+    <album>Shards</album>
+    <album>Shutdown</album>
+    <album>Slaught</album>
+    <album>Stygian</album>
+    <album>Supernova</album>
+    <album>The Analog</album>
+    <album>The Blade Album</album>
+    <album>The Bounce Album</album>
+    <album>The Cinematic Covers Album</album>
+    <album>The Cyber Album</album>
+    <album>The Derange Album</album>
+    <album>The Distort Album</album>
+    <album>The Fret Album</album>
+    <album>The Noir Album</album>
+    <album>The North Album</album>
+    <album>The Strings 'n' Things Album</album>
+    <album>Toccata</album>
+    <album>Verve</album>
   </albums>
 </artist>

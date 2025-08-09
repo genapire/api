@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>jazz</genre>
-  <genre>cool-jazz</genre>
-  <genre>bossa-nova</genre>
-  <genre>piano</genre>
-  <genre>jazz-piano</genre>
+    <genre>cool-jazz</genre>
+    <genre>bossa-nova</genre>
+    <genre>piano</genre>
+    <genre>jazz-piano</genre>
   </genres>
 </album>

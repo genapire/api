@@ -2,14 +2,16 @@
 <artist>
   <name>Claude Debussy</name>
   <albums>
+    <album>-A Classical Carnival- - Piano Works</album>
+    <album>-A History of Classical Music-- Late Romantic & Beyond</album>
+    <album>-A Tempo- - Classical for Summer</album>
+    <album>-Au revoir- - French Music</album>
     <album>Clair de lune</album>
-  <album>Clair de lune</album>
-  <album>Classical breakfast</album>
-  <album>Cosy Morning Music</album>
-  <album>Morning Mood</album>
-  <album>Musique classique pour s'endormir</album>
-  <album>Relaxing Piano</album>
-  <album>Relaxing Piano</album>
-  <album>Zen Classical Piano</album>
+    <album>Classical breakfast</album>
+    <album>Cosy Morning Music</album>
+    <album>Morning Mood</album>
+    <album>Musique classique pour s'endormir</album>
+    <album>Relaxing Piano</album>
+    <album>Zen Classical Piano</album>
   </albums>
 </artist>

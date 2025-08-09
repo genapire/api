@@ -3,18 +3,11 @@
   <name>Toundra</name>
   <albums>
     <album>(I)</album>
-  <album>(I)</album>
-  <album>(II)</album>
-  <album>(II)</album>
-  <album>(III)</album>
-  <album>(III)</album>
-  <album>Das Cabinet des Dr. Caligari</album>
-  <album>Das Cabinet des Dr. Caligari</album>
-  <album>Hex</album>
-  <album>Hex</album>
-  <album>IV</album>
-  <album>IV</album>
-  <album>Vortex</album>
-  <album>Vortex</album>
+    <album>(II)</album>
+    <album>(III)</album>
+    <album>Das Cabinet des Dr. Caligari</album>
+    <album>Hex</album>
+    <album>IV</album>
+    <album>Vortex</album>
   </albums>
 </artist>

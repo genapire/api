@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Chad Fowler</name>
+  <albums>
+    <album>Broken Unbroken</album>
+    <album>Sparks</album>
+    <album>Thinking Unthinking</album>
+  </albums>
+</artist>

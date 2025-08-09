@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>metal</genre>
-  <genre>rock</genre>
-  <genre>psychedelic</genre>
-  <genre>psychedelic-rock</genre>
-  <genre>doom-metal</genre>
+    <genre>rock</genre>
+    <genre>psychedelic</genre>
+    <genre>psychedelic-rock</genre>
+    <genre>doom-metal</genre>
   </genres>
 </album>

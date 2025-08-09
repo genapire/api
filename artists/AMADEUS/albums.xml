@@ -3,32 +3,225 @@
   <name>AMADEUS</name>
   <albums>
     <album>1</album>
-  <album>1</album>
-  <album>24 de ore</album>
-  <album>24 de ore</album>
-  <album>Apart</album>
-  <album>Apart</album>
-  <album>At Large EP</album>
-  <album>At Large EP</album>
-  <album>Away</album>
-  <album>Away</album>
-  <album>Continental</album>
-  <album>Continental</album>
-  <album>Got to Make It</album>
-  <album>Got to Make It</album>
-  <album>Joy</album>
-  <album>Joy</album>
-  <album>Love and Other Mistakes</album>
-  <album>Love and Other Mistakes</album>
-  <album>Meridian</album>
-  <album>Meridian</album>
-  <album>Musica e follia... A venti metri dalla celebrità</album>
-  <album>Musica e follia... A venti metri dalla celebrità</album>
-  <album>The Island</album>
-  <album>The Island</album>
-  <album>VI</album>
-  <album>VI</album>
-  <album>Violetta - Basi e cori</album>
-  <album>Violetta - Basi e cori</album>
+    <album>24 de ore</album>
+    <album>7- Goliath</album>
+    <album>Adrift</album>
+    <album>Am-ma may la</album>
+    <album>Apart</album>
+    <album>At Large EP</album>
+    <album>Away</album>
+    <album>Balinesischen Strand mit Lagerfeuer und Grillen- Naturgeräusche</album>
+    <album>Bergbach mit Sommerregen- Natur pur- Sonderausgabe</album>
+    <album>Best Of Amadeus Live</album>
+    <album>Binaurale Naturgeräusche für den Schlaf- Balinesischen Strand mit Lagerfeuer und Grillen- 120 Minuten Sonderausgabe</album>
+    <album>Binaurale Naturgeräusche für den Schlaf- Geräusche des Dschungels mit heilenden Regen- 120 Minuten Sonderausgabe</album>
+    <album>Binaurale Naturgeräusche zu schlafen- Lagerfeuer an einem tropischen Strand- 120 Minuten Sonderausgabe</album>
+    <album>Binaurale Naturgeräuschen- Regentropfen nach einem Sommergewitter</album>
+    <album>Binaurální Zvuky Přírody pro Spánek- Cesta Řeky- od Hor k Moři- 120 Minut Zvláštní Vydání</album>
+    <album>Binaurální Zvuky Přírody pro Spánek- Prérie Bouřka a Zvukem Vlků- 120 Minut Zvláštní Vydání</album>
+    <album>Binaurální Zvuky Přírody- Bouře s Hromy a Blesky</album>
+    <album>Binaurální Zvuky Přírody- Bouře s Hromy a Blesky- Zvláštní Vydání</album>
+    <album>Binaurální Zvuky Přírody- Cesta Řeky- od Hora k Moři- Zvláštní Vydání</album>
+    <album>Binaurální Zvuky Přírody- Cesta Řeky- z Hora k Moři</album>
+    <album>Binaurální Zvuky Přírody- Dešťové Kapky po Letní Bouřce</album>
+    <album>Binaurální Zvuky Přírody- Dešťové Kapky po Letní Bouřce- Zvláštní Vydání</album>
+    <album>Bouře s Větry Hurikánu- zvuky přírody</album>
+    <album>Bouře s Větry Hurikánu- Zvuky Přírody- 240 Minut Zvláštní Vydání</album>
+    <album>Burza z Piorunami i Dźwiękiem Wilków- dźwięki natury- Specjalne Wydanie</album>
+    <album>Burze i Huraganowe Wiatry- naturalne dźwięki</album>
+    <album>Burze i Huraganowe Wiatry- naturalne dźwięki- 240 Minut Specjalne Wydanie</album>
+    <album>Burzliwy Plaża z Wyjących Wiatrów- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Chances</album>
+    <album>Continental</album>
+    <album>Deštný prales se zvukem řeky- zvuky přírody</album>
+    <album>Dešťové Kapky po Letní Bouřce- přírodní zvuky- Zvláštní Vydání</album>
+    <album>Dešťové kapky po letní bouřce- zvuky přírody</album>
+    <album>Dwuuszny Dźwięki Natury dla Snu- Krople Deszczu po Letniej Burzy- 120 Minut Specjalne Wydanie</album>
+    <album>Dwuuszny Dźwięki Natury dla Snu- Podróż z Rzeki- od Gór do Morza- 120 Minut Specjalne Wydanie</album>
+    <album>Dwuuszny Dźwięki Natury- Burza z Piorunami i Błyskawicami</album>
+    <album>Dwuuszny Dźwięki Natury- Burza z Piorunami i Błyskawicami- Specjalne Wydanie</album>
+    <album>Dwuuszny Dźwięki Natury- Krople Deszczu po Letniej Burzy- Specjalne Wydanie</album>
+    <album>Dwuuszny Dźwięki Natury- Podróż z Rzeki- od Gór do Morza</album>
+    <album>Dwuuszny Dźwięki Natury- Podróż z Rzeki- od Gór do Morza- Specjalne Wydanie</album>
+    <album>Dźwięki Dżungli z Uzdrawiających Deszcze- Naturalne Dźwięki- Specjalne Wydanie</album>
+    <album>Dźwięki Natury do Spania- Tybetański Śpiew Miski- 120 Minut Specjalne Wydanie</album>
+    <album>Dźwięki Przyrody dla Redukcji Stresu- Ognisko na Leśnej Polanie- Specjalne Wydanie</album>
+    <album>Dźwięki Przyrody dla Redukcji Stresu- Tropikalny Wodospad z Dźwięki Dżungli- Specjalne Wydanie</album>
+    <album>Dźwięki Przyrody do Medytacji- Dźwięki ze świątyni z Dzwonki Wietrzne</album>
+    <album>Dźwięki Przyrody do Medytacji- Dźwięków Morze z Delfinami i Wielorybami</album>
+    <album>Dźwięki Przyrody do Medytacji- Dźwięków Morze z Delfinami i Wielorybami- Specjalne Wydanie</album>
+    <album>Dźwięki Przyrody do Medytacji- Ognisko na Plaża w Bali</album>
+    <album>Dźwięki Przyrody do Spania- Górski Potok z Delikatny Deszczu</album>
+    <album>Dźwięki Przyrody do Spania- Górski Potok z Delikatny Deszczu- Specjalne Wydanie</album>
+    <album>Dźwięki Przyrody do Spania- Tybetański Śpiew Miski o Uzdrowienie- Specjalne Wydanie</album>
+    <album>Dźwięki z Nocy- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Dźwięki z Nocy- naturalne dźwięki</album>
+    <album>Dźwięków Natury dla Ciała i Ducha- Specjalne Wydanie</album>
+    <album>Dźwięków Natury do Spania- Krople Deszczu po Letniej Burzy- Specjalne Wydanie</album>
+    <album>Dźwięków Natury do Spania- Lasów Tropikalnych z Grzmot i Deszczem- Specjalne Wydanie</album>
+    <album>Dźwięków Natury do Spania- Lasu w Nocy i Odległy Grzmot- Specjalne Wydanie</album>
+    <album>Dźwięków Natury do Spania- Sobótka na Tropikalna Plaża</album>
+    <album>Dźwięków Natury do Spania- Sobótka na Tropikalna Plaża- Specjalne Wydanie</album>
+    <album>Dźwięków Natury do Spania- Tropikalna Plaża z Dźwiękiem Świerszczy</album>
+    <album>Dźwięków Natury do Spania- Ulewne Deszcze i Wiatr Huragan- Specjalne Wydanie</album>
+    <album>Dźwięków Natury na Studia- Szum Oceanu i Ptakami Morskimi- Specjalne Wydanie</album>
+    <album>Dźwięków Natury na Studia- Szum Oceanu z Ptakami Morskimi</album>
+    <album>Dźwięków Natury na Studia- Tropikalnych Wodospad z Dżungli Dzwięki</album>
+    <album>Dźwięków Natury na Studia- Tropikalnych Wodospad z Dżungli Dzwięki- Specjalne Wydanie</album>
+    <album>Elevated</album>
+    <album>Ferner Donner mit Regentropfen- Naturgeräusche</album>
+    <album>Geräusche der Natur pur für Körper und Geist- Sonderausgabe</album>
+    <album>Górski Potok z Letnim Deszczu- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Górski Potok z Letnim Deszczu- naturalne dźwięki</album>
+    <album>Got to Make It</album>
+    <album>Guayas (Remix)</album>
+    <album>Horského Potoka s Letní Vodni Srážky- zvuky přírody</album>
+    <album>Horský Potok s Sopečné Lávy- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Horský Potok s Sopečné Lávy- zvuky přírody</album>
+    <album>Huraganowe Wiatry i Ulewne Deszcze- naturalne dźwięki- Specjalne Wydanie</album>
+    <album>Hurikán Vítr a Přívalové Deště- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Hurrikan Winde und sintflutartige Regenfälle aus Florida- Naturgeräusche</album>
+    <album>Il Meglio</album>
+    <album>Joy</album>
+    <album>Krople Deszczu po Letniej Burzy- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>KRV I Navike</album>
+    <album>Kupi me</album>
+    <album>Las o Północy z Rzeki i Odległy Grzmot- naturalne dźwięki- Specjalne Wydanie</album>
+    <album>Lasów tropikalnych z dźwięki rzeki- naturalne dźwięki</album>
+    <album>Lasów tropikalnych z dźwięki rzeki- naturalne dźwięki- Specjalne Wydanie</album>
+    <album>Lasów Tropikalnych z Grzmotem i Deszczem- Dźwięki Natury</album>
+    <album>Lasów Tropikalnych z Grzmotem i Deszczem- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Léčivé Mísy v Letní Zahradě- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Les Půlnoci s Řekou a Vzdálené Hřmění- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Love and Other Mistakes</album>
+    <album>Magic</album>
+    <album>Meridian</album>
+    <album>Mokradła po Letniej Burzy- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Mokradła po Letniej Burzy- naturalne dźwięki</album>
+    <album>Mondscheindschungel mit entfernter Donner- Naturgeräusche</album>
+    <album>Morze dźwięków z delfinami i wielorybami- naturalne dźwięki- Specjalne Wydanie</album>
+    <album>Musica e follia... A venti metri dalla celebrità</album>
+    <album>Musujące Rzeka i Wulkanicznej Lawy- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Natur pur für Stressabbau- tropischen Wasserfall mit den Klängen des Dschungels</album>
+    <album>Natur pur- Reise des Flusses- von Berghöhle zum Meer- Sonderausgabe</album>
+    <album>Naturalne Dźwięki dla Ciała i Ducha- Specjalne Wydanie</album>
+    <album>Naturalne Dźwięki do Spania- Burza z Piorunami i Dźwiękiem Wilków- 120 Minut Specjalne Wydanie</album>
+    <album>Naturalne Dźwięki- Dźwięki Dżungli z Odległy Grzmotu- Specjalne Wydanie</album>
+    <album>Naturalne Dźwięki- Tropikalny Las z Piaszczystej Plaży- Specjalne Wydanie</album>
+    <album>Naturgeräusche für den Schlaf- Regentropfen nach einem Sommergewitter</album>
+    <album>Naturgeräusche für den Schlaf- Tibetische Klangschalen für die Heilung</album>
+    <album>Naturgeräusche für den Schlaf- tropischen Regenwald mit Donner und Regen</album>
+    <album>Naturgeräusche für den Schlaf- Wald um Mitternacht mit Bach und ferner Donner</album>
+    <album>Naturgeräusche für Studium- Prärie Gewitter mit dem Klang der Wölfe</album>
+    <album>Naturgeräusche zu schlafen- Geräusche der Nacht</album>
+    <album>Naturgeräusche zu schlafen- sintflutartige Regenfälle und Hurrikan Winde</album>
+    <album>ndaanaan</album>
+    <album>Ndaanaan</album>
+    <album>Oblázková Pláž s Mořskými Ptáky- Zvuky Přírody</album>
+    <album>Oblázková Pláž s Mořskými Ptáky- Zvuky Přírody- Zvláštní Vydání</album>
+    <album>Obustronne Dźwięki Natury- Krople Deszczu po Letniej Burzy</album>
+    <album>Odyssee</album>
+    <album>Ognisko w lesie o północy- naturalne dźwięki</album>
+    <album>Ognisko w lesie o północy- naturalne dźwięki- Specjalne Wydanie</album>
+    <album>Partitur 1- Wolferl</album>
+    <album>Partitur 10- Janus</album>
+    <album>Partitur 11- Bundting</album>
+    <album>Partitur 12- Anonymus</album>
+    <album>Partitur 13- Requiem (2023 Remastered Version)</album>
+    <album>Partitur 2- Rosignolo</album>
+    <album>Partitur 3- Schofar</album>
+    <album>Partitur 4- Faustus</album>
+    <album>Partitur 5- Samiel</album>
+    <album>Partitur 6- Theutobochus</album>
+    <album>Partitur 8- Sukkubus (2023 Remastered Version)</album>
+    <album>Partitur 9- Saladin</album>
+    <album>Pinewood Chirping</album>
+    <album>Prérie bouřka a zvukem vlků- zvuky přírody</album>
+    <album>Přírodní Zvuky pro Meditaci- Zvuky Moře s Delfíny a Velrybami</album>
+    <album>Přírodní Zvuky pro Meditaci- Zvuky z Chrámu a Zvonkohr- Zvláštní Vydáníy</album>
+    <album>Ptačí Zpěv s Klidnou Řeku- Zvuky Přírody</album>
+    <album>Ptačí Zpěv s Klidnou Řeku- Zvuky Přírody- Zvláštní Vydání</album>
+    <album>Ptačí Zpěv z Pouště v Arizoně- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Reise des Flusses- von Berghöhle zum Meer- Naturgeräusche</album>
+    <album>Retaking</album>
+    <album>rosa</album>
+    <album>Skybound Wings</album>
+    <album>Skyfly</album>
+    <album>Soaring Above</album>
+    <album>Sobótka i Burzliwa Noc- naturalne dźwięki- Specjalne Wydanie</album>
+    <album>Sobótka na Tropikalna Plaża- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Spa Peace</album>
+    <album>Śpiew Ptaków o Świcie- Dźwięki Natury</album>
+    <album>Śpiew Ptaków o Świcie- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Śpiew Ptaków z Pustyni w Arizonie- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Śpiew Ptaków z Spokojnej Rzeki- Dźwięki Natury</album>
+    <album>Śpiew Ptaków ze Spokojnej Rzeki- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Stürmischen Strand mit heulenden Winde- Naturgeräusche- Sonderausgabe</album>
+    <album>Taaru Sénégal</album>
+    <album>Táborák a bouřlivá noc- zvuky přírody</album>
+    <album>Táborák a Bouřlivá Noc- zvuky přírody- Zvláštní Vydání</album>
+    <album>Táborák na Tropické Pláži- Zvuky Přírody- Zvláštní Vydání</album>
+    <album>Táborák v lesích o půlnoci- zvuky přírody</album>
+    <album>Táborák v lesích o půlnoci- zvuky přírody- Zvláštní Vydání</album>
+    <album>Teorema</album>
+    <album>The Island</album>
+    <album>The Twilight</album>
+    <album>Tibetské Zpívající Mísy k Léčení- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Tibetské zpívající mísy k léčení- zvuky přírody</album>
+    <album>Time to Think</album>
+    <album>Tropická Pláž s Zvuk Cvrčků- Zvuky Přírody</album>
+    <album>Tropická Pláž s Zvuk Cvrčků- Zvuky Přírody- Zvláštní Vydání</album>
+    <album>Tropický Prales s Hromy a Déšť- Zvuky Přírody</album>
+    <album>Tropický Prales s Hromy a Déšť- Zvuky Přírody- Zvláštní Vydání</album>
+    <album>Tropický vodopád a zvuk deštného pralesa- zvuky přírody</album>
+    <album>Tropikalna Plaża z Dźwiękiem Świerszczy- Dźwięki Natury</album>
+    <album>Tropikalna Plaża z Dźwiękiem Świerszczy- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Tropikalny Las z Piaszczystej Plaży- naturalne dźwięki</album>
+    <album>Tropikalnych Wodospad z Dżungli Dźwięki- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Tropikalnych wodospad z dżungli dźwięki- naturalne dźwięki</album>
+    <album>Tybetański Śpiew Miski o Uzdrowienie- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Tybetański śpiew miski o uzdrowienie- naturalne dźwięki</album>
+    <album>Ulewne Deszcze i Wiatry- Dźwięki Natury</album>
+    <album>Ulewne Deszcze i Wiatry- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Ulewny Deszcz i Grzmoty z Montany- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Ulewny Deszcz i Grzmoty z Montany- naturalne dźwięki</album>
+    <album>Večeras</album>
+    <album>VI</album>
+    <album>Violetta - Basi e cori</album>
+    <album>Vogelgezwitscher aus der Wüste von Arizona- Naturgeräusche</album>
+    <album>Vydatný Déšť a Hrom z Montany- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Vydatný Déšť a Hrom z Montany- zvuky přírody</album>
+    <album>Vydatný Déšť a Vytí Větru- Zvuky Přírody</album>
+    <album>Vzdálený Hrom s Kapkami Deště- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Wiosna Nadchodzi z Śpiew Ptaków- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Wyjące Wiatry i Wiatr Kuranty- Dźwięki Natury- Specjalne Wydanie</album>
+    <album>Zpěv ptáků za úsvitu- zvuky přírody</album>
+    <album>Zpěv Ptáků za Úsvitu- Zvuky Přírody- Zvláštní Vydání</album>
+    <album>Zvuky moře s delfíny a velrybami- zvuky přírody</album>
+    <album>Zvuky moře s delfíny a velrybami- zvuky přírody- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Snížení Stresu- Táborák na Lesní Mýtině- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Snížení Stresu- Tropický Vodopád a Zvuky Džungle- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Spánek- Horského Potoka s Jemným Deště</album>
+    <album>Zvuky Přírody pro Spánek- Les v Noci a Vzdálené Hřmění- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Spánek- Přívalové Deště a Větry Hurikánu- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Spánek- Táborák na Tropické Pláži- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Spánek- Tibetské Zpívající Mísy k Léčení- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Spánek- Tibetské Zpívající Mísy na Spani- 120 Minut Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Spánek- Tropická Pláž s Zvuk Cvrčků</album>
+    <album>Zvuky Přírody pro Spánek- Tropická Pláž s Zvuk Cvrčků- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Studium- Prérie Bouřka a Zvukem Vlků- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Studium- Tropický Vodopád a Zvuk Deštného Pralesa</album>
+    <album>Zvuky Přírody pro Studium- Tropický Vodopád a Zvuky Deštného Pralesa- Zvláštní Vydání</album>
+    <album>Zvuky Přírody pro Studium- Zvuky Oceánu s Mořskými Ptáky</album>
+    <album>Zvuky Přírody pro Tělo i Duchai- Zvláštní Vydání</album>
+    <album>Zvuky Přírody- Zvuky Džungle a Vzdálené Hřmění- Zvláštní Vydání</album>
+    <album>Zvuky z Noci- Přírodní Zvuky- Zvláštní Vydání</album>
+    <album>Zvuky z Noci- zvuky přírody</album>
+    <album>Zwirowa Plaża z Ptaki Morskie- Dźwięki Natury</album>
+    <album>Zwirowa Plaża z Ptaki Morskie- Naturalne Dźwięki- Specjalne Wydanie</album>
+    <album>Алиса</album>
+    <album>Гипноз</album>
+    <album>Королевство</album>
+    <album>Эвдемония</album>
   </albums>
 </artist>

@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>rock</genre>
-  <genre>new-wave</genre>
-  <genre>classic-rock</genre>
-  <genre>80s</genre>
-  <genre>pop</genre>
+    <genre>new-wave</genre>
+    <genre>classic-rock</genre>
+    <genre>80s</genre>
+    <genre>pop</genre>
   </genres>
 </album>

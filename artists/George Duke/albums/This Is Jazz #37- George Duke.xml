@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>latin</genre>
-  <genre>jazz</genre>
-  <genre>funk</genre>
-  <genre>jazz-fusion</genre>
-  <genre>jazz-funk</genre>
+    <genre>jazz</genre>
+    <genre>funk</genre>
+    <genre>jazz-fusion</genre>
+    <genre>jazz-funk</genre>
   </genres>
 </album>

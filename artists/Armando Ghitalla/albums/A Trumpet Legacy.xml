@@ -2,8 +2,8 @@
 <album>
   <genres>
     <genre>classical</genre>
-  <genre>baroque</genre>
-  <genre>romantic</genre>
-  <genre>italian</genre>
+    <genre>baroque</genre>
+    <genre>romantic</genre>
+    <genre>italian</genre>
   </genres>
 </album>

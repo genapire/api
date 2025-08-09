@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>metal</genre>
-  <genre>nu-metal</genre>
-  <genre>hard-rock</genre>
-  <genre>heavy-metal</genre>
-  <genre>alternative-metal</genre>
+    <genre>nu-metal</genre>
+    <genre>hard-rock</genre>
+    <genre>heavy-metal</genre>
+    <genre>alternative-metal</genre>
   </genres>
 </album>

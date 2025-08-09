@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>piano</genre>
-  <genre>contemporary-classical</genre>
-  <genre>classic</genre>
-  <genre>modern-classical</genre>
-  <genre>neoclassical</genre>
+    <genre>contemporary-classical</genre>
+    <genre>classic</genre>
+    <genre>modern-classical</genre>
+    <genre>neoclassical</genre>
   </genres>
 </album>

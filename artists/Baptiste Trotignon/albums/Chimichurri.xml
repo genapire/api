@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>jazz</genre>
-  <genre>piano</genre>
-  <genre>jazz-piano</genre>
-  <genre>modern-jazz</genre>
-  <genre>latin-jazz</genre>
+    <genre>piano</genre>
+    <genre>jazz-piano</genre>
+    <genre>modern-jazz</genre>
+    <genre>latin-jazz</genre>
   </genres>
 </album>

@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>classic-rock</genre>
-  <genre>rock</genre>
-  <genre>progressive-rock</genre>
-  <genre>hard-rock</genre>
-  <genre>glam-rock</genre>
+    <genre>rock</genre>
+    <genre>progressive-rock</genre>
+    <genre>hard-rock</genre>
+    <genre>glam-rock</genre>
   </genres>
 </album>

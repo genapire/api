@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>classic-rock</genre>
-  <genre>90s</genre>
-  <genre>rock</genre>
-  <genre>hard-rock</genre>
-  <genre>psychedelic-rock</genre>
+    <genre>hard-rock</genre>
+    <genre>rock</genre>
+    <genre>blues-rock</genre>
+    <genre>guitar</genre>
   </genres>
 </album>

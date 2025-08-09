@@ -2,17 +2,20 @@
 <artist>
   <name>Cleo</name>
   <albums>
+    <album>10</album>
     <album>Alfabet Świateł</album>
-  <album>Alfabet Świateł</album>
-  <album>Bastet</album>
-  <album>Bastet</album>
-  <album>Bastet (Deluxe)</album>
-  <album>Bastet (Deluxe)</album>
-  <album>Number One</album>
-  <album>Number One</album>
-  <album>SuperNOVA</album>
-  <album>SuperNOVA</album>
-  <album>VINYLOVA</album>
-  <album>VINYLOVA</album>
+    <album>Bastet</album>
+    <album>Bastet (Deluxe)</album>
+    <album>Karminowe Usta</album>
+    <album>Kocham</album>
+    <album>Mniej Znaczy Więcej</album>
+    <album>Na fali</album>
+    <album>Na Fali</album>
+    <album>Number One</album>
+    <album>Pójdę z Tobą</album>
+    <album>SuperNOVA</album>
+    <album>TYLKO Z TOBĄ</album>
+    <album>VINYLOVA</album>
+    <album>W Telefonie</album>
   </albums>
 </artist>

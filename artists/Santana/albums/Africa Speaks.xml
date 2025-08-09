@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>latin</genre>
-  <genre>latin-rock</genre>
-  <genre>rock</genre>
-  <genre>classic-rock</genre>
-  <genre>jazz-fusion</genre>
+    <genre>latin-rock</genre>
+    <genre>rock</genre>
+    <genre>classic-rock</genre>
+    <genre>jazz-fusion</genre>
   </genres>
 </album>

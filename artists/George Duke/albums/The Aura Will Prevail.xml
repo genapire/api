@@ -2,8 +2,8 @@
 <album>
   <genres>
     <genre>jazz</genre>
-  <genre>jazz-fusion</genre>
-  <genre>funk</genre>
-  <genre>rock</genre>
+    <genre>jazz-fusion</genre>
+    <genre>funk</genre>
+    <genre>rock</genre>
   </genres>
 </album>

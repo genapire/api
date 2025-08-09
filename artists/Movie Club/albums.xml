@@ -2,19 +2,21 @@
 <artist>
   <name>Movie Club</name>
   <albums>
+    <album>Black Flamingo</album>
+    <album>Black Mamba</album>
+    <album>Cobra</album>
     <album>Fangtooth</album>
-  <album>Fangtooth</album>
-  <album>Hammerhead</album>
-  <album>Hammerhead</album>
-  <album>Kraken</album>
-  <album>Kraken</album>
-  <album>Man O' War</album>
-  <album>Man O' War</album>
-  <album>Moonbow</album>
-  <album>Moonbow</album>
-  <album>Thunder</album>
-  <album>Thunder</album>
-  <album>Trap Door</album>
-  <album>Trap Door</album>
+    <album>Goblin</album>
+    <album>Great White</album>
+    <album>Hammerhead</album>
+    <album>Kraken</album>
+    <album>Man O' War</album>
+    <album>Moonbow</album>
+    <album>Python</album>
+    <album>Spinner</album>
+    <album>Thresher</album>
+    <album>Thunder</album>
+    <album>Tiger</album>
+    <album>Trap Door</album>
   </albums>
 </artist>
