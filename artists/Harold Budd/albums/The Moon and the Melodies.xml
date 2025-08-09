@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    
+    <genre>ambient</genre>
+  <genre>dream-pop</genre>
+  <genre>post-rock</genre>
   </genres>
 </album>
