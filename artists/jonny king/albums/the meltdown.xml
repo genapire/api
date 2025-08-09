@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-  <genre>jazz</genre>
+    <genre>jazz</genre>
   <genre>piano</genre>
   <genre>jazz-piano</genre>
   <genre>piano-jazz</genre>

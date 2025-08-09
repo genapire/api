@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-  <genre>rock-n-roll</genre>
+    <genre>rock-n-roll</genre>
   <genre>hard-rock</genre>
   <genre>classic-rock</genre>
   <genre>rock</genre>

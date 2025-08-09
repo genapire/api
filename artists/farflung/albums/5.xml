@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-  <genre>space-rock</genre>
+    <genre>space-rock</genre>
   <genre>psychedelic-rock</genre>
   <genre>stoner-rock</genre>
   <genre>progressive-rock</genre>

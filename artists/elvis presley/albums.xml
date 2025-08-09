@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>elvis presley</name>
+  <albums>
+    <album>Elvis Back in Nashville</album>
+  <album>Elvis On Tour</album>
+  <album>From Elvis In Nashville</album>
+  <album>The Complete Million Dollar Quartet</album>
+  </albums>
+</artist>

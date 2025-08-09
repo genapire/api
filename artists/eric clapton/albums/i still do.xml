@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-  <genre>blues</genre>
+    <genre>blues</genre>
   <genre>rock</genre>
   <genre>blues-rock</genre>
   <genre>guitar</genre>

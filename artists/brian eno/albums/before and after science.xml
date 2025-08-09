@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-  <genre>art-rock</genre>
+    <genre>art-rock</genre>
   <genre>electronic</genre>
   <genre>ambient</genre>
   </genres>

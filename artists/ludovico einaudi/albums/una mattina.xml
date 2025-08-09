@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-  <genre>contemporary-classical</genre>
+    <genre>contemporary-classical</genre>
   <genre>neoclassical</genre>
   <genre>piano</genre>
   <genre>modern-classical</genre>

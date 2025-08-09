@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-  <genre>oldies</genre>
+    <genre>oldies</genre>
   <genre>60s</genre>
   <genre>cover</genre>
   <genre>classic-rock</genre>
