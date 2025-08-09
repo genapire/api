@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Mario</name>
+  <albums>
+    <album>Dancing Shadows</album>
+  <album>Go</album>
+  <album>Mario</album>
+  <album>Turning Point</album>
+  </albums>
+</artist>

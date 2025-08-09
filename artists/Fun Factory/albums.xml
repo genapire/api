@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Fun Factory</name>
+  <albums>
+    <album>ABC of Music</album>
+  <album>Back to the Factory</album>
+  <album>Next Generation</album>
+  </albums>
+</artist>
