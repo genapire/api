@@ -6,14 +6,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: "Welcome to Gen(API)re"
+title: "Welcome to GenAPIre"
 ---
 
 ## What
 
 GenAPIre is a response to the need for free access to music genres describing your music, provided in a normalized way, without unnecessary complexity.
-You can use the REST API and get a response in JSON or XML format. We can add more formats if needed. You can contribute too. Just let’s talk about it.
-Available to everyone, free, forever. You can buy me a coffee if you want. But you don’t have to. I’m glad I could help you.
+You can use the REST API and get a response in JSON or XML format. More formats can be added if needed. You can contribute too—just reach out!
+Available to everyone, free, forever. You can buy me a coffee if you want, but you don’t have to. I’m glad I could help.
 
 ## Why
 
@@ -37,7 +37,7 @@ The response is as follows:
 ```json
 {
     "genres": [
-        "pop",
+        "pop",  
         "70s",
         "disco"
     ]
@@ -48,7 +48,6 @@ The response is as follows:
 ### XML
 
 Now the same for XML:
-
 
 ```bash
 curl "https://genapire.online/artists/ABBA/albums/Waterloo.xml"
@@ -66,6 +65,70 @@ The response is as follows:
 </album>
 ```
 
+### API
+
+So, to get genres for a given artist and album, just call this endpoint:
+
+#### GET genres
+
+```bash
+curl "https://genapire.online/artists/{artist}/albums/{album}.(xml|json)"
+```
+
+But you can get more information.
+
+#### GET albums for artist
+
+```bash
+curl "https://genapire.online/artists/{artist}/albums.(xml|json)"
+```
+
+Now let’s fetch all available albums with genres for ABBA:
+
+```bash
+curl "https://genapire.online/artists/ABBA/albums.json"
+```
+
+```json
+{
+  "artist": "ABBA",
+  "albums": [
+    "Abba",
+    "ABBA Gold",
+    "Abba Gold Anniversary Edition",
+    "Arrival",
+    "Gracias Por La Musica (Deluxe Edition)",
+    "Live At Wembley Arena",
+    "More ABBA Gold",
+    "Oro -Grandes Exitos-",
+    "Ring Ring",
+    "Ring Ring (Deluxe Edition)",
+    "Super Trouper",
+    "Thank You For The Music",
+    "The Album",
+    "The Essential Collection",
+    "The Singles (The First Fifty Years)",
+    "The Visitors",
+    "The Visitors (Deluxe Edition)",
+    "Voulez-Vous",
+    "Voyage",
+    "Waterloo",
+    "Waterloo (Deluxe Edition)"
+  ]
+}
+```
+
+Similarly for XML—just change the extension.
+
+#### GET available artists
+
+There’s one more way to use genAPIre: fetch all available artists in genAPIre with genres for their albums.
+
+```bash
+curl "https://genapire.online/artists.(xml|json)"
+```
+
+I won’t show the response because it’s long and changes over time. I’m constantly working on it—for myself and for you :)
 
 ## Free, forever
 
@@ -77,4 +140,4 @@ Feel free to use however you like but please do not sell it. It is FREE for ever
 
 ## License
 
-The genapire is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).
