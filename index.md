@@ -18,7 +18,7 @@ Available to everyone, free, forever. You can buy me a coffee if you want, but y
 ## Why
 
 Like many people, I privately own a large collection of CDs and vinyl records. I love them. At some point, however, you may want to transfer your physical music library to a digital one and create your own digital music collection. You might encounter a problem related to music genres.
-There are several services like https://musicbrainz.org or https://www.last.fm, and great tools like https://beets.io which I admire and highly recommend.
+There are several services like [https://musicbrainz.org](https://musicbrainz.org) or [https://www.last.fm](https://musicbrainz.org), and great tools like [https://beets.io](https://musicbrainz.org) which I admire and highly recommend.
 Unfortunately, I’ve encountered issues with the quality of music genres in these sources. Additionally, as a developer, I wanted to make them available via a simple REST API for everyone.
 That’s how genAPIre was created, which builds knowledge about music genres for your and my music from various sources. Thanks to those mentioned above and github.com, of course.
 
