@@ -9,25 +9,25 @@ layout: home
 title: "Welcome to GenAPIre"
 ---
 
-## What
+# What
 
 GenAPIre is a response to the need for free access to music genres describing your music, provided in a normalized way, without unnecessary complexity.
 You can use the REST API and get a response in JSON or XML format. More formats can be added if needed. You can contribute too—just reach out!
 Available to everyone, free, forever. You can buy me a coffee if you want, but you don’t have to. I’m glad I could help.
 
-## Why
+# Why
 
 Like many people, I privately own a large collection of CDs and vinyl records. I love them. At some point, however, you may want to transfer your physical music library to a digital one and create your own digital music collection. You might encounter a problem related to music genres.
 There are several services like [https://musicbrainz.org](https://musicbrainz.org) or [https://www.last.fm](https://musicbrainz.org), and great tools like [https://beets.io](https://musicbrainz.org) which I admire and highly recommend.
 Unfortunately, I’ve encountered issues with the quality of music genres in these sources. Additionally, as a developer, I wanted to make them available via a simple REST API for everyone.
 That’s how genAPIre was created, which builds knowledge about music genres for your and my music from various sources. Thanks to those mentioned above and github.com, of course.
 
-## How
+# How
 
 To use this knowledge base, you need an HTTP client capable of making simple requests. Let’s do it now with curl:
 
 
-### JSON
+## JSON
 
 ```bash
 curl "https://genapire.online/artists/ABBA/albums/Waterloo.json"
@@ -44,8 +44,7 @@ The response is as follows:
 }
 ```
 
-
-### XML
+## XML
 
 Now the same for XML:
 
@@ -65,11 +64,11 @@ The response is as follows:
 </album>
 ```
 
-### API
+## API
 
 So, to get genres for a given artist and album, just call this endpoint:
 
-#### GET genres
+### GET genres
 
 ```bash
 curl "https://genapire.online/artists/{artist}/albums/{album}.(xml|json)"
@@ -77,7 +76,7 @@ curl "https://genapire.online/artists/{artist}/albums/{album}.(xml|json)"
 
 But you can get more information.
 
-#### GET albums for artist
+### GET albums for artist
 
 ```bash
 curl "https://genapire.online/artists/{artist}/albums.(xml|json)"
@@ -120,7 +119,7 @@ curl "https://genapire.online/artists/ABBA/albums.json"
 
 Similarly for XML—just change the extension.
 
-#### GET available artists
+### GET available artists
 
 There’s one more way to use genAPIre: fetch all available artists in genAPIre with genres for their albums.
 
@@ -130,7 +129,7 @@ curl "https://genapire.online/artists.(xml|json)"
 
 I won’t show the response because it’s long and changes over time. I’m constantly working on it—for myself and for you :)
 
-## FAQ
+# FAQ
 
 **Q: Why isn't artist "x" or album "y" for artist "z" available in genAPIre?**
 
@@ -143,7 +142,7 @@ I won’t show the response because it’s long and changes over time. I’m con
 For me, the biggest advantage was that I can provide different representations (JSON, XML) and host them on github.com, since it's a collection of directories and files that can be easily hosted statically.
 If your need can be met while maintaining these assumptions, then it's a yes.
 
-## Free, forever
+# Free, forever
 
 Feel free to use however you like but please do not sell it. It is FREE for everyone! FOREVER. You can buy me a coffee if you like to thank me.
 
@@ -151,6 +150,6 @@ Feel free to use however you like but please do not sell it. It is FREE for ever
 - [Ko-Fi](https://ko-fi.com/K3K11ABGW5)
 - [Patreon](https://patreon.com/Zenedith)
 
-## License
+# License
 
 The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).
