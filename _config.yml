@@ -14,12 +14,11 @@ defaults:
 
 exclude:
   - "_posts"
-  - "README.md"
 
-title: Gen(API)re
+title: GenAPIre
 
 author:
-  name: Gen(API)re
+  name: GenAPIre
   email: genapire@mobulum.com
 
 minima:
