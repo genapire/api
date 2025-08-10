@@ -1,28 +1,35 @@
 #remote_theme: jekyll/minima
 remote_theme: jekyll/minima@d4d779a
 
-
 collections:
- posts:
-  output: false
+  posts:
+    output: false
 
 defaults:
- - scope:
-    path: ""
-    type: "pages"
-   values:
-    layout: default
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
 
 exclude:
- - "_posts"
- - "README.md"
+  - "_posts"
+  - "README.md"
 
 title: Gen(API)re
 
 author:
- name: Gen(API)re
- email: genapire@mobulum.com
+  name: Gen(API)re
+  email: genapire@mobulum.com
 
 minima:
- skin: classic
+  skin: classic
+  social_links:
+    - title: genAPIre repository at GitHub
+      icon: github
+      url: "https://github.com/genapire/api"
+
+    - title: Discord server Mobulum/GenAPIre
+      icon: discord
+      url: "https://discord.gg/rwJcE5Zwez"
 

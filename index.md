@@ -130,6 +130,19 @@ curl "https://genapire.online/artists.(xml|json)"
 
 I won’t show the response because it’s long and changes over time. I’m constantly working on it—for myself and for you :)
 
+## FAQ
+
+**Q: Why isn't artist "x" or album "y" for artist "z" available in genAPIre?**
+
+**A:** This may change over time; you can help me add it if you want.
+
+
+**Q: Why REST API? I need access using technology "x".**
+
+**A:** REST API works great for managing this kind of information, i.e., resources. We have artists, artists have albums, described by genres.
+For me, the biggest advantage was that I can provide different representations (JSON, XML) and host them on github.com, since it's a collection of directories and files that can be easily hosted statically.
+If your need can be met while maintaining these assumptions, then it's a yes.
+
 ## Free, forever
 
 Feel free to use however you like but please do not sell it. It is FREE for everyone! FOREVER. You can buy me a coffee if you like to thank me.
