@@ -147,17 +147,22 @@ you :)
 
 **A:** Use [discord](https://discord.gg/rwJcE5Zwez)
 
-**Q: Why isn't artist "x" or album "y" for artist "z" available in genAPIre?**
+**Q: Why isn't artist "x" or album "y" for artist "z" available in genAPIre ?**
 
 **A:** This may change over time; you can help me add it if you want.
 
-**Q: Why REST API? I need access using technology "x".**
+**Q: Why REST API? I need access it using technology "x".**
 
 **A:** REST API works great for managing this kind of information, i.e., resources. We have artists, artists have
 albums, described by genres.
 For me, the biggest advantage was that I can provide different representations (JSON, XML) and host them on github.com,
 since it's a collection of directories and files that can be easily hosted statically.
 If your need can be met while maintaining these assumptions, then it's a yes.
+
+**Q: Will you create a plugin for jellyfin/beets/any ?**
+
+**A:** I have thought about it and have already started some work on a plugin for jellyfin, but for now C# defeated me :) 
+I would gladly accept help in this area. The list of contributions can't stay empty! :)
 
 # Free, forever
 
