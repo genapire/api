@@ -1,6 +1,9 @@
 #remote_theme: jekyll/minima
 remote_theme: jekyll/minima@d4d779a
 
+google_analytics: G-Y20Q9JQGGJ
+
+
 collections:
   posts:
     output: false
