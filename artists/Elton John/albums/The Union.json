@@ -1,8 +1,7 @@
 {
   "genres": [
-    "pop",
-    "classic-rock",
     "rock",
-    "piano"
+    "piano-rock",
+    "classic-rock"
   ]
 }

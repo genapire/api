@@ -87,6 +87,7 @@
     <artist>Adam Baldych</artist>
     <artist>Adam Baldych, Vincent Courtois, Rogier Telderman</artist>
     <artist>Adam Baldych, Yaron Herman</artist>
+    <artist>Adam Blackstone</artist>
     <artist>Adam Lambert</artist>
     <artist>Adam Skorupa</artist>
     <artist>Adele</artist>
@@ -97,6 +98,7 @@
     <artist>Adna</artist>
     <artist>Adriaan de Roover</artist>
     <artist>Adrian Chandler</artist>
+    <artist>Adrian Chandler, La Serenissima</artist>
     <artist>Adrian Crowley</artist>
     <artist>Adrianne Lenker</artist>
     <artist>Adriano Koch</artist>
@@ -124,6 +126,7 @@
     <artist>Ahkmed</artist>
     <artist>Aho Ssan</artist>
     <artist>Ahrix</artist>
+    <artist>aimyon</artist>
     <artist>Air</artist>
     <artist>Air Texture</artist>
     <artist>Airbag</artist>
@@ -282,6 +285,7 @@
     <artist>Aly & AJ</artist>
     <artist>Am And The Uv</artist>
     <artist>Am$trad Billionaire</artist>
+    <artist>Ama Louise</artist>
     <artist>AMADEUS</artist>
     <artist>Ambre Ciel</artist>
     <artist>Amel Bent</artist>
@@ -289,6 +293,7 @@
     <artist>Amel Larrieux</artist>
     <artist>Ameli in the Woods</artist>
     <artist>Ameli Paul</artist>
+    <artist>Amelia Rose</artist>
     <artist>Amenra</artist>
     <artist>Amerie</artist>
     <artist>Amii Stewart</artist>
@@ -423,6 +428,7 @@
     <artist>Antonio Pinto</artist>
     <artist>Antonio Reyes</artist>
     <artist>Antonio Vivaldi</artist>
+    <artist>Antonio Vivaldi, Ton Koopman, Arcangelo Corelli</artist>
     <artist>António Zambujo</artist>
     <artist>Antony and the Johnsons</artist>
     <artist>Antony Partos</artist>
@@ -452,6 +458,7 @@
     <artist>Arcane Device</artist>
     <artist>Arcangel</artist>
     <artist>Arcángel</artist>
+    <artist>Arcangelo Corelli</artist>
     <artist>Archie</artist>
     <artist>Archie Shepp</artist>
     <artist>Archie Shepp, Dollar Brand</artist>
@@ -497,11 +504,15 @@
     <artist>Artemas</artist>
     <artist>Arthur H</artist>
     <artist>Arthur Lee</artist>
+    <artist>Arthur Rubinstein</artist>
+    <artist>Arthur Rubinstein, New York Philharmonic Orchestra, Dimitri Mitropoulos</artist>
     <artist>Artist</artist>
     <artist>Artur Andrus</artist>
     <artist>Artur Gadowski</artist>
     <artist>Arve Henriksen</artist>
     <artist>Arve Henriksen, Harmen Fraanje</artist>
+    <artist>Arve Henriksen, Jan Bang</artist>
+    <artist>Arve Henriksen, Terje Isungset, Karl Seglem</artist>
     <artist>Arve Henriksen, Trygve Seim, Anders Jormin, Markku Ounaskari</artist>
     <artist>Arvo Pärt</artist>
     <artist>Asaf Avidan</artist>
@@ -663,6 +674,7 @@
     <artist>Beautify Junkyards</artist>
     <artist>Bebe Rexha</artist>
     <artist>Becca Mancari</artist>
+    <artist>Beck</artist>
     <artist>Becky Hill</artist>
     <artist>Becky Hill, Ella Eyre</artist>
     <artist>Bed Legs</artist>
@@ -1007,7 +1019,9 @@
     <artist>Bring Me The Horizon</artist>
     <artist>Britney Spears</artist>
     <artist>Brittany Howard</artist>
+    <artist>Broadway Project</artist>
     <artist>Brock Berrigan</artist>
+    <artist>Brodie</artist>
     <artist>Brodka</artist>
     <artist>Brodka, 1988</artist>
     <artist>Brodka, Jann, Urbanski</artist>
@@ -1218,6 +1232,12 @@
     <artist>Chet Baker Quintet</artist>
     <artist>Chet Baker, Art Pepper</artist>
     <artist>Chet Baker, Bill Evans</artist>
+    <artist>Chet Baker, Gerry Mulligan</artist>
+    <artist>Chet Baker, Jim Hall, Hubert Laws</artist>
+    <artist>Chet Baker, Johnny Pace</artist>
+    <artist>Chet Baker, Russ Freeman</artist>
+    <artist>Chet Baker, Stan Getz</artist>
+    <artist>Chet Baker, Wolfgang Lackerschmid</artist>
     <artist>Chet Faker</artist>
     <artist>Chevelle</artist>
     <artist>Chez Damier</artist>
@@ -1245,6 +1265,7 @@
     <artist>Chihei Hatakeyama</artist>
     <artist>Chihiro Onitsuka</artist>
     <artist>Chiiild</artist>
+    <artist>CHILD</artist>
     <artist>Childish Gambino</artist>
     <artist>Children Of Bodom</artist>
     <artist>chillwagon</artist>
@@ -1324,10 +1345,15 @@
     <artist>Claude Debussy</artist>
     <artist>Claude Debussy, Edvard Grieg, Erik Satie, Johannes Brahms, Gabriel Fauré, Jules Massenet, Felix Mendelssohn, Richard Wagner, Frédéric Chopin, Robert Schumann, Franz Schubert, Wolfgang Amadeus Mozart, Johann Sebastian Bach, Ludwig Van Beethoven</artist>
     <artist>Claude Debussy, Erik Satie, Johannes Brahms, Gabriel Fauré, Jules Massenet, Felix Mendelssohn, Richard Wagner, Frédéric Chopin, Robert Schumann, Franz Schubert, Wolfgang Amadeus Mozart, Johann Sebastian Bach, Ludwig Van Beethoven</artist>
+    <artist>Claude Debussy, Johann Sebastian Bach, Wolfgang Amadeus Mozart</artist>
+    <artist>Claude Debussy, Maurice Ravel</artist>
+    <artist>Claude Debussy, Maurice Ravel, Erik Satie</artist>
     <artist>Claude Hopkins</artist>
     <artist>Claude Hopkins and His Orchestra</artist>
     <artist>Claude Thornhill</artist>
     <artist>Claudio Abbado</artist>
+    <artist>Claudio Arrau</artist>
+    <artist>Claudio Arrau, Guido Cantelli, New York Philharmonic Orchestra</artist>
     <artist>Claudio Constantini</artist>
     <artist>Claudio Deoricibus</artist>
     <artist>Cleft</artist>
@@ -1336,6 +1362,7 @@
     <artist>Clemens Christian Poetzsch</artist>
     <artist>Clemens Krauss</artist>
     <artist>Clément Ducol</artist>
+    <artist>Clément Matrat</artist>
     <artist>Cleo</artist>
     <artist>Cleõphüzz</artist>
     <artist>Cliff Lin</artist>
@@ -1528,6 +1555,7 @@
     <artist>Danny Mulhern</artist>
     <artist>Danny Saul</artist>
     <artist>Danny Singh</artist>
+    <artist>DannyLux</artist>
     <artist>Danzel</artist>
     <artist>Daoudi</artist>
     <artist>Daphni</artist>
@@ -1962,6 +1990,7 @@
     <artist>Einstürzende Neubauten</artist>
     <artist>Eisbrecher</artist>
     <artist>Eivind Aarset</artist>
+    <artist>Eivind Aarset, Jan Bang</artist>
     <artist>Eivør</artist>
     <artist>Ekipa</artist>
     <artist>El DeBarge</artist>
@@ -2028,6 +2057,7 @@
     <artist>Elliott Sharp, Mary Halvorson, Marc Ribot</artist>
     <artist>Elliphant</artist>
     <artist>Ellis Marsalis</artist>
+    <artist>Ellroy</artist>
     <artist>Elmer Bernstein</artist>
     <artist>Elmiene</artist>
     <artist>Eloi Ragot</artist>
@@ -2115,6 +2145,7 @@
     <artist>Erik K. Skodvin</artist>
     <artist>Erik Satie</artist>
     <artist>Erik Satie, Johann Sebastian Bach, Robert Schumann, Claude Debussy, Jules Massenet, Gabriel Fauré, Ludwig Van Beethoven, Frédéric Chopin, Johannes Brahms, Wolfgang Amadeus Mozart, Franz Liszt, Camille Saint-Saëns, Richard Wagner</artist>
+    <artist>Erik Satie, Wolfgang Amadeus Mozart, Ludwig Van Beethoven, Franz Liszt, Felix Mendelssohn, Camille Saint-Saëns, Claude Debussy, Johannes Brahms, Johann Sebastian Bach, Richard Wagner, Maurice Ravel, Robert Schumann, Franz Schubert</artist>
     <artist>Erik Truffaz</artist>
     <artist>Erik Truffaz, Murcof</artist>
     <artist>Erki Pärnoja</artist>
@@ -2463,6 +2494,7 @@
     <artist>George Lewis</artist>
     <artist>George Martin</artist>
     <artist>George Michael</artist>
+    <artist>George Riley</artist>
     <artist>George Winston</artist>
     <artist>George Winston, Meryl Streep</artist>
     <artist>Georgia</artist>
@@ -2504,6 +2536,8 @@
     <artist>Giobia</artist>
     <artist>Giorgio Gaslini</artist>
     <artist>Giorgio Gaslini, Enrico Simonetti, Ennio Morricone, Alessandro Brugnolini</artist>
+    <artist>Giovanni di Domenico</artist>
+    <artist>Giovanni di Domenico, Arve Henriksen, Tatsuhisa Yamamoto</artist>
     <artist>Giovanni Paolo Fontana</artist>
     <artist>Giovanni Umberto Battel</artist>
     <artist>Girija Devi</artist>
@@ -2536,6 +2570,9 @@
     <artist>Goat</artist>
     <artist>Goatsnake</artist>
     <artist>God is an Astronaut</artist>
+    <artist>Goddard</artist>
+    <artist>Goddard.</artist>
+    <artist>Goddard., Brodie</artist>
     <artist>Goddess</artist>
     <artist>Gods And Monsters</artist>
     <artist>Godsmack</artist>
@@ -2626,6 +2663,7 @@
     <artist>Guaynaa</artist>
     <artist>gugusar</artist>
     <artist>Guido</artist>
+    <artist>Guido Cantelli</artist>
     <artist>Guilhem Desq</artist>
     <artist>Guillaume Poncelet</artist>
     <artist>Guilt Machine</artist>
@@ -2822,6 +2860,8 @@
     <artist>HILIGHT TRIBE</artist>
     <artist>Hilltop Hoods</artist>
     <artist>Hilmar Örn Hilmarsson</artist>
+    <artist>Hinds</artist>
+    <artist>Hinds, Beck</artist>
     <artist>Hint</artist>
     <artist>Hior Chronik</artist>
     <artist>Hiromi</artist>
@@ -2870,6 +2910,7 @@
     <artist>Hozier</artist>
     <artist>HRDY</artist>
     <artist>Huanastone</artist>
+    <artist>Hubert Laws</artist>
     <artist>Hugar</artist>
     <artist>Huge Molasses Tank Explodes</artist>
     <artist>Hugh Masekela</artist>
@@ -2927,6 +2968,7 @@
     <artist>If These Trees Could Talk</artist>
     <artist>Ifi Ude</artist>
     <artist>Iggy Pop</artist>
+    <artist>Iggy Pop, Tarwater, Alva Noto</artist>
     <artist>Igorrr</artist>
     <artist>Iiro Rantala</artist>
     <artist>Ikue Mori</artist>
@@ -3264,6 +3306,7 @@
     <artist>Johann Sebastian Bach, Eric Satie, Wolfgang Amadeus Mozart, Ludwig Van Beethoven, Frédéric Chopin, Richard Wagner, Franz Schubert, Robert Schumann, Franz Liszt</artist>
     <artist>Johann Sebastian Bach, Frédéric Chopin, Wolfgang Amadeus Mozart</artist>
     <artist>Johann Strauss II</artist>
+    <artist>Johann Strauss II, Ludwig Van Beethoven, Antonio Vivaldi</artist>
     <artist>Johann Strauss II, Pyotr Ilyich Tchaikovsky, Frédéric Chopin</artist>
     <artist>Johannes Bornlöf</artist>
     <artist>Johannes Brahms</artist>
@@ -3345,6 +3388,7 @@
     <artist>Johnny Hostile</artist>
     <artist>Johnny Jewel</artist>
     <artist>Johnny Klimek</artist>
+    <artist>Johnny Pace</artist>
     <artist>Joji</artist>
     <artist>JoJo</artist>
     <artist>Jøkleba</artist>
@@ -3533,6 +3577,7 @@
     <artist>Karl Bohm, Wiener Philharmoniker</artist>
     <artist>Karl Böhm, Wiener Philharmoniker</artist>
     <artist>Karl Jenkins</artist>
+    <artist>Karl Seglem</artist>
     <artist>Karma To Burn</artist>
     <artist>Karo Lynn</artist>
     <artist>Karol Beffa</artist>
@@ -3660,6 +3705,8 @@
     <artist>Kiko Loureiro</artist>
     <artist>Killing Joke</artist>
     <artist>Killinger</artist>
+    <artist>Kim Rysstad</artist>
+    <artist>Kim Rysstad, Arve Henriksen, Tord Gustavsen</artist>
     <artist>Kim Weston</artist>
     <artist>Kim Wilde</artist>
     <artist>Kim Wilde with Nik Kershaw</artist>
@@ -3718,6 +3765,7 @@
     <artist>Koan</artist>
     <artist>Koda</artist>
     <artist>Kodak Black</artist>
+    <artist>Kodomo</artist>
     <artist>Koffee</artist>
     <artist>Koffee Brown</artist>
     <artist>Kognitif</artist>
@@ -3870,6 +3918,7 @@
     <artist>Laura Branigan</artist>
     <artist>Laura Marling</artist>
     <artist>Laura Masotto</artist>
+    <artist>Laura Mvula</artist>
     <artist>Laura Pausini</artist>
     <artist>Laura Toxvaerd</artist>
     <artist>Laura Toxvaerd, Marilyn Mazur, Julie Kjær</artist>
@@ -3961,6 +4010,7 @@
     <artist>Lester Bowie</artist>
     <artist>Lester Flatt</artist>
     <artist>Lester Young</artist>
+    <artist>Leszek Mozdzer</artist>
     <artist>Leticia Moreno</artist>
     <artist>LeToya</artist>
     <artist>Levela</artist>
@@ -3981,6 +4031,7 @@
     <artist>Libor Pesek, Slovak Philharmonic Orchestra</artist>
     <artist>Library Tapes</artist>
     <artist>LIE NING</artist>
+    <artist>Light of Aidan</artist>
     <artist>Lightsabres</artist>
     <artist>Like A Villain</artist>
     <artist>Like Lovers</artist>
@@ -4004,6 +4055,7 @@
     <artist>Limahl</artist>
     <artist>Limousine</artist>
     <artist>Limp Bizkit</artist>
+    <artist>lina</artist>
     <artist>LINA</artist>
     <artist>Lincoln Center Jazz Orchestra</artist>
     <artist>LINK</artist>
@@ -4174,6 +4226,7 @@
     <artist>Lucinda Williams</artist>
     <artist>Lucio Dalla</artist>
     <artist>Luck</artist>
+    <artist>Lucki</artist>
     <artist>Luckson Padaud</artist>
     <artist>Lucky Daye</artist>
     <artist>Lucy Gooch</artist>
@@ -4370,6 +4423,7 @@
     <artist>Maria Callas</artist>
     <artist>Maria Campos</artist>
     <artist>Maria Chiara Argirò</artist>
+    <artist>Maria Karakusheva</artist>
     <artist>Maria Portelli</artist>
     <artist>Mariah Carey</artist>
     <artist>Marian Anderson</artist>
@@ -4493,6 +4547,7 @@
     <artist>Matoma</artist>
     <artist>Mats Eilertsen</artist>
     <artist>Mats Erlandsson</artist>
+    <artist>Mats Lidström</artist>
     <artist>Matt Fax</artist>
     <artist>Matthew Ryan</artist>
     <artist>Matthew Shipp</artist>
@@ -4733,6 +4788,7 @@
     <artist>Monster Magnet</artist>
     <artist>Montell Jordan</artist>
     <artist>Monty Alexander</artist>
+    <artist>Monty Alexander, Roy Hargrove</artist>
     <artist>Monty Norman</artist>
     <artist>Moodswings</artist>
     <artist>Moon Coven</artist>
@@ -4771,6 +4827,7 @@
     <artist>Mountainwolf</artist>
     <artist>Moura</artist>
     <artist>Moura Lympany</artist>
+    <artist>Mourning [A] BLKstar</artist>
     <artist>Movie Club</artist>
     <artist>Movie Maestros</artist>
     <artist>Mow</artist>
@@ -4900,6 +4957,7 @@
     <artist>New York City Band</artist>
     <artist>New York Philharmonic</artist>
     <artist>New York Philharmonic Orchestra</artist>
+    <artist>New York Philharmonic Orchestra, Dimitri Mitropoulos</artist>
     <artist>New York Philharmonic, Leonard Bernstein</artist>
     <artist>Newmoon</artist>
     <artist>Next</artist>
@@ -4914,6 +4972,7 @@
     <artist>Nicholas Lens, Nick Cave</artist>
     <artist>Nick Cave</artist>
     <artist>Nick Cave & The Bad Seeds</artist>
+    <artist>Nick Cave, Warren Ellis</artist>
     <artist>Nick Dow</artist>
     <artist>Nick Kingsley</artist>
     <artist>Nick Moss & The Flip Tops</artist>
@@ -5132,6 +5191,7 @@
     <artist>Oscar Peterson Trio, Ella Fitzgerald, Paul Weston & His Orchestra, Harry Carlton with Orchestra, Mr. Harry Fay with Quartet & Orchrestra, Queen's Dance Orchestra, Louis Armstrong, Oscar Peterson, Fred Astaire, Johnny Green & Orchestra</artist>
     <artist>Osi And The Jupiter</artist>
     <artist>Oso Leone</artist>
+    <artist>OSSO</artist>
     <artist>Osvaldo Golijov</artist>
     <artist>Otehi</artist>
     <artist>Other Lives</artist>
@@ -5193,6 +5253,7 @@
     <artist>Paradelous</artist>
     <artist>Paradise Lost</artist>
     <artist>Paradox Interactive</artist>
+    <artist>Paris Paloma</artist>
     <artist>Parliament</artist>
     <artist>Parov Stelar</artist>
     <artist>Parra for Cuva</artist>
@@ -5223,6 +5284,7 @@
     <artist>Paul Buchanan</artist>
     <artist>Paul Dixon</artist>
     <artist>Paul Engemann</artist>
+    <artist>Paul Grant</artist>
     <artist>Paul Hartnoll</artist>
     <artist>Paul Hindemith</artist>
     <artist>Paul Kalkbrenner</artist>
@@ -5403,6 +5465,7 @@
     <artist>Polash</artist>
     <artist>Polash, Jewel, Moni Kishor</artist>
     <artist>Poldoore</artist>
+    <artist>Polish National Radio Symphony Orchestra</artist>
     <artist>Polo & Pan</artist>
     <artist>Poltrock</artist>
     <artist>Poltrock, Adriaan de Roover</artist>
@@ -5800,11 +5863,13 @@
     <artist>Rush</artist>
     <artist>Rusko</artist>
     <artist>Rusko, Mozey</artist>
+    <artist>Russ Freeman</artist>
     <artist>Russ Morgan</artist>
     <artist>Russian Circles</artist>
     <artist>Russian National Orchestra</artist>
     <artist>Rustin Man</artist>
     <artist>Ruth Radelet</artist>
+    <artist>Ruthanne</artist>
     <artist>Ry Cooder</artist>
     <artist>RY X</artist>
     <artist>Ryan Adams</artist>
@@ -5907,6 +5972,7 @@
     <artist>Sash!</artist>
     <artist>Sasha Keable</artist>
     <artist>Sasha Lazard</artist>
+    <artist>SASKIA</artist>
     <artist>Saso</artist>
     <artist>Sasquatch</artist>
     <artist>Satine</artist>
@@ -6020,7 +6086,9 @@
     <artist>Sharon Jones</artist>
     <artist>Sharon Jones, The Dap-Kings</artist>
     <artist>Sharon Van Etten</artist>
+    <artist>Sharpson</artist>
     <artist>Sharshar</artist>
+    <artist>ShaSimone</artist>
     <artist>Shattered Worlds</artist>
     <artist>Shawn Mendes</artist>
     <artist>She Keeps Bees</artist>
@@ -6050,6 +6118,7 @@
     <artist>Shpongle</artist>
     <artist>Shrinebuilder</artist>
     <artist>Shusaku Uchiyama</artist>
+    <artist>Shuta Hasunuma</artist>
     <artist>SHXCXCHCXSH</artist>
     <artist>Shy FX</artist>
     <artist>Shygirl</artist>
@@ -6107,6 +6176,7 @@
     <artist>Skalpel</artist>
     <artist>Skantia</artist>
     <artist>Skee Mask</artist>
+    <artist>Skepsis</artist>
     <artist>Skepta</artist>
     <artist>Skindred</artist>
     <artist>Skraeckoedlan</artist>
@@ -6251,6 +6321,8 @@
     <artist>Spaceslug</artist>
     <artist>Spacetrucker</artist>
     <artist>Spandau Ballet</artist>
+    <artist>Sparklehorse</artist>
+    <artist>Sparklehorse, Fennesz</artist>
     <artist>Sparrow Sleeps</artist>
     <artist>Spencer Zahn</artist>
     <artist>Spice Girls</artist>
@@ -6306,6 +6378,8 @@
     <artist>Stefan Askenase, Ferenc Fricsay, Bruno Walter, André Cluytens, Fritz Reiner, RIAS-Symphonie-Orchester, Columbia Symphony Orchestra, Orchestre National de France, Wiener Philharmoniker</artist>
     <artist>Stefanie Joosten</artist>
     <artist>Stefano Bollani</artist>
+    <artist>Steffen Thum</artist>
+    <artist>Steffen Thum, Lorne Balfe</artist>
     <artist>Steindór Andersen</artist>
     <artist>Steinza</artist>
     <artist>Stephan Moccio</artist>
@@ -6374,6 +6448,8 @@
     <artist>Sufjan Stevens</artist>
     <artist>Sufjan Stevens, Angelo De Augustine</artist>
     <artist>Sufjan Stevens, Bryce Dessner, Nico Muhly, James McAlister</artist>
+    <artist>Sufjan Stevens, OSSO</artist>
+    <artist>Sufjan Stevens, Timo Andres</artist>
     <artist>Sugar Ray</artist>
     <artist>Suki Waterhouse</artist>
     <artist>Sullivan King</artist>
@@ -6487,11 +6563,13 @@
     <artist>Tara Nome Doyle</artist>
     <artist>Tarkovsky Quartet</artist>
     <artist>Taron Egerton</artist>
+    <artist>Tarwater</artist>
     <artist>Tasmin Little</artist>
     <artist>Tasmin Little, John Lenehan</artist>
     <artist>Tasmin Little, Martin Roscoe</artist>
     <artist>Tasmin Little, Piers Lane</artist>
     <artist>Tate McRae</artist>
+    <artist>Tatsuhisa Yamamoto</artist>
     <artist>Taufiq Qureshi</artist>
     <artist>Taurus</artist>
     <artist>Tawiah</artist>
@@ -6527,6 +6605,7 @@
     <artist>Tenzin Choegyal</artist>
     <artist>Teodor Wolgers</artist>
     <artist>Teriyaki Boyz</artist>
+    <artist>Terje Isungset</artist>
     <artist>Terje Rypdal</artist>
     <artist>Terranova</artist>
     <artist>Terrene</artist>
@@ -6563,11 +6642,13 @@
     <artist>The Beauty of Gemina</artist>
     <artist>The Bees</artist>
     <artist>The Beloved</artist>
+    <artist>The Best Pessimist</artist>
     <artist>The Bill</artist>
     <artist>The Biz</artist>
     <artist>The Black Angels</artist>
     <artist>The Black Crowes</artist>
     <artist>The Black Keys</artist>
+    <artist>The Black Keys, DannyLux</artist>
     <artist>The Black Queen</artist>
     <artist>The Blackbyrds</artist>
     <artist>The Blackwater Fever</artist>
@@ -6638,6 +6719,7 @@
     <artist>The Faltl Kemmeter Ensemble</artist>
     <artist>The Fatback Band</artist>
     <artist>The Fawbak Experiment</artist>
+    <artist>The Ferrules</artist>
     <artist>The Five Stairsteps</artist>
     <artist>The Flaming Lips</artist>
     <artist>The Flaming Lips, Stardeath And White Dwarfs</artist>
@@ -6664,6 +6746,7 @@
     <artist>The Hives</artist>
     <artist>The Holding Company</artist>
     <artist>The Hoochie Coochie Men</artist>
+    <artist>The Hoosiers</artist>
     <artist>The Howard Hughes Suite</artist>
     <artist>The HU</artist>
     <artist>The Humblebums</artist>
@@ -6676,6 +6759,7 @@
     <artist>The Isley Brothers</artist>
     <artist>The J.B.'s</artist>
     <artist>The Jackson 5</artist>
+    <artist>The Jacksons</artist>
     <artist>The Jazz Crusaders</artist>
     <artist>The Jeffrey Lee Pierce Sessions Project</artist>
     <artist>The John Barry Seven</artist>
@@ -6741,6 +6825,7 @@
     <artist>The Phenomenal Handclap Band</artist>
     <artist>The Philadelphia Orchestra</artist>
     <artist>The Philadelphia Orchestra, Eugene Ormandy</artist>
+    <artist>The Philadelphia Orchestra, Leopold Stokowski</artist>
     <artist>The Philharmonia Orchestra</artist>
     <artist>The Picturebooks</artist>
     <artist>The Pilgrim</artist>
@@ -6811,6 +6896,7 @@
     <artist>The Sword</artist>
     <artist>The Telling</artist>
     <artist>The Tennessee Two</artist>
+    <artist>The Third Man</artist>
     <artist>The Tokens</artist>
     <artist>The Toppers</artist>
     <artist>The Touré-Raichel Collective</artist>
@@ -6883,6 +6969,7 @@
     <artist>Tiësto, Mathame</artist>
     <artist>Tiger Army</artist>
     <artist>Tigran Hamasyan</artist>
+    <artist>Tigran Hamasyan, Arve Henriksen, Eivind Aarset, Jan Bang</artist>
     <artist>Till Lindemann</artist>
     <artist>Tilt</artist>
     <artist>Tim Booth</artist>
@@ -6896,6 +6983,7 @@
     <artist>Timboletti</artist>
     <artist>Timestone</artist>
     <artist>Timmy Trumpet</artist>
+    <artist>Timo Andres</artist>
     <artist>Tina Turner</artist>
     <artist>Tindersticks</artist>
     <artist>Tinlicker</artist>
@@ -6946,6 +7034,7 @@
     <artist>Tommy Flanagan Trio</artist>
     <artist>Tommy Guerrero</artist>
     <artist>Tommy Richman</artist>
+    <artist>Ton Koopman</artist>
     <artist>Tone Stith</artist>
     <artist>Tones and I</artist>
     <artist>Tonhalle-Orchester Zürich</artist>
@@ -6970,6 +7059,7 @@
     <artist>Tor</artist>
     <artist>Tor Lundvall</artist>
     <artist>TORCH SONG</artist>
+    <artist>Tord Gustavsen</artist>
     <artist>Tord Gustavsen Trio</artist>
     <artist>Tori Amos</artist>
     <artist>Torii Wolf</artist>
@@ -6987,6 +7077,7 @@
     <artist>Toxe</artist>
     <artist>TOXIC</artist>
     <artist>Toydrum</artist>
+    <artist>Toygar Işıklı</artist>
     <artist>Traces to Nowhere</artist>
     <artist>Track15 Female Composers Collective</artist>
     <artist>Traffic</artist>
@@ -7013,6 +7104,7 @@
     <artist>TREY MIRROR</artist>
     <artist>Trial (swe)</artist>
     <artist>Tricia McTeague</artist>
+    <artist>tRickY</artist>
     <artist>Tricky</artist>
     <artist>Trigg & Gusset</artist>
     <artist>Trilok Gurtu</artist>
@@ -7232,6 +7324,7 @@
     <artist>Wardruna</artist>
     <artist>Warhaus</artist>
     <artist>Warpaint</artist>
+    <artist>Warren Ellis</artist>
     <artist>Warren Zeiders</artist>
     <artist>Warren Zielinski</artist>
     <artist>Warsaw Village Band</artist>
@@ -7353,12 +7446,15 @@
     <artist>Wolf Larsen</artist>
     <artist>Wolfchant</artist>
     <artist>Wolfgang Amadeus Mozart</artist>
+    <artist>Wolfgang Lackerschmid</artist>
     <artist>Wolfgang Muthspiel</artist>
     <artist>Wolfmother</artist>
     <artist>Wooden Shjips</artist>
     <artist>Woodes</artist>
     <artist>Woodkid</artist>
     <artist>Woods Of Ypres</artist>
+    <artist>Woody & Kleiny</artist>
+    <artist>Woody & Kleiny, The Hoosiers, Naughty Boy</artist>
     <artist>Woody Herman</artist>
     <artist>Woody Herman And His Orchestra</artist>
     <artist>Woody Shaw</artist>
@@ -7479,6 +7575,7 @@
     <artist>Zamunda</artist>
     <artist>Zatox</artist>
     <artist>Zbigniew Preisner</artist>
+    <artist>Zbigniew Preisner, Leszek Mozdzer</artist>
     <artist>Zbigniew Wodecki</artist>
     <artist>Zdenek Kosler</artist>
     <artist>Zé Renato</artist>
