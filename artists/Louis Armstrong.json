@@ -1,34 +1,9 @@
 {
   "genres": [
     "jazz",
-    "blues",
     "swing",
+    "blues",
     "oldies",
-    "female-vocalists",
-    "soundtrack",
-    "50s",
-    "jazz-vocal",
-    "classic-jazz",
-    "20s",
-    "vocal-jazz",
-    "classical-jazz",
-    "vocal",
-    "easy-listening",
-    "gospel",
-    "piano",
-    "jazz-guitar",
-    "instrumental",
-    "jazz-fusion",
-    "early-jazz",
-    "30s",
-    "classic",
-    "soul",
-    "relaxing",
-    "cover",
-    "saxophone",
-    "american",
-    "guitar",
-    "country",
-    "classic-country"
+    "female-vocalists"
   ]
 }

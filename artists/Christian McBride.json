@@ -1,12 +1,9 @@
 {
   "genres": [
-    "jazz-fusion",
-    "instrumental",
     "jazz",
+    "jazz-fusion",
     "smooth-jazz",
     "funk",
-    "contemporary-jazz",
-    "jazz-bass",
-    "piano"
+    "instrumental"
   ]
 }

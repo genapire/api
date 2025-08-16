@@ -1,21 +1,9 @@
 {
   "genres": [
-    "rock",
     "classic-rock",
-    "blues",
+    "rock",
     "guitar",
-    "instrumental",
-    "soundtrack",
-    "chillout",
-    "pop",
-    "celtic",
-    "soft-rock",
-    "blues-rock",
-    "relaxing",
-    "folk",
-    "80s",
-    "acoustic",
-    "british",
-    "movie-soundtrack"
+    "blues",
+    "pop"
   ]
 }

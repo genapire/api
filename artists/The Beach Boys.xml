@@ -2,28 +2,9 @@
 <album>
   <genres>
     <genre>60s</genre>
-    <genre>classic-rock</genre>
     <genre>pop</genre>
-    <genre>surf</genre>
+    <genre>classic-rock</genre>
     <genre>rock</genre>
-    <genre>oldies</genre>
-    <genre>rock-and-roll</genre>
-    <genre>soft-rock</genre>
-    <genre>70s</genre>
-    <genre>pop-rock</genre>
-    <genre>folk</genre>
-    <genre>folk-rock</genre>
-    <genre>cover</genre>
-    <genre>country-rock</genre>
-    <genre>christmas</genre>
-    <genre>psychedelic-pop</genre>
-    <genre>progressive-rock</genre>
-    <genre>80s</genre>
-    <genre>synthpop</genre>
-    <genre>progressive-pop</genre>
-    <genre>psychedelic-rock</genre>
-    <genre>psychedelic</genre>
-    <genre>instrumental</genre>
-    <genre>christmas-music</genre>
+    <genre>surf</genre>
   </genres>
 </album>

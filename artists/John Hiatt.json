@@ -1,19 +1,9 @@
 {
   "genres": [
-    "new-wave",
-    "blues",
     "rock",
+    "blues",
     "americana",
-    "soft-rock",
-    "country",
     "country-rock",
-    "folk",
-    "classic-rock",
-    "blues-rock",
-    "80s",
-    "pop",
-    "indie",
-    "alternative",
-    "alternative-rock"
+    "country"
   ]
 }

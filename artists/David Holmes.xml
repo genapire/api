@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soundtrack</genre>
     <genre>electronic</genre>
-    <genre>trip-hop</genre>
-    <genre>ost</genre>
     <genre>chillout</genre>
+    <genre>soundtrack</genre>
+    <genre>trip-hop</genre>
     <genre>electronica</genre>
-    <genre>psychedelic</genre>
-    <genre>alternative</genre>
-    <genre>jazzy</genre>
-    <genre>90s</genre>
-    <genre>lounge</genre>
-    <genre>downtempo</genre>
-    <genre>shoegaze</genre>
   </genres>
 </album>

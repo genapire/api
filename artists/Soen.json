@@ -1,12 +1,9 @@
 {
   "genres": [
-    "rock",
     "progressive-rock",
     "progressive-metal",
+    "rock",
     "alternative-metal",
-    "ambient",
-    "metal",
-    "swedish",
-    "calm"
+    "ambient"
   ]
 }

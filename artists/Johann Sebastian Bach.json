@@ -1,14 +1,9 @@
 {
   "genres": [
     "classical",
-    "baroque",
     "instrumental",
+    "baroque",
     "piano",
-    "romantic",
-    "classical-piano",
-    "classic",
-    "classical-music",
-    "contemporary-classical",
-    "ambient"
+    "classical-piano"
   ]
 }

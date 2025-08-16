@@ -1,17 +1,9 @@
 {
   "genres": [
     "pop",
-    "80s",
     "soul",
+    "80s",
     "dance",
-    "70s",
-    "rnb",
-    "funk",
-    "dance-pop",
-    "90s",
-    "disco",
-    "rock",
-    "soft-rock",
-    "hard-rock"
+    "70s"
   ]
 }

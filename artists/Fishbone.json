@@ -1,18 +1,9 @@
 {
   "genres": [
-    "funk",
     "ska",
+    "funk",
     "rock",
     "punk",
-    "alternative",
-    "ska-punk",
-    "metal",
-    "psychedelic",
-    "party",
-    "funk-metal",
-    "alternative-rock",
-    "new-wave",
-    "cover",
-    "80s"
+    "alternative"
   ]
 }

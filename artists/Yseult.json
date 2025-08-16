@@ -1,14 +1,9 @@
 {
   "genres": [
     "french",
-    "soul",
     "pop",
     "indie",
-    "female-vocalists",
-    "alternative",
-    "alternative-pop",
-    "alternative-rock",
-    "experimental",
-    "french-pop"
+    "soul",
+    "female-vocalists"
   ]
 }

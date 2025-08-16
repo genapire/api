@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>disco</genre>
     <genre>soul</genre>
+    <genre>disco</genre>
     <genre>funk</genre>
-    <genre>70s</genre>
     <genre>dance</genre>
     <genre>female-vocalists</genre>
-    <genre>80s</genre>
-    <genre>80s-soul</genre>
   </genres>
 </album>

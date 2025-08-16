@@ -1,25 +1,9 @@
 {
   "genres": [
-    "electronic",
-    "dubstep",
     "alternative-rock",
-    "alternative",
     "rock",
     "nu-metal",
-    "electronic-rock",
-    "hip-hop",
-    "metal",
-    "rap-metal",
-    "electropop",
-    "pop",
-    "pop-rock",
-    "hard-rock",
-    "rap",
-    "alternative-metal",
-    "ambient-pop",
-    "punk",
-    "hardcore",
-    "american",
-    "hardcore-punk"
+    "alternative",
+    "electronic"
   ]
 }

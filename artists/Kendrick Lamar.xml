@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rap</genre>
     <genre>hip-hop</genre>
-    <genre>trap</genre>
+    <genre>rap</genre>
     <genre>jazz-rap</genre>
+    <genre>trap</genre>
     <genre>chill</genre>
-    <genre>funk</genre>
   </genres>
 </album>

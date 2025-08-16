@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>folk</genre>
-    <genre>lo-fi</genre>
-    <genre>folk-rock</genre>
-    <genre>cover</genre>
     <genre>rock</genre>
+    <genre>folk</genre>
+    <genre>folk-rock</genre>
     <genre>classic-rock</genre>
-    <genre>country</genre>
-    <genre>country-rock</genre>
-    <genre>1970s</genre>
     <genre>70s</genre>
-    <genre>acoustic</genre>
-    <genre>rock-and-roll</genre>
-    <genre>hard-rock</genre>
-    <genre>90s</genre>
-    <genre>80s</genre>
-    <genre>garage-rock</genre>
-    <genre>electronic</genre>
-    <genre>folk-singer-songwriter</genre>
-    <genre>60s</genre>
-    <genre>soundtrack</genre>
-    <genre>10s</genre>
-    <genre>psychedelic-rock</genre>
-    <genre>blues-rock</genre>
-    <genre>new-wave</genre>
   </genres>
 </album>

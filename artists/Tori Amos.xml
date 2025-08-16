@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>female-vocalists</genre>
     <genre>alternative</genre>
+    <genre>female-vocalists</genre>
     <genre>piano</genre>
     <genre>rock</genre>
     <genre>piano-rock</genre>
-    <genre>christmas</genre>
-    <genre>cover</genre>
-    <genre>covers</genre>
-    <genre>90s</genre>
-    <genre>alternative-pop</genre>
-    <genre>american</genre>
   </genres>
 </album>

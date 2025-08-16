@@ -1,14 +1,9 @@
 {
   "genres": [
-    "metal",
     "heavy-metal",
+    "metal",
     "hard-rock",
     "rock",
-    "80s",
-    "classic-rock",
-    "cover",
-    "90s",
-    "progressive-metal",
-    "chill"
+    "classic-rock"
   ]
 }

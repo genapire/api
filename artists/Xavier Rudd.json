@@ -1,15 +1,9 @@
 {
   "genres": [
-    "alternative",
-    "rock",
     "folk",
-    "alternative-rock",
-    "indie",
     "acoustic",
-    "blues",
-    "surf",
+    "indie",
     "reggae",
-    "cover",
-    "instrumental"
+    "alternative"
   ]
 }

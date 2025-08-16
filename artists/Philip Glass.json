@@ -1,21 +1,9 @@
 {
   "genres": [
-    "contemporary-classical",
     "classical",
+    "contemporary-classical",
     "soundtrack",
     "ambient",
-    "classic",
-    "saxophone",
-    "piano",
-    "instrumental",
-    "minimal",
-    "neoclassical",
-    "classical-piano",
-    "film-score",
-    "modern-classical",
-    "baroque",
-    "electronic",
-    "hip-hop",
-    "rap"
+    "piano"
   ]
 }

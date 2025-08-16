@@ -1,14 +1,9 @@
 {
   "genres": [
     "hard-rock",
-    "heavy-metal",
-    "rock",
     "metal",
-    "alternative-metal",
+    "rock",
     "nu-metal",
-    "acoustic",
-    "alternative-rock",
-    "post-grunge",
-    "pop-rock"
+    "alternative-metal"
   ]
 }

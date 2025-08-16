@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>neo-psych</genre>
     <genre>psychedelic-rock</genre>
     <genre>garage-rock</genre>
     <genre>psychedelic</genre>
+    <genre>neo-psych</genre>
     <genre>japanese</genre>
-    <genre>progressive-rock</genre>
   </genres>
 </album>

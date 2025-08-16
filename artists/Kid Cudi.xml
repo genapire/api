@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>hip-hop</genre>
     <genre>rap</genre>
+    <genre>hip-hop</genre>
     <genre>chill</genre>
     <genre>trap</genre>
     <genre>experimental-hip-hop</genre>
-    <genre>rock</genre>
-    <genre>alternative</genre>
-    <genre>alternative-rock</genre>
   </genres>
 </album>

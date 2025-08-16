@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>dream-pop</genre>
     <genre>electronic</genre>
+    <genre>dream-pop</genre>
     <genre>80s</genre>
     <genre>chillout</genre>
     <genre>gothic</genre>
-    <genre>90s</genre>
-    <genre>ambient</genre>
   </genres>
 </album>

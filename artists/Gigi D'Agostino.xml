@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>techno</genre>
-    <genre>trance</genre>
     <genre>dance</genre>
     <genre>electronic</genre>
+    <genre>trance</genre>
+    <genre>techno</genre>
     <genre>hard-trance</genre>
-    <genre>minimal</genre>
-    <genre>ambient</genre>
-    <genre>party</genre>
-    <genre>pop</genre>
   </genres>
 </album>

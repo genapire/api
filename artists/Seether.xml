@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative-rock</genre>
     <genre>rock</genre>
-    <genre>post-grunge</genre>
+    <genre>alternative-rock</genre>
     <genre>hard-rock</genre>
+    <genre>post-grunge</genre>
     <genre>alternative</genre>
-    <genre>metal</genre>
-    <genre>alternative-metal</genre>
-    <genre>nu-metal</genre>
-    <genre>dubstep</genre>
   </genres>
 </album>

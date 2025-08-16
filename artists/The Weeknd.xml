@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synthpop</genre>
-    <genre>synthwave</genre>
     <genre>rnb</genre>
-    <genre>pop</genre>
-    <genre>trap</genre>
     <genre>electronic</genre>
-    <genre>dubstep</genre>
+    <genre>pop</genre>
+    <genre>synthpop</genre>
     <genre>rb</genre>
-    <genre>rap</genre>
-    <genre>hip-hop</genre>
-    <genre>soundtrack</genre>
-    <genre>city-pop</genre>
-    <genre>downtempo</genre>
-    <genre>soul</genre>
-    <genre>dance</genre>
-    <genre>post-punk</genre>
   </genres>
 </album>

@@ -1,15 +1,9 @@
 {
   "genres": [
-    "hardcore",
     "alternative-metal",
-    "rock",
-    "alternative",
     "post-hardcore",
-    "metal",
-    "punk",
-    "hard-rock",
-    "cover",
-    "post-grunge",
-    "noise-rock"
+    "hardcore",
+    "rock",
+    "metal"
   ]
 }

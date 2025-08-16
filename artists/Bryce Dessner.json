@@ -1,15 +1,9 @@
 {
   "genres": [
-    "soundtrack",
-    "instrumental",
     "classical",
     "modern-classical",
     "contemporary-classical",
     "american",
-    "experimental",
-    "electronica",
-    "ambient",
-    "electronic",
-    "country"
+    "soundtrack"
   ]
 }

@@ -1,13 +1,9 @@
 {
   "genres": [
     "pop",
-    "acoustic",
-    "swing",
-    "jazz",
     "cover",
-    "christmas",
     "romantic",
-    "00s",
-    "90s"
+    "acoustic",
+    "swing"
   ]
 }

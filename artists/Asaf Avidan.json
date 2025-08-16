@@ -1,13 +1,9 @@
 {
   "genres": [
-    "melancholic",
-    "rock",
-    "ambient",
-    "indie",
     "folk",
-    "blues",
+    "rock",
+    "melancholic",
     "alternative",
-    "alternative-rock",
-    "folk-rock"
+    "ambient"
   ]
 }

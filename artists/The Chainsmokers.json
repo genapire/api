@@ -1,17 +1,9 @@
 {
   "genres": [
     "pop",
-    "dance",
-    "electro-pop",
-    "indie-pop",
     "electronic",
-    "indie",
-    "alternative",
-    "trap",
+    "dance",
     "house",
-    "electro-house",
-    "american",
-    "lofi",
-    "dance-pop"
+    "electro-house"
   ]
 }

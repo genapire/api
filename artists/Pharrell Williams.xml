@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>pop</genre>
     <genre>hip-hop</genre>
     <genre>rnb</genre>
     <genre>rap</genre>
-    <genre>pop</genre>
     <genre>soul</genre>
-    <genre>funk</genre>
-    <genre>reggae</genre>
-    <genre>latino</genre>
-    <genre>salsa</genre>
   </genres>
 </album>

@@ -1,12 +1,9 @@
 {
   "genres": [
     "french",
-    "chanson-francaise",
     "chanson",
+    "chanson-francaise",
     "cover",
-    "pop",
-    "punk",
-    "rock",
-    "alternative"
+    "pop"
   ]
 }

@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rap</genre>
-    <genre>hip-hop</genre>
     <genre>french</genre>
+    <genre>hip-hop</genre>
+    <genre>rap</genre>
     <genre>j-pop</genre>
     <genre>dance</genre>
-    <genre>japanese</genre>
-    <genre>pop</genre>
-    <genre>jpop</genre>
-    <genre>female-vocalists</genre>
-    <genre>french-rap</genre>
-    <genre>90s</genre>
   </genres>
 </album>

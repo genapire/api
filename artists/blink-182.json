@@ -1,16 +1,9 @@
 {
   "genres": [
-    "punk-rock",
     "pop-punk",
     "punk",
+    "punk-rock",
     "rock",
-    "alternative",
-    "trap",
-    "skate-punk",
-    "alternative-rock",
-    "pop-rock",
-    "pop",
-    "emo",
-    "power-pop"
+    "alternative"
   ]
 }

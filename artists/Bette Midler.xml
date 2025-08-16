@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>female-vocalists</genre>
     <genre>pop</genre>
+    <genre>female-vocalists</genre>
     <genre>80s</genre>
     <genre>rock</genre>
     <genre>cover</genre>
-    <genre>jazz</genre>
-    <genre>female-vocalist</genre>
-    <genre>70s</genre>
-    <genre>christmas</genre>
-    <genre>swing</genre>
-    <genre>covers</genre>
-    <genre>easy-listening</genre>
-    <genre>blues</genre>
-    <genre>soundtrack</genre>
-    <genre>pop-rock</genre>
-    <genre>90s</genre>
-    <genre>vocal</genre>
   </genres>
 </album>

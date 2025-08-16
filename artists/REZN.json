@@ -1,11 +1,9 @@
 {
   "genres": [
-    "metal",
     "psychedelic-rock",
-    "shoegaze",
     "doom-metal",
     "stoner-metal",
-    "ambient",
-    "psychedelic"
+    "shoegaze",
+    "ambient"
   ]
 }

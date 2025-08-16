@@ -1,12 +1,9 @@
 {
   "genres": [
-    "hip-hop",
     "rnb",
-    "rap",
     "pop",
-    "soul",
-    "funk",
-    "female",
-    "dance"
+    "hip-hop",
+    "rap",
+    "soul"
   ]
 }

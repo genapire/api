@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soul</genre>
     <genre>pop</genre>
-    <genre>female-vocalists</genre>
     <genre>british</genre>
+    <genre>soul</genre>
+    <genre>female-vocalists</genre>
     <genre>house</genre>
-    <genre>electronic</genre>
-    <genre>dance-pop</genre>
-    <genre>future-house</genre>
-    <genre>cover</genre>
-    <genre>chill</genre>
   </genres>
 </album>

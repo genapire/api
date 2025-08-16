@@ -1,31 +1,9 @@
 {
   "genres": [
-    "trance",
     "electronic",
+    "trance",
     "dance",
     "techno",
-    "electronica",
-    "progressive-trance",
-    "pop",
-    "dance-pop",
-    "classic",
-    "instrumental",
-    "electro",
-    "trap",
-    "rock",
-    "indie",
-    "hip-hop",
-    "90s",
-    "house",
-    "deep-house",
-    "party",
-    "progressive-house",
-    "uplifting-trance",
-    "minimal",
-    "chillout",
-    "hard-trance",
-    "chill-house",
-    "classic-trance",
-    "electropop"
+    "electronica"
   ]
 }

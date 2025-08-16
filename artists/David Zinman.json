@@ -1,13 +1,9 @@
 {
   "genres": [
     "classical",
-    "instrumental",
-    "romantic",
-    "classical-music",
-    "ambient",
     "contemporary-classical",
-    "polish",
-    "baroque",
-    "classic"
+    "ambient",
+    "instrumental",
+    "romantic"
   ]
 }

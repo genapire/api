@@ -1,17 +1,9 @@
 {
   "genres": [
-    "ambient",
     "contemporary-classical",
+    "ambient",
     "electronic",
     "modern-classical",
-    "soundtrack",
-    "film-score",
-    "classical",
-    "neoclassical",
-    "piano",
-    "instrumental",
-    "experimental",
-    "dark-ambient",
-    "neo-classical"
+    "soundtrack"
   ]
 }

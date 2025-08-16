@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>dance-pop</genre>
     <genre>polish</genre>
     <genre>pop</genre>
     <genre>rock</genre>
     <genre>female-vocalist</genre>
-    <genre>cover</genre>
+    <genre>dance-pop</genre>
   </genres>
 </album>

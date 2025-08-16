@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>lo-fi</genre>
-    <genre>90s</genre>
-    <genre>rock</genre>
     <genre>alternative</genre>
+    <genre>rock</genre>
     <genre>female-vocalists</genre>
-    <genre>indie</genre>
-    <genre>cover</genre>
-    <genre>blues</genre>
     <genre>alternative-rock</genre>
-    <genre>art-rock</genre>
-    <genre>folk-rock</genre>
-    <genre>piano</genre>
+    <genre>indie</genre>
   </genres>
 </album>

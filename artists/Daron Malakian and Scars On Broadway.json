@@ -1,12 +1,9 @@
 {
   "genres": [
-    "metal",
-    "hard-rock",
     "alternative-metal",
     "alternative-rock",
-    "american",
-    "cover",
-    "rock",
-    "nu-metal"
+    "nu-metal",
+    "hard-rock",
+    "rock"
   ]
 }

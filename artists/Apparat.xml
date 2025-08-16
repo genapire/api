@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>idm</genre>
     <genre>electronic</genre>
+    <genre>idm</genre>
     <genre>ambient</genre>
     <genre>experimental</genre>
-    <genre>electronica</genre>
-    <genre>dubstep</genre>
     <genre>minimal</genre>
-    <genre>glitch</genre>
-    <genre>electro</genre>
-    <genre>indie</genre>
-    <genre>pop</genre>
-    <genre>techno</genre>
-    <genre>progressive-techno</genre>
   </genres>
 </album>

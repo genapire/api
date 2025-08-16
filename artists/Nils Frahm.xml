@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>piano</genre>
-    <genre>ambient</genre>
     <genre>contemporary-classical</genre>
+    <genre>ambient</genre>
+    <genre>piano</genre>
     <genre>modern-classical</genre>
     <genre>neoclassical</genre>
-    <genre>minimal</genre>
-    <genre>instrumental</genre>
-    <genre>ost</genre>
-    <genre>electronic</genre>
-    <genre>melancholic</genre>
-    <genre>neo-classical</genre>
-    <genre>classical</genre>
-    <genre>progressive-electronic</genre>
   </genres>
 </album>

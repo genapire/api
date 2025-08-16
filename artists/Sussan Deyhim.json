@@ -1,12 +1,9 @@
 {
   "genres": [
-    "cover",
-    "ambient",
-    "vocal",
-    "female",
-    "rmx",
     "female-vocalists",
+    "ambient",
     "world-fusion",
-    "dark-ambient"
+    "cover",
+    "vocal"
   ]
 }

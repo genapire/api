@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-rock</genre>
-    <genre>rock</genre>
     <genre>acoustic</genre>
     <genre>indie</genre>
+    <genre>rock</genre>
+    <genre>indie-rock</genre>
     <genre>folk</genre>
-    <genre>alternative</genre>
-    <genre>ambient</genre>
-    <genre>americana</genre>
-    <genre>melancholy</genre>
   </genres>
 </album>

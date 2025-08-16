@@ -1,27 +1,9 @@
 {
   "genres": [
     "progressive-rock",
-    "ambient",
-    "instrumental",
     "new-age",
-    "experimental",
-    "80s",
-    "pop",
-    "rock",
-    "electronic",
-    "guitar",
-    "acoustic",
-    "90s",
-    "chillout",
-    "british",
-    "classical",
-    "symphonic-rock",
-    "christmas",
-    "celtic",
-    "disco",
-    "dance",
-    "electronica",
-    "trance",
-    "70s"
+    "instrumental",
+    "ambient",
+    "electronic"
   ]
 }

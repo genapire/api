@@ -1,11 +1,9 @@
 {
   "genres": [
     "ambient",
-    "dark-ambient",
-    "post-rock",
     "rock",
-    "indie",
-    "alternative-rock",
-    "indie-rock"
+    "indie-rock",
+    "dark-ambient",
+    "post-rock"
   ]
 }

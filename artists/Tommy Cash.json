@@ -1,12 +1,9 @@
 {
   "genres": [
-    "rap",
     "hip-hop",
-    "electronic",
-    "experimental",
+    "rap",
     "trap",
-    "pop",
-    "country",
-    "classic-country"
+    "experimental",
+    "country"
   ]
 }

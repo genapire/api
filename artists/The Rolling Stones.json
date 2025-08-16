@@ -1,23 +1,9 @@
 {
   "genres": [
-    "classic-rock",
     "rock",
+    "classic-rock",
     "60s",
     "british",
-    "blues",
-    "blues-rock",
-    "70s",
-    "hard-rock",
-    "psychedelic-rock",
-    "cover",
-    "90s",
-    "rock-and-roll",
-    "80s",
-    "pop",
-    "oldies",
-    "folk",
-    "psychedelic",
-    "garage-rock",
-    "rhythm-and-blues"
+    "blues"
   ]
 }

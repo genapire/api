@@ -1,14 +1,9 @@
 {
   "genres": [
-    "doom-metal",
     "stoner-metal",
+    "doom-metal",
     "stoner-rock",
     "progressive-rock",
-    "progressive-metal",
-    "psychedelic-rock",
-    "rock",
-    "heavy-metal",
-    "psychedelic",
-    "krautrock"
+    "psychedelic-rock"
   ]
 }

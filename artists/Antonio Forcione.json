@@ -1,9 +1,9 @@
 {
   "genres": [
-    "acoustic",
     "guitar",
+    "acoustic",
     "instrumental",
-    "covers",
-    "jazz"
+    "jazz",
+    "covers"
   ]
 }

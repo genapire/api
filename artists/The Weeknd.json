@@ -1,20 +1,9 @@
 {
   "genres": [
-    "synthpop",
-    "synthwave",
     "rnb",
-    "pop",
-    "trap",
     "electronic",
-    "dubstep",
-    "rb",
-    "rap",
-    "hip-hop",
-    "soundtrack",
-    "city-pop",
-    "downtempo",
-    "soul",
-    "dance",
-    "post-punk"
+    "pop",
+    "synthpop",
+    "rb"
   ]
 }

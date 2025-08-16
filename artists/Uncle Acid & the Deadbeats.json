@@ -1,13 +1,9 @@
 {
   "genres": [
-    "doom-metal",
     "psychedelic-rock",
+    "doom-metal",
     "stoner-rock",
-    "hard-rock",
     "psychedelic",
-    "rock",
-    "metal",
-    "acid-rock",
-    "heavy-metal"
+    "hard-rock"
   ]
 }

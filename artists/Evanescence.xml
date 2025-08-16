@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>metal</genre>
-    <genre>hard-rock</genre>
-    <genre>alternative-metal</genre>
-    <genre>soundtrack</genre>
-    <genre>gothic-metal</genre>
     <genre>rock</genre>
-    <genre>alternative-rock</genre>
-    <genre>symphonic-metal</genre>
     <genre>gothic-rock</genre>
     <genre>female-vocalists</genre>
-    <genre>alternative</genre>
     <genre>gothic</genre>
-    <genre>nu-metal</genre>
-    <genre>cover</genre>
+    <genre>alternative</genre>
   </genres>
 </album>

@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rnb</genre>
     <genre>soul</genre>
+    <genre>rnb</genre>
     <genre>female-vocalists</genre>
     <genre>pop</genre>
     <genre>00s</genre>
-    <genre>romantic</genre>
-    <genre>rhythm-and-blues</genre>
-    <genre>classic-soul</genre>
-    <genre>10s</genre>
-    <genre>christmas</genre>
-    <genre>dance</genre>
-    <genre>90s</genre>
   </genres>
 </album>

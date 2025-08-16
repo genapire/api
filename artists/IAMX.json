@@ -1,19 +1,9 @@
 {
   "genres": [
     "electronic",
-    "alternative",
     "synthpop",
+    "alternative",
     "trip-hop",
-    "electropop",
-    "alternative-pop",
-    "ambient-pop",
-    "indie",
-    "indietronica",
-    "industrial",
-    "electro-industrial",
-    "british",
-    "electronica",
-    "idm",
-    "glitch"
+    "electropop"
   ]
 }

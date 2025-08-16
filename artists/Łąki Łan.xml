@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>polish</genre>
-    <genre>soul</genre>
-    <genre>electronic</genre>
     <genre>funk</genre>
+    <genre>polish</genre>
+    <genre>electronic</genre>
+    <genre>soul</genre>
     <genre>psychedelic</genre>
-    <genre>pop</genre>
-    <genre>electropop</genre>
-    <genre>rock</genre>
-    <genre>experimental</genre>
   </genres>
 </album>

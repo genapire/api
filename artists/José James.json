@@ -1,14 +1,9 @@
 {
   "genres": [
-    "jazz",
     "soul",
+    "jazz",
     "nu-jazz",
-    "neo-soul",
     "vocal-jazz",
-    "jazz-fusion",
-    "rnb",
-    "christmas",
-    "acid-jazz",
-    "jazz-vocal"
+    "neo-soul"
   ]
 }

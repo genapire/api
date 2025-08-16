@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>polish</genre>
     <genre>alternative</genre>
+    <genre>post-punk</genre>
+    <genre>polish</genre>
     <genre>rock</genre>
     <genre>alternative-rock</genre>
-    <genre>post-punk</genre>
-    <genre>ambient</genre>
-    <genre>new-wave</genre>
-    <genre>cold-wave</genre>
-    <genre>punk-rock</genre>
   </genres>
 </album>

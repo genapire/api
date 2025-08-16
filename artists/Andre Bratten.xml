@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>techno</genre>
-    <genre>electronic</genre>
     <genre>space-disco</genre>
     <genre>house</genre>
     <genre>deep-house</genre>
-    <genre>electro</genre>
-    <genre>ambient</genre>
+    <genre>techno</genre>
+    <genre>electronic</genre>
   </genres>
 </album>

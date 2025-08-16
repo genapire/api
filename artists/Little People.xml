@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>trip-hop</genre>
     <genre>electronic</genre>
+    <genre>trip-hop</genre>
     <genre>instrumental</genre>
     <genre>instrumental-hip-hop</genre>
     <genre>downtempo</genre>
-    <genre>hip-hop</genre>
-    <genre>synth-pop</genre>
-    <genre>lo-fi-beat</genre>
-    <genre>electronica</genre>
   </genres>
 </album>

@@ -1,12 +1,9 @@
 {
   "genres": [
-    "free-jazz",
     "jazz",
-    "avant-garde-jazz",
-    "cover",
+    "free-jazz",
     "jazz-fusion",
-    "contemporary-jazz",
-    "experimental",
-    "noise"
+    "avant-garde-jazz",
+    "cover"
   ]
 }

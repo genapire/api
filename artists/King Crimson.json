@@ -1,21 +1,9 @@
 {
   "genres": [
     "progressive-rock",
-    "experimental",
-    "classic-rock",
-    "rock",
     "art-rock",
-    "80s",
-    "new-wave",
-    "jazz",
-    "psychedelic",
-    "psychedelic-rock",
-    "70s",
-    "jazz-fusion",
-    "instrumental",
-    "jazz-rock",
-    "10s",
-    "hard-rock",
-    "progressive-metal"
+    "experimental",
+    "rock",
+    "classic-rock"
   ]
 }

@@ -1,14 +1,9 @@
 {
   "genres": [
-    "symphonic-metal",
-    "black-metal",
-    "metal",
     "gothic-metal",
-    "melodic-black-metal",
     "doom-metal",
-    "gothic",
-    "melodic-death-metal",
-    "death-metal",
-    "industrial-metal"
+    "metal",
+    "black-metal",
+    "melodic-black-metal"
   ]
 }

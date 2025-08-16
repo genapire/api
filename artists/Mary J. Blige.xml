@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>christmas</genre>
     <genre>soul</genre>
     <genre>rnb</genre>
     <genre>female-vocalists</genre>
     <genre>hip-hop</genre>
-    <genre>20s</genre>
     <genre>90s</genre>
-    <genre>rap</genre>
-    <genre>pop</genre>
-    <genre>cover</genre>
-    <genre>rock</genre>
-    <genre>neo-soul</genre>
-    <genre>10s</genre>
   </genres>
 </album>

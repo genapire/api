@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-rock</genre>
     <genre>indie</genre>
+    <genre>indie-rock</genre>
     <genre>alternative</genre>
     <genre>british</genre>
     <genre>britpop</genre>
-    <genre>rock</genre>
-    <genre>easy-listening</genre>
-    <genre>00s</genre>
   </genres>
 </album>

@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
-    <genre>electropop</genre>
-    <genre>alternative-pop</genre>
     <genre>synthpop</genre>
-    <genre>alternative</genre>
     <genre>indie</genre>
+    <genre>electropop</genre>
+    <genre>alternative</genre>
     <genre>ambient-pop</genre>
-    <genre>dream-pop</genre>
-    <genre>folk</genre>
-    <genre>indie-pop</genre>
   </genres>
 </album>

@@ -1,15 +1,9 @@
 {
   "genres": [
-    "christmas",
-    "rnb",
-    "soul",
     "pop",
-    "female-vocalists",
+    "rnb",
     "trap",
-    "electropop",
-    "house",
-    "cover",
-    "rap",
-    "hip-hop"
+    "female-vocalists",
+    "soul"
   ]
 }

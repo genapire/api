@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>nu-metal</genre>
-    <genre>alternative-metal</genre>
-    <genre>industrial-metal</genre>
-    <genre>industrial</genre>
-    <genre>polish</genre>
     <genre>hard-rock</genre>
+    <genre>polish</genre>
     <genre>metal</genre>
-    <genre>hardcore</genre>
-    <genre>alternative</genre>
     <genre>rock</genre>
-    <genre>alternative-rock</genre>
+    <genre>alternative</genre>
   </genres>
 </album>

@@ -1,11 +1,9 @@
 {
   "genres": [
     "folk-metal",
-    "viking-metal",
     "progressive-metal",
+    "viking-metal",
     "metal",
-    "power-metal",
-    "heavy-metal",
-    "folk"
+    "heavy-metal"
   ]
 }

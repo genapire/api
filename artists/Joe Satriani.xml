@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rock</genre>
     <genre>instrumental-rock</genre>
     <genre>instrumental</genre>
+    <genre>rock</genre>
     <genre>guitar</genre>
-    <genre>melodic</genre>
-    <genre>american</genre>
     <genre>hard-rock</genre>
-    <genre>progressive-rock</genre>
   </genres>
 </album>

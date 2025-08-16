@@ -1,17 +1,9 @@
 {
   "genres": [
-    "idm",
     "electronic",
+    "idm",
     "ambient",
     "experimental",
-    "electronica",
-    "dubstep",
-    "minimal",
-    "glitch",
-    "electro",
-    "indie",
-    "pop",
-    "techno",
-    "progressive-techno"
+    "minimal"
   ]
 }

@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>electronic</genre>
-    <genre>dubstep</genre>
     <genre>alternative-rock</genre>
-    <genre>alternative</genre>
     <genre>rock</genre>
     <genre>nu-metal</genre>
-    <genre>electronic-rock</genre>
-    <genre>hip-hop</genre>
-    <genre>metal</genre>
-    <genre>rap-metal</genre>
-    <genre>electropop</genre>
-    <genre>pop</genre>
-    <genre>pop-rock</genre>
-    <genre>hard-rock</genre>
-    <genre>rap</genre>
-    <genre>alternative-metal</genre>
-    <genre>ambient-pop</genre>
-    <genre>punk</genre>
-    <genre>hardcore</genre>
-    <genre>american</genre>
-    <genre>hardcore-punk</genre>
+    <genre>alternative</genre>
+    <genre>electronic</genre>
   </genres>
 </album>

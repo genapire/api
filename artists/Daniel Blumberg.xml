@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>experimental</genre>
     <genre>art-rock</genre>
     <genre>jazz</genre>
-    <genre>experimental</genre>
     <genre>indie-rock</genre>
-    <genre>post-rock</genre>
     <genre>soundtrack</genre>
   </genres>
 </album>

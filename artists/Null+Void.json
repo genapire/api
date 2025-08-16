@@ -1,14 +1,9 @@
 {
   "genres": [
-    "synthpop",
     "electronic",
+    "synthpop",
     "techno",
     "new-wave",
-    "alternative",
-    "rock",
-    "glitch",
-    "minimal",
-    "ambient",
-    "experimental"
+    "alternative"
   ]
 }

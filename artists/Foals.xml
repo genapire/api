@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>math-rock</genre>
     <genre>indie-rock</genre>
     <genre>indie</genre>
-    <genre>deep-house</genre>
-    <genre>chill-house</genre>
+    <genre>math-rock</genre>
     <genre>british</genre>
     <genre>electronic</genre>
-    <genre>drum-and-bass</genre>
-    <genre>rock</genre>
-    <genre>synthpop</genre>
   </genres>
 </album>

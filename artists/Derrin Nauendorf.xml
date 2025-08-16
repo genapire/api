@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>guitar</genre>
     <genre>acoustic</genre>
     <genre>blues</genre>
     <genre>blues-rock</genre>
-    <genre>italian</genre>
     <genre>folk</genre>
-    <genre>covers</genre>
-    <genre>cover</genre>
+    <genre>guitar</genre>
   </genres>
 </album>

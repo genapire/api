@@ -1,70 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rock</genre>
-    <genre>gospel</genre>
-    <genre>hard-rock</genre>
-    <genre>psychedelic-trance</genre>
     <genre>polish</genre>
-    <genre>poezja-spiewana</genre>
-    <genre>hip-hop</genre>
-    <genre>rap</genre>
-    <genre>jazz</genre>
-    <genre>blues</genre>
-    <genre>blues-rock</genre>
-    <genre>polish-rock</genre>
-    <genre>punk</genre>
-    <genre>ska</genre>
-    <genre>reggae</genre>
     <genre>pop</genre>
-    <genre>psytrance</genre>
-    <genre>psychedelic</genre>
-    <genre>party</genre>
-    <genre>dance</genre>
-    <genre>progressive-metal</genre>
-    <genre>thrash-metal</genre>
-    <genre>90s</genre>
-    <genre>drum-and-bass</genre>
-    <genre>electronic</genre>
-    <genre>electro</genre>
-    <genre>techno</genre>
-    <genre>progressive-rock</genre>
-    <genre>classic-rock</genre>
-    <genre>indie</genre>
-    <genre>new-wave</genre>
-    <genre>power-metal</genre>
-    <genre>heavy-metal</genre>
-    <genre>funk</genre>
-    <genre>korean</genre>
-    <genre>metal</genre>
-    <genre>electro-house</genre>
-    <genre>trip-hop</genre>
-    <genre>experimental</genre>
-    <genre>80s</genre>
-    <genre>cover</genre>
-    <genre>female-vocalists</genre>
-    <genre>polish-jazz</genre>
-    <genre>soul</genre>
-    <genre>house</genre>
-    <genre>contemporary-classical</genre>
-    <genre>instrumental</genre>
-    <genre>classical</genre>
-    <genre>hardcore</genre>
-    <genre>alternative</genre>
-    <genre>female-vocalist</genre>
-    <genre>indie-pop</genre>
-    <genre>pop-rock</genre>
-    <genre>soundtrack</genre>
-    <genre>acoustic</genre>
-    <genre>dub</genre>
-    <genre>post-punk</genre>
-    <genre>melancholic</genre>
-    <genre>classic</genre>
-    <genre>folk</genre>
-    <genre>polish-hip-hop</genre>
-    <genre>smooth-jazz</genre>
-    <genre>nature</genre>
-    <genre>ambient</genre>
-    <genre>gothic</genre>
+    <genre>jazz</genre>
+    <genre>rock</genre>
+    <genre>hip-hop</genre>
   </genres>
 </album>

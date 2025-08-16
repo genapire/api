@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative-rock</genre>
-    <genre>post-hardcore</genre>
-    <genre>hardcore-punk</genre>
-    <genre>alternative-metal</genre>
     <genre>rnb</genre>
-    <genre>chillout</genre>
-    <genre>soul</genre>
-    <genre>chillwave</genre>
     <genre>indie</genre>
-    <genre>hip-hop</genre>
-    <genre>british</genre>
+    <genre>chillwave</genre>
     <genre>indie-pop</genre>
-    <genre>synthpop</genre>
-    <genre>saxophone</genre>
-    <genre>disco</genre>
-    <genre>10s</genre>
+    <genre>british</genre>
   </genres>
 </album>

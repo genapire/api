@@ -1,14 +1,9 @@
 {
   "genres": [
     "electro",
-    "experimental",
     "electronic",
     "synthpop",
     "disco",
-    "electro-disco",
-    "minimal",
-    "synthwave",
-    "new-wave",
-    "indietronica"
+    "experimental"
   ]
 }

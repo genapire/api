@@ -1,18 +1,9 @@
 {
   "genres": [
-    "rock",
-    "alternative",
     "nu-metal",
-    "alternative-rock",
+    "alternative",
+    "rock",
     "metal",
-    "rap-metal",
-    "alternative-metal",
-    "hip-hop",
-    "hard-rock",
-    "heavy-metal",
-    "punk",
-    "hardcore",
-    "rap",
-    "post-rock"
+    "rap-metal"
   ]
 }

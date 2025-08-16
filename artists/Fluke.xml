@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>idm</genre>
-    <genre>electronica</genre>
-    <genre>90s</genre>
-    <genre>british</genre>
     <genre>electronic</genre>
+    <genre>electronica</genre>
     <genre>techno</genre>
     <genre>dance</genre>
-    <genre>house</genre>
-    <genre>deep-house</genre>
-    <genre>trance</genre>
-    <genre>trip-hop</genre>
-    <genre>chill</genre>
-    <genre>experimental</genre>
+    <genre>90s</genre>
   </genres>
 </album>

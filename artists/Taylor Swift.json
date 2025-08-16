@@ -1,21 +1,9 @@
 {
   "genres": [
     "pop",
-    "synthpop",
-    "female-vocalists",
-    "electropop",
-    "dream-pop",
-    "folk",
-    "folk-pop",
     "country",
-    "alternative-rock",
-    "acoustic",
-    "indie-pop",
-    "pop-rock",
-    "rock",
-    "dance",
-    "power-pop",
-    "00s",
-    "christmas"
+    "female-vocalists",
+    "synthpop",
+    "dream-pop"
   ]
 }

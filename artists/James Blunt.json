@@ -1,15 +1,9 @@
 {
   "genres": [
     "pop",
+    "rock",
     "acoustic",
     "indie",
-    "rock",
-    "british",
-    "soft-rock",
-    "folk-rock",
-    "alternative",
-    "house",
-    "pop-rock",
-    "folk"
+    "british"
   ]
 }

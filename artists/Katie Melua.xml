@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
     <genre>jazz</genre>
+    <genre>pop</genre>
     <genre>female-vocalists</genre>
     <genre>blues</genre>
     <genre>indie-pop</genre>
-    <genre>christmas</genre>
-    <genre>romantic</genre>
-    <genre>female-vocalist</genre>
-    <genre>electronic</genre>
-    <genre>cover</genre>
-    <genre>covers</genre>
-    <genre>folk</genre>
-    <genre>lounge</genre>
   </genres>
 </album>

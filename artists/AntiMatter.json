@@ -1,13 +1,9 @@
 {
   "genres": [
-    "rock",
     "progressive-rock",
-    "alternative",
-    "gothic-rock",
     "melancholic",
-    "alternative-rock",
     "ambient",
     "dark-ambient",
-    "trip-hop"
+    "rock"
   ]
 }

@@ -1,12 +1,9 @@
 {
   "genres": [
-    "electropop",
-    "alternative",
     "synthpop",
     "indie-pop",
-    "psychedelic-pop",
-    "ambient",
-    "folk",
-    "pop"
+    "alternative",
+    "electropop",
+    "psychedelic-pop"
   ]
 }

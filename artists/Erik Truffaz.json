@@ -1,16 +1,9 @@
 {
   "genres": [
     "jazz",
-    "instrumental",
-    "nu-jazz",
     "jazz-fusion",
-    "ambient",
-    "experimental",
-    "idm",
-    "downtempo",
-    "contemporary-jazz",
     "acid-jazz",
-    "chillout",
-    "calm"
+    "nu-jazz",
+    "contemporary-jazz"
   ]
 }

@@ -1,16 +1,9 @@
 {
   "genres": [
-    "classic-rock",
     "hard-rock",
     "rock",
+    "classic-rock",
     "70s",
-    "progressive-rock",
-    "blues-rock",
-    "folk-rock",
-    "art-rock",
-    "1970s",
-    "folk",
-    "heavy-metal",
-    "rock-and-roll"
+    "blues-rock"
   ]
 }

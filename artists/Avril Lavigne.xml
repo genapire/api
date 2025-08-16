@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>rock</genre>
     <genre>pop-rock</genre>
     <genre>pop</genre>
-    <genre>rock</genre>
     <genre>female-vocalists</genre>
-    <genre>alternative-rock</genre>
-    <genre>soundtrack</genre>
     <genre>pop-punk</genre>
-    <genre>power-pop</genre>
-    <genre>alternative</genre>
-    <genre>punk</genre>
-    <genre>acoustic</genre>
-    <genre>indie</genre>
-    <genre>alt-rock</genre>
-    <genre>post-grunge</genre>
-    <genre>emo</genre>
-    <genre>skate-punk</genre>
-    <genre>00s</genre>
-    <genre>cover</genre>
   </genres>
 </album>

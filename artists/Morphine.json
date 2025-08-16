@@ -1,14 +1,9 @@
 {
   "genres": [
-    "jazz",
     "rock",
-    "blues",
+    "jazz",
     "alternative",
-    "blues-rock",
-    "alternative-rock",
-    "90s",
-    "indie",
-    "jazz-rock",
-    "saxophone"
+    "blues",
+    "indie"
   ]
 }

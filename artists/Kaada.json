@@ -1,16 +1,9 @@
 {
   "genres": [
-    "experimental",
     "electronic",
     "ambient",
+    "experimental",
     "indie",
-    "folk",
-    "melancholy",
-    "classical",
-    "classical-music",
-    "romantic",
-    "relaxing",
-    "post-rock",
-    "pop"
+    "classical"
   ]
 }

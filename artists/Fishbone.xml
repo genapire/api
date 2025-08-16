@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>funk</genre>
     <genre>ska</genre>
+    <genre>funk</genre>
     <genre>rock</genre>
     <genre>punk</genre>
     <genre>alternative</genre>
-    <genre>ska-punk</genre>
-    <genre>metal</genre>
-    <genre>psychedelic</genre>
-    <genre>party</genre>
-    <genre>funk-metal</genre>
-    <genre>alternative-rock</genre>
-    <genre>new-wave</genre>
-    <genre>cover</genre>
-    <genre>80s</genre>
   </genres>
 </album>

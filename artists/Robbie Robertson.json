@@ -1,14 +1,9 @@
 {
   "genres": [
     "rock",
-    "new-age",
     "alternative",
     "classic-rock",
-    "90s",
-    "80s",
-    "instrumental",
-    "soft-rock",
-    "folk",
-    "blues"
+    "new-age",
+    "90s"
   ]
 }

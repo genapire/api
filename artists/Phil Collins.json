@@ -1,21 +1,9 @@
 {
   "genres": [
-    "soft-rock",
-    "progressive-rock",
-    "british",
     "pop",
-    "80s",
     "rock",
-    "instrumental",
-    "classic-rock",
-    "art-rock",
-    "soundtrack",
-    "female-vocalists",
-    "pop-rock",
-    "new-wave",
-    "cover",
-    "soul",
-    "funk",
-    "dance-pop"
+    "80s",
+    "soft-rock",
+    "classic-rock"
   ]
 }

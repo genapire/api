@@ -1,12 +1,9 @@
 {
   "genres": [
-    "classic-rock",
     "rock",
+    "classic-rock",
     "70s",
     "soft-rock",
-    "country",
-    "country-rock",
-    "folk-rock",
-    "hard-rock"
+    "country"
   ]
 }

@@ -1,27 +1,9 @@
 {
   "genres": [
-    "rock",
     "pop",
-    "classic-rock",
+    "rock",
     "british",
-    "soft-rock",
-    "80s",
-    "latin",
-    "jazz",
-    "reggae",
-    "dancehall",
-    "hip-hop",
-    "rnb",
-    "90s",
-    "soundtrack",
-    "pop-rock",
-    "christmas",
-    "folk",
-    "symphonic-rock",
-    "00s",
-    "classical",
-    "rap",
-    "celtic",
-    "lounge"
+    "classic-rock",
+    "soft-rock"
   ]
 }

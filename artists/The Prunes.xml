@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>trip-hop</genre>
     <genre>hip-hop</genre>
+    <genre>trip-hop</genre>
     <genre>post-punk</genre>
     <genre>experimental</genre>
     <genre>instrumental-hip-hop</genre>
-    <genre>rnb</genre>
-    <genre>indie</genre>
   </genres>
 </album>

@@ -1,12 +1,9 @@
 {
   "genres": [
     "classic-rock",
+    "rock",
     "folk-rock",
     "folk",
-    "rock",
-    "60s",
-    "70s",
-    "80s",
-    "psychedelic"
+    "60s"
   ]
 }

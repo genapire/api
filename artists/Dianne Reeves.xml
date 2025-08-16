@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>vocal-jazz</genre>
-    <genre>jazzy</genre>
     <genre>jazz</genre>
-    <genre>jazz-vocal</genre>
     <genre>female-vocalists</genre>
-    <genre>christmas</genre>
-    <genre>soul</genre>
+    <genre>vocal-jazz</genre>
+    <genre>jazz-vocal</genre>
     <genre>smooth-jazz</genre>
-    <genre>female</genre>
-    <genre>rb</genre>
-    <genre>rnb</genre>
-    <genre>cool-jazz</genre>
-    <genre>00s</genre>
-    <genre>90s</genre>
   </genres>
 </album>

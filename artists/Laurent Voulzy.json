@@ -1,11 +1,9 @@
 {
   "genres": [
     "french",
-    "chanson-francaise",
     "pop",
+    "chanson-francaise",
     "90s",
-    "smooth-jazz",
-    "soft-rock",
-    "80s"
+    "soft-rock"
   ]
 }

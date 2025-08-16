@@ -1,12 +1,9 @@
 {
   "genres": [
-    "ambient",
-    "chillout",
-    "idm",
     "downtempo",
-    "triphop",
-    "trip-hop",
-    "electronic",
-    "hip-hop"
+    "ambient",
+    "idm",
+    "chillout",
+    "triphop"
   ]
 }

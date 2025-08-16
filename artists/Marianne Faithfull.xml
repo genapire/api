@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>female-vocalist</genre>
     <genre>female-vocalists</genre>
     <genre>rock</genre>
     <genre>british</genre>
     <genre>classic-rock</genre>
-    <genre>70s</genre>
-    <genre>60s</genre>
-    <genre>folk</genre>
-    <genre>80s</genre>
-    <genre>covers</genre>
-    <genre>blues-rock</genre>
-    <genre>10s</genre>
     <genre>cover</genre>
-    <genre>soul</genre>
-    <genre>jazz</genre>
-    <genre>vocal</genre>
-    <genre>00s</genre>
   </genres>
 </album>

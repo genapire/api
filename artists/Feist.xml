@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-rock</genre>
     <genre>indie</genre>
     <genre>female-vocalists</genre>
-    <genre>alternative</genre>
-    <genre>folk</genre>
     <genre>indie-pop</genre>
-    <genre>experimental</genre>
-    <genre>french</genre>
-    <genre>folk-rock</genre>
+    <genre>indie-rock</genre>
+    <genre>alternative</genre>
   </genres>
 </album>

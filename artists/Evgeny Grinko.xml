@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>instrumental</genre>
     <genre>piano</genre>
+    <genre>instrumental</genre>
     <genre>jazz</genre>
     <genre>classical</genre>
     <genre>modern-classical</genre>
-    <genre>post-punk</genre>
-    <genre>electronic</genre>
-    <genre>experimental</genre>
-    <genre>neoclassical</genre>
-    <genre>contemporary-classical</genre>
   </genres>
 </album>

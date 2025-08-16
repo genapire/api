@@ -1,13 +1,9 @@
 {
   "genres": [
+    "pop",
     "hip-hop",
     "rnb",
     "rap",
-    "pop",
-    "soul",
-    "funk",
-    "reggae",
-    "latino",
-    "salsa"
+    "soul"
   ]
 }

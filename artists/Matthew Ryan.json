@@ -1,13 +1,9 @@
 {
   "genres": [
-    "indie-rock",
-    "rock",
     "acoustic",
     "indie",
-    "folk",
-    "alternative",
-    "ambient",
-    "americana",
-    "melancholy"
+    "rock",
+    "indie-rock",
+    "folk"
   ]
 }

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synthpop</genre>
-    <genre>downtempo</genre>
-    <genre>chillwave</genre>
     <genre>electronic</genre>
+    <genre>chillwave</genre>
     <genre>lo-fi</genre>
     <genre>lounge</genre>
-    <genre>chillout</genre>
+    <genre>synthpop</genre>
   </genres>
 </album>

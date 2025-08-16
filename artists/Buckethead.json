@@ -1,24 +1,9 @@
 {
   "genres": [
-    "experimental",
     "instrumental",
+    "experimental",
     "progressive-rock",
-    "acoustic",
-    "classical",
     "ambient",
-    "chillout",
-    "post-rock",
-    "trip-hop",
-    "funk-metal",
-    "guitar",
-    "progressive-metal",
-    "rock",
-    "alternative-metal",
-    "thrash-metal",
-    "metal",
-    "dark-ambient",
-    "death-metal",
-    "psychedelic-rock",
-    "psychedelic"
+    "guitar"
   ]
 }

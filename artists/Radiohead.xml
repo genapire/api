@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>art-rock</genre>
-    <genre>acoustic</genre>
-    <genre>ambient-pop</genre>
-    <genre>alternative</genre>
     <genre>alternative-rock</genre>
+    <genre>alternative</genre>
     <genre>rock</genre>
-    <genre>electronic</genre>
-    <genre>90s</genre>
     <genre>indie</genre>
-    <genre>british</genre>
-    <genre>post-rock</genre>
-    <genre>melancholy</genre>
-    <genre>experimental</genre>
-    <genre>soundtrack</genre>
-    <genre>dubstep</genre>
-    <genre>10s</genre>
+    <genre>electronic</genre>
   </genres>
 </album>

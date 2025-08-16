@@ -1,13 +1,9 @@
 {
   "genres": [
-    "classical",
     "contemporary-classical",
     "modern-classical",
     "piano",
-    "instrumental",
     "ambient",
-    "polish",
-    "jazz",
-    "experimental"
+    "polish"
   ]
 }

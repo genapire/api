@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>heavy-metal</genre>
     <genre>rnb</genre>
     <genre>soul</genre>
+    <genre>heavy-metal</genre>
     <genre>pop</genre>
-    <genre>neo-soul</genre>
-    <genre>american</genre>
     <genre>rb</genre>
-    <genre>hip-hop</genre>
   </genres>
 </album>

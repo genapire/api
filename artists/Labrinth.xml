@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>rnb</genre>
     <genre>electronic</genre>
     <genre>british</genre>
-    <genre>rnb</genre>
     <genre>dance</genre>
     <genre>rb</genre>
-    <genre>pop</genre>
-    <genre>alternative-pop</genre>
-    <genre>soundtrack</genre>
-    <genre>psychedelic</genre>
-    <genre>electropop</genre>
-    <genre>contemporary-classical</genre>
-    <genre>soul</genre>
-    <genre>soundtracks</genre>
-    <genre>trap</genre>
   </genres>
 </album>

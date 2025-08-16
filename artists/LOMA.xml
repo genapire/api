@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>folk</genre>
     <genre>indie</genre>
+    <genre>folk</genre>
     <genre>female-vocalists</genre>
     <genre>rock</genre>
     <genre>ambient</genre>
-    <genre>indie-pop</genre>
-    <genre>ambient-pop</genre>
-    <genre>neo-psych</genre>
   </genres>
 </album>

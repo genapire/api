@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>drum-and-bass</genre>
-    <genre>noise</genre>
     <genre>instrumental</genre>
     <genre>piano</genre>
+    <genre>drum-and-bass</genre>
+    <genre>noise</genre>
     <genre>contemporary-classical</genre>
-    <genre>ambient</genre>
-    <genre>electronic</genre>
   </genres>
 </album>

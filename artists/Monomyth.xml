@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>instrumental</genre>
     <genre>space-rock</genre>
     <genre>psychedelic-rock</genre>
-    <genre>stoner-rock</genre>
     <genre>krautrock</genre>
     <genre>psychedelic</genre>
-    <genre>progressive-rock</genre>
-    <genre>ambient</genre>
+    <genre>instrumental</genre>
   </genres>
 </album>

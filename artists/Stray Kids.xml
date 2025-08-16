@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rap</genre>
     <genre>k-pop</genre>
     <genre>korean</genre>
     <genre>pop</genre>
-    <genre>rock</genre>
-    <genre>j-pop</genre>
-    <genre>pop-rock</genre>
-    <genre>jpop</genre>
+    <genre>rap</genre>
     <genre>hip-hop</genre>
-    <genre>electropop</genre>
-    <genre>electronic</genre>
-    <genre>dance-pop</genre>
-    <genre>ost</genre>
-    <genre>experimental</genre>
-    <genre>japanese</genre>
-    <genre>dance</genre>
   </genres>
 </album>

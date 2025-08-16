@@ -1,18 +1,9 @@
 {
   "genres": [
-    "rock",
     "post-rock",
     "ambient",
     "post-metal",
-    "instrumental",
     "doom-metal",
-    "electronic",
-    "dark-psychedelic-trance",
-    "trance",
-    "techno",
-    "downtempo",
-    "stoner-rock",
-    "stoner-metal",
-    "sludge-metal"
+    "instrumental"
   ]
 }

@@ -1,13 +1,9 @@
 {
   "genres": [
-    "folk",
-    "ambient",
-    "folk-rock",
     "rock",
-    "swedish",
     "blues",
-    "country",
-    "indie",
-    "soul"
+    "folk",
+    "swedish",
+    "folk-rock"
   ]
 }

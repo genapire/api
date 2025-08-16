@@ -1,12 +1,9 @@
 {
   "genres": [
-    "experimental",
     "jazz",
+    "experimental",
     "nu-jazz",
     "ambient",
-    "electronic",
-    "jazz-fusion",
-    "post-rock",
-    "electro"
+    "jazz-fusion"
   ]
 }

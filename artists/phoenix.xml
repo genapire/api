@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>indie-pop</genre>
     <genre>indie</genre>
     <genre>french</genre>
-    <genre>indie-pop</genre>
     <genre>electronic</genre>
-    <genre>alternative</genre>
-    <genre>christmas</genre>
-    <genre>synthpop</genre>
-    <genre>new-wave</genre>
-    <genre>alternative-dance</genre>
-    <genre>pop-rock</genre>
-    <genre>indie-rock</genre>
     <genre>pop</genre>
-    <genre>rock</genre>
-    <genre>house</genre>
-    <genre>dance-pop</genre>
   </genres>
 </album>

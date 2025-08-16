@@ -1,14 +1,9 @@
 {
   "genres": [
-    "classic-rock",
     "rock",
+    "classic-rock",
     "80s",
-    "blues",
     "guitar",
-    "british",
-    "70s",
-    "rock-n-roll",
-    "blues-rock",
-    "progressive-rock"
+    "blues"
   ]
 }

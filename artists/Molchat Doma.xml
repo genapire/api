@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synthpop</genre>
     <genre>post-punk</genre>
-    <genre>new-wave</genre>
     <genre>coldwave</genre>
-    <genre>electronic</genre>
+    <genre>synthpop</genre>
+    <genre>new-wave</genre>
     <genre>rock</genre>
-    <genre>punk</genre>
   </genres>
 </album>

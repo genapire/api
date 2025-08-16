@@ -1,11 +1,9 @@
 {
   "genres": [
-    "pop",
-    "synthpop",
-    "electronica",
-    "progressive-pop",
     "electronic",
-    "indietronica",
-    "experimental"
+    "synthpop",
+    "experimental",
+    "pop",
+    "electronica"
   ]
 }

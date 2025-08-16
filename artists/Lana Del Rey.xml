@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soft-rock</genre>
-    <genre>rock</genre>
     <genre>indie</genre>
-    <genre>female-vocalists</genre>
     <genre>pop</genre>
+    <genre>female-vocalists</genre>
     <genre>indie-pop</genre>
     <genre>alternative</genre>
-    <genre>country</genre>
-    <genre>folk</genre>
-    <genre>dream-pop</genre>
-    <genre>modern-classical</genre>
-    <genre>trip-hop</genre>
-    <genre>cover</genre>
-    <genre>rap</genre>
-    <genre>hip-hop</genre>
   </genres>
 </album>

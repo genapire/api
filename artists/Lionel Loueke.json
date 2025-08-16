@@ -1,12 +1,9 @@
 {
   "genres": [
-    "jazz-fusion",
     "jazz",
+    "jazz-fusion",
     "guitar",
-    "acoustic",
-    "piano",
-    "calm",
-    "jazz-vocal",
-    "jazz-guitar"
+    "jazz-guitar",
+    "jazz-vocal"
   ]
 }

@@ -1,11 +1,9 @@
 {
   "genres": [
-    "soundtrack",
     "rock",
+    "soundtrack",
+    "folk",
     "jazz",
-    "vocal-jazz",
-    "soul",
-    "jazz-vocal",
-    "folk"
+    "vocal-jazz"
   ]
 }

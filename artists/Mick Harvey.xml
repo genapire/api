@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soundtrack</genre>
-    <genre>rock</genre>
     <genre>alternative</genre>
-    <genre>pop</genre>
-    <genre>cover</genre>
-    <genre>10s</genre>
+    <genre>rock</genre>
+    <genre>soundtrack</genre>
     <genre>alternative-rock</genre>
-    <genre>country</genre>
+    <genre>pop</genre>
   </genres>
 </album>

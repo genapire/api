@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>blues-rock</genre>
     <genre>rock</genre>
     <genre>hard-rock</genre>
-    <genre>cover</genre>
-    <genre>blues-rock</genre>
     <genre>classic-rock</genre>
     <genre>90s</genre>
-    <genre>00s</genre>
-    <genre>alternative</genre>
-    <genre>alternative-rock</genre>
-    <genre>acoustic</genre>
   </genres>
 </album>

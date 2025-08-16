@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synthpop</genre>
-    <genre>cover</genre>
     <genre>folk</genre>
-    <genre>80s</genre>
     <genre>dream-pop</genre>
-    <genre>country</genre>
-    <genre>americana</genre>
     <genre>indie</genre>
     <genre>indie-rock</genre>
-    <genre>vocal-jazz</genre>
     <genre>lo-fi</genre>
-    <genre>female-vocalists</genre>
-    <genre>dark-folk</genre>
-    <genre>rock</genre>
-    <genre>psychedelic-folk</genre>
   </genres>
 </album>

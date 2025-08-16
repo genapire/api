@@ -1,13 +1,9 @@
 {
   "genres": [
-    "pop",
     "soul",
-    "romantic",
+    "pop",
     "80s",
-    "easy-listening",
-    "rnb",
-    "70s",
-    "funk",
-    "country"
+    "romantic",
+    "rnb"
   ]
 }

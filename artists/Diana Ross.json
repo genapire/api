@@ -1,23 +1,9 @@
 {
   "genres": [
-    "jazz-fusion",
     "soul",
+    "female-vocalists",
     "pop",
     "disco",
-    "female-vocalists",
-    "80s",
-    "60s",
-    "70s",
-    "rnb",
-    "romantic",
-    "jazz",
-    "jazzy",
-    "covers",
-    "jazz-vocal",
-    "soundtrack",
-    "synthpop",
-    "70s-disco",
-    "classic",
-    "dance"
+    "70s"
   ]
 }

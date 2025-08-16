@@ -1,10 +1,9 @@
 {
   "genres": [
-    "ambient",
-    "indie",
     "electronic",
-    "experimental",
     "soundtrack",
-    "instrumental"
+    "instrumental",
+    "ambient",
+    "indie"
   ]
 }

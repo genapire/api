@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>80s</genre>
     <genre>hard-rock</genre>
     <genre>rock</genre>
     <genre>classic-rock</genre>
-    <genre>blues-rock</genre>
-    <genre>10s</genre>
+    <genre>80s</genre>
     <genre>heavy-metal</genre>
-    <genre>swedish</genre>
-    <genre>progressive-rock</genre>
-    <genre>power-metal</genre>
   </genres>
 </album>

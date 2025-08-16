@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie</genre>
     <genre>indie-rock</genre>
-    <genre>alternative</genre>
+    <genre>indie</genre>
     <genre>rock</genre>
-    <genre>alternative-rock</genre>
+    <genre>alternative</genre>
     <genre>indie-pop</genre>
-    <genre>pop</genre>
-    <genre>emo</genre>
-    <genre>acoustic</genre>
-    <genre>american</genre>
-    <genre>covers</genre>
-    <genre>cover</genre>
-    <genre>punk</genre>
   </genres>
 </album>

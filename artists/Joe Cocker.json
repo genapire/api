@@ -1,18 +1,9 @@
 {
   "genres": [
     "classic-rock",
-    "blues",
     "rock",
     "blues-rock",
-    "soul",
-    "soft-rock",
-    "80s",
-    "90s",
-    "00s",
-    "romantic",
-    "70s",
-    "60s",
-    "british",
-    "cover"
+    "blues",
+    "soul"
   ]
 }

@@ -1,14 +1,9 @@
 {
   "genres": [
     "classic-rock",
-    "psychedelic-rock",
-    "psychedelic",
-    "blues",
     "progressive-rock",
-    "classical",
     "rock",
-    "instrumental",
-    "symphonic-rock",
-    "oldies"
+    "classical",
+    "instrumental"
   ]
 }

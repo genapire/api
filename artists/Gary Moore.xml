@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>blues</genre>
     <genre>blues-rock</genre>
+    <genre>blues</genre>
     <genre>rock</genre>
-    <genre>hard-rock</genre>
     <genre>classic-rock</genre>
-    <genre>90s</genre>
-    <genre>guitar</genre>
-    <genre>80s</genre>
-    <genre>70s</genre>
-    <genre>cover</genre>
-    <genre>00s</genre>
-    <genre>instrumental</genre>
-    <genre>psychedelic-rock</genre>
-    <genre>heavy-metal</genre>
+    <genre>hard-rock</genre>
   </genres>
 </album>

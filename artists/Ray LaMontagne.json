@@ -1,11 +1,9 @@
 {
   "genres": [
-    "acoustic",
     "folk",
-    "soul",
+    "acoustic",
     "indie",
-    "folk-rock",
-    "guitar",
-    "soft-rock"
+    "soft-rock",
+    "soul"
   ]
 }

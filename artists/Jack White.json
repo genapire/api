@@ -1,13 +1,9 @@
 {
   "genres": [
-    "rock",
     "blues-rock",
-    "indie-rock",
-    "indie",
-    "blues",
-    "folk-rock",
+    "rock",
     "garage-rock",
-    "alternative-rock",
-    "hard-rock"
+    "indie-rock",
+    "indie"
   ]
 }

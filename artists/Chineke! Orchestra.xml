@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>reggae</genre>
     <genre>instrumental</genre>
     <genre>contemporary-classical</genre>
-    <genre>baroque</genre>
     <genre>classical</genre>
+    <genre>reggae</genre>
+    <genre>baroque</genre>
   </genres>
 </album>

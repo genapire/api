@@ -1,19 +1,9 @@
 {
   "genres": [
-    "electronic",
     "ambient",
-    "female-vocalists",
     "new-age",
+    "female-vocalists",
     "gothic",
-    "progressive-electronic",
-    "soundtrack",
-    "instrumental",
-    "classical",
-    "neoclassical",
-    "film-score",
-    "chillout",
-    "cover",
-    "dark-ambient",
-    "contemporary-classical"
+    "electronic"
   ]
 }

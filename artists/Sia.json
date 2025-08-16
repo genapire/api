@@ -1,18 +1,9 @@
 {
   "genres": [
-    "pop",
-    "soul",
     "female-vocalists",
-    "indie",
     "chillout",
-    "trip-hop",
-    "downtempo",
-    "christmas-music",
-    "soundtrack",
-    "trip-hip",
-    "dance-pop",
-    "dance",
-    "alternative",
-    "electronic"
+    "pop",
+    "indie",
+    "trip-hop"
   ]
 }

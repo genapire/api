@@ -1,13 +1,9 @@
 {
   "genres": [
     "glam-rock",
-    "classic-rock",
     "70s",
-    "hard-rock",
+    "classic-rock",
     "rock",
-    "progressive-rock",
-    "oldies",
-    "80s",
-    "pop-rock"
+    "hard-rock"
   ]
 }

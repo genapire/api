@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop-rock</genre>
-    <genre>pop</genre>
-    <genre>rap</genre>
     <genre>hip-hop</genre>
+    <genre>rap</genre>
     <genre>trap</genre>
-    <genre>folk</genre>
+    <genre>pop</genre>
     <genre>country</genre>
-    <genre>indie-pop</genre>
-    <genre>rnb</genre>
-    <genre>synthpop</genre>
-    <genre>pop-punk</genre>
   </genres>
 </album>

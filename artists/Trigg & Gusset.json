@@ -1,12 +1,9 @@
 {
   "genres": [
-    "jazz",
     "dark-jazz",
+    "jazz",
     "ambient",
     "instrumental",
-    "jazz-fusion",
-    "polish",
-    "atmospheric-jazz",
-    "doom-jazz"
+    "polish"
   ]
 }

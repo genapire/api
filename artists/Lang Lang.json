@@ -1,11 +1,9 @@
 {
   "genres": [
-    "piano",
     "classical",
-    "classical-piano",
+    "piano",
     "instrumental",
-    "new-age",
-    "soundtrack",
+    "classical-piano",
     "romantic"
   ]
 }

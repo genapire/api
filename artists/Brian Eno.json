@@ -1,29 +1,9 @@
 {
   "genres": [
-    "calm",
     "ambient",
-    "experimental",
     "electronic",
+    "experimental",
     "alternative",
-    "art-rock",
-    "ambient-pop",
-    "progressive-electronic",
-    "downtempo",
-    "electronica",
-    "70s",
-    "krautrock",
-    "glam-rock",
-    "modern-classical",
-    "instrumental",
-    "avant-pop",
-    "minimal",
-    "melancholy",
-    "new-age",
-    "piano",
-    "80s",
-    "guitar",
-    "space-ambient",
-    "dark-ambient",
-    "rock"
+    "instrumental"
   ]
 }

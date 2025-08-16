@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>dance</genre>
     <genre>rnb</genre>
     <genre>hip-hop</genre>
     <genre>rb</genre>
     <genre>soul</genre>
+    <genre>dance</genre>
   </genres>
 </album>

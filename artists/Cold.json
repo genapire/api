@@ -1,11 +1,9 @@
 {
   "genres": [
-    "rock",
     "alternative-rock",
+    "rock",
     "hard-rock",
     "post-grunge",
-    "alternative",
-    "nu-metal",
-    "alternative-metal"
+    "alternative"
   ]
 }

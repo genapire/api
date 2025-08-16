@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>80s</genre>
     <genre>indie</genre>
     <genre>pop</genre>
     <genre>indie-pop</genre>
-    <genre>experimental</genre>
     <genre>alternative</genre>
-    <genre>french</genre>
-    <genre>cover</genre>
+    <genre>experimental</genre>
   </genres>
 </album>

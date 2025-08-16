@@ -1,15 +1,9 @@
 {
   "genres": [
-    "pop-rock",
-    "pop",
-    "rap",
     "hip-hop",
+    "rap",
     "trap",
-    "folk",
-    "country",
-    "indie-pop",
-    "rnb",
-    "synthpop",
-    "pop-punk"
+    "pop",
+    "country"
   ]
 }

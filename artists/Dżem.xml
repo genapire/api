@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>blues-rock</genre>
     <genre>blues</genre>
+    <genre>blues-rock</genre>
     <genre>rock</genre>
     <genre>polish</genre>
     <genre>polish-rock</genre>
-    <genre>90s</genre>
-    <genre>classic-rock</genre>
-    <genre>party</genre>
-    <genre>80s</genre>
-    <genre>chillout</genre>
-    <genre>melancholic</genre>
   </genres>
 </album>

@@ -1,24 +1,9 @@
 {
   "genres": [
     "jazz",
-    "piano",
     "jazz-piano",
-    "contemporary-jazz",
+    "piano",
     "jazz-fusion",
-    "baroque",
-    "american",
-    "70s",
-    "classical",
-    "90s",
-    "free-jazz",
-    "piano-jazz",
-    "contemporary-classical",
-    "avant-garde-jazz",
-    "country",
-    "folk",
-    "60s",
-    "80s",
-    "instrumental",
-    "cool-jazz"
+    "contemporary-jazz"
   ]
 }

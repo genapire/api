@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rap</genre>
     <genre>rnb</genre>
     <genre>hip-hop</genre>
     <genre>pop</genre>
+    <genre>rap</genre>
     <genre>dance</genre>
-    <genre>90s</genre>
   </genres>
 </album>

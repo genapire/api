@@ -1,12 +1,9 @@
 {
   "genres": [
-    "80s",
-    "classic-rock",
     "rock",
-    "glam-rock",
-    "art-rock",
     "70s",
-    "pop",
-    "new-wave"
+    "glam-rock",
+    "80s",
+    "art-rock"
   ]
 }

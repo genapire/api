@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>nu-metal</genre>
-    <genre>alternative-metal</genre>
-    <genre>rock</genre>
     <genre>post-hardcore</genre>
     <genre>hardcore</genre>
-    <genre>melodic-metalcore</genre>
     <genre>electronic</genre>
-    <genre>experimental</genre>
-    <genre>pop-punk</genre>
-    <genre>acoustic</genre>
-    <genre>emo</genre>
+    <genre>nu-metal</genre>
+    <genre>alternative-metal</genre>
   </genres>
 </album>

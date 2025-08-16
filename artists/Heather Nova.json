@@ -1,13 +1,9 @@
 {
   "genres": [
-    "pop",
     "female-vocalists",
+    "pop",
     "alternative",
     "rock",
-    "covers",
-    "cover",
-    "alternative-pop",
-    "indie-pop",
-    "indie"
+    "cover"
   ]
 }

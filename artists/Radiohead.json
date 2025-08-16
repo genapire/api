@@ -1,20 +1,9 @@
 {
   "genres": [
-    "art-rock",
-    "acoustic",
-    "ambient-pop",
-    "alternative",
     "alternative-rock",
+    "alternative",
     "rock",
-    "electronic",
-    "90s",
     "indie",
-    "british",
-    "post-rock",
-    "melancholy",
-    "experimental",
-    "soundtrack",
-    "dubstep",
-    "10s"
+    "electronic"
   ]
 }

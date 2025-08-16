@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
     <genre>dance</genre>
     <genre>electronic</genre>
     <genre>house</genre>
     <genre>techno</genre>
-    <genre>french</genre>
-    <genre>electro</genre>
-    <genre>party</genre>
-    <genre>electronica</genre>
+    <genre>pop</genre>
   </genres>
 </album>

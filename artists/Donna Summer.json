@@ -1,21 +1,9 @@
 {
   "genres": [
-    "disco",
-    "70s",
-    "80s",
     "pop",
+    "disco",
     "dance",
-    "soul",
-    "pop-rock",
-    "female-vocalists",
-    "dance-pop",
-    "synthpop",
-    "rock",
-    "funk",
-    "christmas",
-    "soundtrack",
-    "rnb",
-    "electronic",
-    "electronica"
+    "70s",
+    "female-vocalists"
   ]
 }

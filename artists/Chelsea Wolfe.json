@@ -1,22 +1,9 @@
 {
   "genres": [
-    "doom-metal",
     "experimental",
     "gothic-rock",
-    "female-vocalists",
     "folk",
-    "dark-folk",
-    "hardcore",
-    "post-metal",
-    "sludge-metal",
-    "minimal",
-    "chill-house",
-    "dark-ambient",
-    "alternative",
-    "psychedelic-rock",
-    "post-industrial",
-    "industrial-rock",
-    "trip-hop",
-    "lo-fi"
+    "female-vocalists",
+    "doom-metal"
   ]
 }

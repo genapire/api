@@ -1,14 +1,9 @@
 {
   "genres": [
-    "classic-rock",
     "rock",
+    "classic-rock",
     "pop",
     "piano",
-    "70s",
-    "80s",
-    "soft-rock",
-    "instrumental",
-    "pop-rock",
-    "easy-listening"
+    "80s"
   ]
 }

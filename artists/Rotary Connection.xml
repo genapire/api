@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>60s</genre>
     <genre>soul</genre>
     <genre>psychedelic-soul</genre>
     <genre>psychedelic</genre>
+    <genre>60s</genre>
     <genre>funk</genre>
-    <genre>female-vocalists</genre>
-    <genre>christmas</genre>
-    <genre>experimental</genre>
-    <genre>cover</genre>
   </genres>
 </album>

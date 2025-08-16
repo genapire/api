@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>00s</genre>
     <genre>pop</genre>
-    <genre>rock</genre>
     <genre>acoustic</genre>
-    <genre>country-rock</genre>
-    <genre>blues</genre>
+    <genre>rock</genre>
     <genre>soft-rock</genre>
-    <genre>indie</genre>
-    <genre>pop-rock</genre>
-    <genre>alternative</genre>
-    <genre>country-blues</genre>
-    <genre>folk-rock</genre>
-    <genre>folk</genre>
-    <genre>funk</genre>
-    <genre>cover</genre>
+    <genre>blues</genre>
   </genres>
 </album>

@@ -1,10 +1,9 @@
 {
   "genres": [
-    "indie-rock",
-    "indie",
-    "blues-rock",
     "rock",
+    "indie",
     "psychedelic",
-    "alternative-rock"
+    "indie-rock",
+    "blues-rock"
   ]
 }

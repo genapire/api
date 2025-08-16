@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rock</genre>
-    <genre>indie</genre>
-    <genre>swedish</genre>
     <genre>electronic</genre>
+    <genre>rock</genre>
+    <genre>swedish</genre>
+    <genre>indie</genre>
     <genre>dance</genre>
-    <genre>synthpop</genre>
-    <genre>hip-hop</genre>
-    <genre>90s</genre>
   </genres>
 </album>

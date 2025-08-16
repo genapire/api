@@ -1,19 +1,9 @@
 {
   "genres": [
-    "jazz-fusion",
     "jazz",
+    "jazz-fusion",
     "electronic",
-    "jazz-rock",
     "world-fusion",
-    "nu-jazz",
-    "cover",
-    "contemporary-jazz",
-    "instrumental",
-    "chillout",
-    "cool-jazz",
-    "soul",
-    "psychedelic-rock",
-    "folk",
-    "classic-rock"
+    "jazz-rock"
   ]
 }

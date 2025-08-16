@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>math-rock</genre>
     <genre>rock</genre>
-    <genre>progressive-rock</genre>
+    <genre>math-rock</genre>
     <genre>instrumental</genre>
     <genre>british</genre>
-    <genre>noise</genre>
+    <genre>progressive-rock</genre>
   </genres>
 </album>

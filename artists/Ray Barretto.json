@@ -1,16 +1,9 @@
 {
   "genres": [
-    "salsa",
     "latin-jazz",
     "latin",
+    "salsa",
     "jazz",
-    "jazz-fusion",
-    "latino",
-    "chillout",
-    "dance",
-    "funk",
-    "80s",
-    "60s",
-    "afro-cuban"
+    "jazz-fusion"
   ]
 }

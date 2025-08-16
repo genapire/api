@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>disco</genre>
-    <genre>80s</genre>
     <genre>soul</genre>
     <genre>funk</genre>
+    <genre>disco</genre>
+    <genre>80s</genre>
     <genre>rnb</genre>
-    <genre>dance</genre>
-    <genre>disco-funk</genre>
-    <genre>soundtrack</genre>
-    <genre>synthpop</genre>
-    <genre>cover</genre>
   </genres>
 </album>

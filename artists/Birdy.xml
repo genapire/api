@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-pop</genre>
-    <genre>indie</genre>
-    <genre>pop</genre>
     <genre>folk</genre>
+    <genre>pop</genre>
+    <genre>indie</genre>
     <genre>female-vocalists</genre>
     <genre>british</genre>
-    <genre>cover</genre>
-    <genre>piano</genre>
-    <genre>pop-rock</genre>
-    <genre>synthpop</genre>
-    <genre>alternative</genre>
-    <genre>folk-pop</genre>
   </genres>
 </album>

@@ -1,16 +1,9 @@
 {
   "genres": [
-    "synthpop",
-    "trance",
     "electronic",
+    "trance",
     "pop",
     "dance",
-    "house",
-    "progressive-house",
-    "rock",
-    "hip-hop",
-    "progressive-trance",
-    "minimal",
-    "techno"
+    "progressive-house"
   ]
 }

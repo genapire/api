@@ -1,14 +1,9 @@
 {
   "genres": [
     "jazz",
+    "swing",
     "folk",
     "blues",
-    "french",
-    "swing",
-    "classical-jazz",
-    "latin-jazz",
-    "world-fusion",
-    "afro-cuban-jazz",
-    "instrumental"
+    "french"
   ]
 }

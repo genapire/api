@@ -1,13 +1,9 @@
 {
   "genres": [
-    "pop-rock",
-    "blues-rock",
-    "rock",
     "funk",
     "soul",
+    "rock",
     "indie",
-    "british",
-    "soundtrack",
-    "alternative-rock"
+    "pop-rock"
   ]
 }

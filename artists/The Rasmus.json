@@ -1,15 +1,9 @@
 {
   "genres": [
-    "rock",
     "alternative-rock",
+    "rock",
     "alternative",
     "pop",
-    "pop-rock",
-    "electronic-rock",
-    "psychedelic",
-    "cover",
-    "funk",
-    "ska",
-    "soft-rock"
+    "electronic-rock"
   ]
 }

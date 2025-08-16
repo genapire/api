@@ -1,13 +1,9 @@
 {
   "genres": [
-    "contemporary-classical",
-    "easy-listening",
     "experimental",
-    "modern-classical",
     "post-rock",
-    "ambient",
-    "dream-pop",
     "art-rock",
-    "progressive-rock"
+    "contemporary-classical",
+    "easy-listening"
   ]
 }

@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soundtrack</genre>
     <genre>pop</genre>
-    <genre>classical</genre>
     <genre>funk</genre>
     <genre>british</genre>
     <genre>hip-hop</genre>
-    <genre>soul</genre>
-    <genre>instrumental</genre>
-    <genre>film-music</genre>
-    <genre>female-vocalists</genre>
-    <genre>rnb</genre>
-    <genre>dance</genre>
-    <genre>party</genre>
-    <genre>jazz</genre>
-    <genre>cover</genre>
+    <genre>soundtrack</genre>
   </genres>
 </album>

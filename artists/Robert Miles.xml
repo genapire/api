@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>electronic</genre>
     <genre>ambient</genre>
     <genre>trance</genre>
+    <genre>electronic</genre>
     <genre>chillout</genre>
-    <genre>instrumental</genre>
     <genre>dance</genre>
-    <genre>contemporary-jazz</genre>
-    <genre>techno</genre>
   </genres>
 </album>

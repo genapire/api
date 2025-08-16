@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative</genre>
-    <genre>rock</genre>
     <genre>folk</genre>
-    <genre>alternative-rock</genre>
-    <genre>indie</genre>
     <genre>acoustic</genre>
-    <genre>blues</genre>
-    <genre>surf</genre>
+    <genre>indie</genre>
     <genre>reggae</genre>
-    <genre>cover</genre>
-    <genre>instrumental</genre>
+    <genre>alternative</genre>
   </genres>
 </album>

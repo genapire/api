@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>christmas</genre>
     <genre>pop</genre>
-    <genre>female-vocalists</genre>
     <genre>80s</genre>
-    <genre>rock</genre>
     <genre>new-wave</genre>
-    <genre>instrumental</genre>
-    <genre>cover</genre>
-    <genre>jazz</genre>
-    <genre>soul</genre>
-    <genre>covers</genre>
-    <genre>alternative</genre>
-    <genre>90s</genre>
+    <genre>female-vocalists</genre>
+    <genre>rock</genre>
   </genres>
 </album>

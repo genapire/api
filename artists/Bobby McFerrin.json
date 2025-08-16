@@ -1,14 +1,9 @@
 {
   "genres": [
     "jazz",
-    "jazz-vocal",
     "reggae",
-    "jazz-fusion",
-    "cover",
     "vocal",
-    "instrumental",
-    "80s",
-    "vocal-jazz",
-    "classical"
+    "jazz-fusion",
+    "80s"
   ]
 }

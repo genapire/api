@@ -1,20 +1,9 @@
 {
   "genres": [
-    "industrial-metal",
     "industrial",
-    "alternative-metal",
-    "metal",
+    "industrial-metal",
     "rock",
-    "alternative",
-    "industrial-rock",
-    "alternative-rock",
-    "gothic-rock",
-    "cover",
-    "country",
-    "folk",
-    "soundtrack",
-    "glam-rock",
-    "hard-rock",
-    "death-metal"
+    "metal",
+    "alternative"
   ]
 }

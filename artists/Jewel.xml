@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative</genre>
     <genre>pop</genre>
     <genre>female-vocalists</genre>
-    <genre>dance</genre>
     <genre>folk</genre>
-    <genre>folk-rock</genre>
-    <genre>rock</genre>
-    <genre>90s</genre>
-    <genre>house</genre>
-    <genre>christmas</genre>
-    <genre>acoustic</genre>
-    <genre>00s</genre>
+    <genre>alternative</genre>
     <genre>country</genre>
-    <genre>female-vocalist</genre>
   </genres>
 </album>

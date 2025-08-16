@@ -1,13 +1,9 @@
 {
   "genres": [
-    "electronic",
-    "piano",
-    "indie",
     "experimental",
+    "indie",
     "ambient",
-    "pop",
-    "lo-fi",
-    "ambient-pop",
-    "modern-classical"
+    "electronic",
+    "piano"
   ]
 }

@@ -1,36 +1,9 @@
 {
   "genres": [
     "jazz",
-    "cool-jazz",
     "jazz-fusion",
-    "60s",
     "funk",
     "piano",
-    "rock",
-    "jazz-funk",
-    "jazz-piano",
-    "contemporary-jazz",
-    "instrumental",
-    "chill",
-    "acid-jazz",
-    "modal-jazz",
-    "avant-garde-jazz",
-    "soul",
-    "jazz-rock",
-    "electronic",
-    "80s",
-    "electro",
-    "jazzpiano",
-    "oldies",
-    "80s-groove",
-    "smooth-jazz",
-    "70s",
-    "funk-step",
-    "psychedelic",
-    "latin",
-    "vocal-jazz",
-    "free-jazz",
-    "classic-rock",
-    "soft-rock"
+    "jazz-funk"
   ]
 }

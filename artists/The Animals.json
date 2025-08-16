@@ -1,20 +1,9 @@
 {
   "genres": [
-    "60s",
     "classic-rock",
+    "60s",
     "rock",
-    "oldies",
     "british",
-    "progressive-rock",
-    "blues",
-    "blues-rock",
-    "rhythm-and-blues",
-    "hard-rock",
-    "alternative-rock",
-    "new-wave",
-    "post-punk",
-    "punk",
-    "jazz",
-    "cover"
+    "oldies"
   ]
 }

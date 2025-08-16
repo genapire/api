@@ -1,10 +1,9 @@
 {
   "genres": [
     "pop",
-    "alternative",
     "rock",
+    "alternative",
     "piano",
-    "soul",
-    "acoustic"
+    "soul"
   ]
 }

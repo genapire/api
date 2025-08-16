@@ -1,10 +1,9 @@
 {
   "genres": [
-    "pop",
     "contemporary-classical",
+    "pop",
     "jazz",
     "soul",
-    "piano",
-    "progressive-rock"
+    "piano"
   ]
 }

@@ -1,14 +1,9 @@
 {
   "genres": [
-    "ambient",
     "electronic",
-    "new-age",
-    "experimental",
-    "neoclassical",
-    "piano",
-    "modern-classical",
+    "ambient",
     "hip-hop",
-    "dub",
-    "trip-hop"
+    "new-age",
+    "experimental"
   ]
 }

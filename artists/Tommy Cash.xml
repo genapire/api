@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rap</genre>
     <genre>hip-hop</genre>
-    <genre>electronic</genre>
-    <genre>experimental</genre>
+    <genre>rap</genre>
     <genre>trap</genre>
-    <genre>pop</genre>
+    <genre>experimental</genre>
     <genre>country</genre>
-    <genre>classic-country</genre>
   </genres>
 </album>

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>hip-hop</genre>
     <genre>downtempo</genre>
     <genre>trip-hop</genre>
-    <genre>post-punk</genre>
     <genre>instrumental-hip-hop</genre>
+    <genre>hip-hop</genre>
     <genre>instrumental</genre>
-    <genre>electronic</genre>
   </genres>
 </album>

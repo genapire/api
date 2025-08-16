@@ -1,15 +1,9 @@
 {
   "genres": [
-    "stoner-metal",
     "stoner-rock",
+    "stoner-metal",
     "doom-metal",
     "heavy-metal",
-    "hard-rock",
-    "cover",
-    "rock",
-    "instrumental",
-    "metal",
-    "10s",
-    "acoustic"
+    "metal"
   ]
 }

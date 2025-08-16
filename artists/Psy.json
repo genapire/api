@@ -1,12 +1,9 @@
 {
   "genres": [
     "k-pop",
-    "korean",
     "pop",
+    "korean",
     "hip-hop",
-    "dance",
-    "experimental",
-    "alternative-metal",
-    "nu-metal"
+    "dance"
   ]
 }

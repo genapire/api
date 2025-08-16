@@ -1,15 +1,9 @@
 {
   "genres": [
-    "female-vocalists",
     "jazz",
-    "blues",
     "folk",
-    "pop",
-    "easy-listening",
-    "vocal-jazz",
-    "cover",
-    "acoustic",
-    "vocal",
-    "female-vocalist"
+    "female-vocalists",
+    "blues",
+    "acoustic"
   ]
 }

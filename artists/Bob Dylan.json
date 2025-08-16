@@ -1,26 +1,9 @@
 {
   "genres": [
     "folk",
-    "classic-rock",
     "folk-rock",
+    "classic-rock",
     "60s",
-    "70s",
-    "blues",
-    "acoustic",
-    "christmas",
-    "00s",
-    "rock",
-    "pop",
-    "80s",
-    "10s",
-    "90s",
-    "20s",
-    "dance",
-    "disco",
-    "blues-rock",
-    "country",
-    "gospel",
-    "cover",
-    "jazz"
+    "rock"
   ]
 }

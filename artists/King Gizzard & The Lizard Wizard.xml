@@ -1,36 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>garage-rock</genre>
-    <genre>noise-rock</genre>
     <genre>psychedelic-rock</genre>
     <genre>psychedelic</genre>
-    <genre>synthpop</genre>
-    <genre>psychedelic-pop</genre>
-    <genre>indietronica</genre>
-    <genre>dream-pop</genre>
-    <genre>synth-pop</genre>
+    <genre>garage-rock</genre>
     <genre>progressive-rock</genre>
-    <genre>progressive-pop</genre>
-    <genre>soul</genre>
-    <genre>funk</genre>
-    <genre>rock</genre>
-    <genre>blues-rock</genre>
-    <genre>hard-rock</genre>
-    <genre>glam-rock</genre>
-    <genre>thrash-metal</genre>
-    <genre>stoner-metal</genre>
-    <genre>stoner-rock</genre>
-    <genre>metal</genre>
-    <genre>krautrock</genre>
-    <genre>electronic</genre>
-    <genre>techno</genre>
-    <genre>idm</genre>
-    <genre>acid-techno</genre>
-    <genre>psychedelic-soul</genre>
-    <genre>acoustic</genre>
-    <genre>folk-rock</genre>
-    <genre>jazz-rock</genre>
-    <genre>progressive-electronic</genre>
+    <genre>psychedelic-pop</genre>
   </genres>
 </album>

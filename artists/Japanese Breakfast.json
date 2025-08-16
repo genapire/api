@@ -1,15 +1,9 @@
 {
   "genres": [
-    "rock",
-    "indie-rock",
     "dream-pop",
-    "country",
-    "synthpop",
+    "indie-rock",
     "indie-pop",
-    "shoegaze",
-    "ambient",
-    "instrumental",
-    "ost",
-    "indie"
+    "rock",
+    "country"
   ]
 }

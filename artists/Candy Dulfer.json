@@ -1,11 +1,9 @@
 {
   "genres": [
-    "saxophone",
-    "smooth-jazz",
     "jazz",
+    "saxophone",
     "funk",
-    "instrumental",
-    "soul",
-    "jazz-fusion"
+    "smooth-jazz",
+    "instrumental"
   ]
 }

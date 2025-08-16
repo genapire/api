@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-rock</genre>
     <genre>indie</genre>
+    <genre>indie-rock</genre>
     <genre>rock</genre>
     <genre>britpop</genre>
     <genre>british</genre>
-    <genre>pop-rock</genre>
-    <genre>cover</genre>
-    <genre>alternative</genre>
-    <genre>indie-pop</genre>
-    <genre>synthpop</genre>
-    <genre>pop</genre>
   </genres>
 </album>

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>ambient</genre>
     <genre>japanese</genre>
     <genre>lounge</genre>
     <genre>electronic</genre>
-    <genre>house</genre>
     <genre>progressive-ambient</genre>
-    <genre>ambient</genre>
-    <genre>electronica</genre>
-    <genre>chillout</genre>
-    <genre>modern-classical</genre>
   </genres>
 </album>

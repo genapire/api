@@ -1,13 +1,9 @@
 {
   "genres": [
-    "classical-piano",
     "classical",
+    "classical-piano",
     "baroque",
     "piano",
-    "vocal",
-    "christmas",
-    "instrumental",
-    "romantic",
-    "jazz"
+    "instrumental"
   ]
 }

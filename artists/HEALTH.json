@@ -1,18 +1,9 @@
 {
   "genres": [
-    "noise-rock",
     "experimental",
+    "noise-rock",
     "noise",
-    "post-punk",
-    "indie",
     "electronic",
-    "synthpop",
-    "electropop",
-    "soundtrack",
-    "rock",
-    "industrial-metal",
-    "industrial",
-    "industrial-rock",
-    "electro-industrial"
+    "post-punk"
   ]
 }

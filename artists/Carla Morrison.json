@@ -1,11 +1,9 @@
 {
   "genres": [
-    "indie-pop",
-    "female-vocalists",
     "dream-pop",
+    "female-vocalists",
+    "indie-pop",
     "alternative",
-    "latin-pop",
-    "indie",
-    "christmas"
+    "latin-pop"
   ]
 }

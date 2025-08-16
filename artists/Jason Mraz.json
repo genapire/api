@@ -1,15 +1,9 @@
 {
   "genres": [
-    "acoustic",
     "pop",
-    "alternative",
+    "acoustic",
     "rock",
-    "pop-rock",
-    "reggae",
-    "alternative-rock",
-    "soft-rock",
-    "00s",
-    "american",
-    "folk"
+    "alternative",
+    "pop-rock"
   ]
 }

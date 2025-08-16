@@ -1,13 +1,9 @@
 {
   "genres": [
-    "alternative-rock",
     "rock",
-    "indie-rock",
-    "alternative",
-    "pop-rock",
-    "pop-punk",
     "indie",
-    "power-pop",
-    "emo"
+    "alternative-rock",
+    "pop-rock",
+    "pop-punk"
   ]
 }

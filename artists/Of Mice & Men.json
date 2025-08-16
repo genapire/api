@@ -1,15 +1,9 @@
 {
   "genres": [
-    "nu-metal",
-    "alternative-metal",
-    "rock",
     "post-hardcore",
     "hardcore",
-    "melodic-metalcore",
     "electronic",
-    "experimental",
-    "pop-punk",
-    "acoustic",
-    "emo"
+    "nu-metal",
+    "alternative-metal"
   ]
 }

@@ -1,12 +1,9 @@
 {
   "genres": [
     "soundtrack",
-    "calm",
-    "classical",
     "hip-hop",
-    "rap",
-    "neoclassical",
-    "instrumental",
-    "contemporary-classical"
+    "classical",
+    "calm",
+    "rap"
   ]
 }

@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>modern-classical</genre>
     <genre>soundtrack</genre>
-    <genre>classical</genre>
     <genre>instrumental</genre>
-    <genre>jazz</genre>
-    <genre>soul</genre>
-    <genre>60s</genre>
-    <genre>swing</genre>
-    <genre>female-vocalists</genre>
-    <genre>romantic</genre>
-    <genre>contemporary-classical</genre>
+    <genre>classical</genre>
     <genre>film-score</genre>
-    <genre>japanese</genre>
-    <genre>piano</genre>
-    <genre>ost</genre>
-    <genre>americana</genre>
-    <genre>classic</genre>
-    <genre>soundtracks</genre>
+    <genre>contemporary-classical</genre>
   </genres>
 </album>

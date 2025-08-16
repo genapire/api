@@ -1,17 +1,9 @@
 {
   "genres": [
-    "folk-rock",
     "folk",
-    "classic-rock",
-    "acoustic",
     "rock",
-    "pop",
-    "80s",
-    "70s",
-    "soundtrack",
-    "soft-rock",
-    "american",
-    "pop-rock",
-    "00s"
+    "acoustic",
+    "classic-rock",
+    "pop"
   ]
 }

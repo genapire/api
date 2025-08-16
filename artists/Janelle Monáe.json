@@ -1,12 +1,9 @@
 {
   "genres": [
-    "pop",
-    "rnb",
     "funk",
+    "rnb",
     "soul",
-    "hip-hop",
-    "female-vocalists",
-    "alternative",
-    "afrobeat"
+    "pop",
+    "female-vocalists"
   ]
 }

@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>new-wave</genre>
-    <genre>blues</genre>
     <genre>rock</genre>
+    <genre>blues</genre>
     <genre>americana</genre>
-    <genre>soft-rock</genre>
-    <genre>country</genre>
     <genre>country-rock</genre>
-    <genre>folk</genre>
-    <genre>classic-rock</genre>
-    <genre>blues-rock</genre>
-    <genre>80s</genre>
-    <genre>pop</genre>
-    <genre>indie</genre>
-    <genre>alternative</genre>
-    <genre>alternative-rock</genre>
+    <genre>country</genre>
   </genres>
 </album>

@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz</genre>
-    <genre>instrumental</genre>
     <genre>dream-pop</genre>
     <genre>indie</genre>
-    <genre>indie-rock</genre>
-    <genre>disco</genre>
-    <genre>female-vocalists</genre>
-    <genre>indie-pop</genre>
     <genre>downtempo</genre>
-    <genre>nu-disco</genre>
-    <genre>deep-house</genre>
-    <genre>hypnagogic-pop</genre>
+    <genre>indie-pop</genre>
+    <genre>jazz</genre>
   </genres>
 </album>

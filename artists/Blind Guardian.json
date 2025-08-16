@@ -1,11 +1,9 @@
 {
   "genres": [
     "power-metal",
-    "progressive-metal",
     "heavy-metal",
-    "symphonic-metal",
     "metal",
-    "epic-metal",
-    "hard-rock"
+    "symphonic-metal",
+    "progressive-metal"
   ]
 }

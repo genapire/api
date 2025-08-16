@@ -1,14 +1,9 @@
 {
   "genres": [
-    "blues",
     "blues-rock",
+    "blues",
     "rock",
-    "70s",
     "classic-rock",
-    "90s",
-    "soft-rock",
-    "00s",
-    "instrumental",
-    "country"
+    "70s"
   ]
 }

@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz-funk</genre>
     <genre>soul</genre>
     <genre>funk</genre>
     <genre>jazz</genre>
-    <genre>smooth-jazz</genre>
+    <genre>jazz-funk</genre>
     <genre>70s</genre>
-    <genre>jazz-fusion</genre>
-    <genre>acid-jazz</genre>
   </genres>
 </album>

@@ -1,15 +1,9 @@
 {
   "genres": [
-    "easy-listening",
-    "japanese",
-    "jazz",
     "lounge",
+    "jazz",
     "chillout",
-    "french",
     "latin",
-    "rock",
-    "cover",
-    "christmas",
-    "american"
+    "easy-listening"
   ]
 }

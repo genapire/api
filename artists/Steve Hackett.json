@@ -1,21 +1,9 @@
 {
   "genres": [
-    "contemporary-classical",
-    "neo-classical",
     "progressive-rock",
     "art-rock",
     "guitar",
-    "jazz-fusion",
-    "instrumental",
-    "jazz",
     "rock",
-    "blues",
-    "blues-rock",
-    "80s",
-    "pop-rock",
-    "classic-rock",
-    "70s-progressive-rock",
-    "classical",
-    "70s"
+    "instrumental"
   ]
 }

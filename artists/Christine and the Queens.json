@@ -1,15 +1,9 @@
 {
   "genres": [
-    "pop",
     "french",
-    "electronic",
-    "electropop",
-    "french-pop",
+    "pop",
     "synthpop",
-    "indie-pop",
-    "art-rock",
-    "alternative-pop",
-    "new-wave",
-    "trip-hop"
+    "electropop",
+    "electronic"
   ]
 }

@@ -1,17 +1,9 @@
 {
   "genres": [
     "soundtrack",
-    "classical",
     "contemporary-classical",
-    "film-score",
-    "jazz",
+    "classical",
     "neoclassical",
-    "melancholic",
-    "instrumental",
-    "romantic",
-    "punk",
-    "french",
-    "cover",
-    "soul"
+    "melancholic"
   ]
 }

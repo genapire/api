@@ -1,21 +1,9 @@
 {
   "genres": [
-    "electronic",
-    "idm",
-    "piano",
     "instrumental",
-    "chillout",
-    "soundtrack",
-    "post-rock",
     "french",
-    "classical",
-    "ambient",
-    "contemporary-classical",
-    "neo-classical",
-    "modern-classical",
-    "neoclassical",
-    "melancholic",
-    "rock",
-    "indie"
+    "piano",
+    "soundtrack",
+    "classical"
   ]
 }

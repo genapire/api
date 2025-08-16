@@ -1,20 +1,9 @@
 {
   "genres": [
-    "indie",
-    "indie-pop",
     "art-rock",
-    "industrial-rock",
-    "alternative-rock",
-    "psychedelic-soul",
-    "soft-rock",
-    "funk",
     "alternative",
-    "female-vocalists",
-    "synthpop",
-    "glam-rock",
-    "rock",
-    "soundtrack",
-    "ost",
-    "progressive-rock"
+    "indie-pop",
+    "indie",
+    "industrial-rock"
   ]
 }

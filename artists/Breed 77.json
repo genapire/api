@@ -1,11 +1,9 @@
 {
   "genres": [
     "metal",
-    "industrial-metal",
-    "classic-rock",
     "rock",
+    "classic-rock",
     "alternative-metal",
-    "cover",
     "nu-metal"
   ]
 }

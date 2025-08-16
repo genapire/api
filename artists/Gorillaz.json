@@ -1,28 +1,9 @@
 {
   "genres": [
-    "alternative",
     "electronic",
+    "alternative",
     "hip-hop",
     "rock",
-    "indie",
-    "synthpop",
-    "electropop",
-    "rap",
-    "experimental",
-    "trip-hop",
-    "alternative-dance",
-    "pop",
-    "psychedelic-pop",
-    "dub",
-    "funk",
-    "downtempo",
-    "vocal",
-    "energetic",
-    "dancehall",
-    "reggae",
-    "chillout",
-    "new-wave",
-    "alternative-rock",
-    "pop-rock"
+    "indie"
   ]
 }

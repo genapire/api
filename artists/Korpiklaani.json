@@ -1,12 +1,9 @@
 {
   "genres": [
-    "swedish",
-    "dance",
-    "synth-pop",
     "folk-metal",
-    "viking-metal",
     "metal",
-    "folk",
-    "instrumental"
+    "viking-metal",
+    "instrumental",
+    "folk"
   ]
 }

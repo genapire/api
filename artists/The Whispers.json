@@ -1,16 +1,9 @@
 {
   "genres": [
-    "disco",
-    "funk",
     "soul",
+    "funk",
+    "disco",
     "80s",
-    "dance",
-    "old-school-groove",
-    "christmas",
-    "rnb",
-    "boogie",
-    "70s",
-    "party",
-    "pop"
+    "dance"
   ]
 }

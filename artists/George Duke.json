@@ -1,20 +1,9 @@
 {
   "genres": [
-    "jazz-fusion",
-    "jazz-funk",
-    "funk",
     "jazz",
-    "90s",
-    "soul",
+    "jazz-fusion",
+    "funk",
     "smooth-jazz",
-    "00s",
-    "disco",
-    "80s",
-    "rock",
-    "guitar",
-    "70s",
-    "jazz-piano",
-    "instrumental",
-    "latin"
+    "jazz-funk"
   ]
 }

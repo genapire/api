@@ -1,28 +1,9 @@
 {
   "genres": [
-    "folk",
-    "lo-fi",
-    "folk-rock",
-    "cover",
     "rock",
+    "folk",
+    "folk-rock",
     "classic-rock",
-    "country",
-    "country-rock",
-    "1970s",
-    "70s",
-    "acoustic",
-    "rock-and-roll",
-    "hard-rock",
-    "90s",
-    "80s",
-    "garage-rock",
-    "electronic",
-    "folk-singer-songwriter",
-    "60s",
-    "soundtrack",
-    "10s",
-    "psychedelic-rock",
-    "blues-rock",
-    "new-wave"
+    "70s"
   ]
 }

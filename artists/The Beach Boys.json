@@ -1,28 +1,9 @@
 {
   "genres": [
     "60s",
-    "classic-rock",
     "pop",
-    "surf",
+    "classic-rock",
     "rock",
-    "oldies",
-    "rock-and-roll",
-    "soft-rock",
-    "70s",
-    "pop-rock",
-    "folk",
-    "folk-rock",
-    "cover",
-    "country-rock",
-    "christmas",
-    "psychedelic-pop",
-    "progressive-rock",
-    "80s",
-    "synthpop",
-    "progressive-pop",
-    "psychedelic-rock",
-    "psychedelic",
-    "instrumental",
-    "christmas-music"
+    "surf"
   ]
 }

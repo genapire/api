@@ -1,11 +1,9 @@
 {
   "genres": [
-    "new-wave",
     "synthpop",
-    "pop",
+    "new-wave",
     "pop-rock",
-    "soft-rock",
-    "rock",
-    "alternative"
+    "pop",
+    "soft-rock"
   ]
 }

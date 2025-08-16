@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>electronic</genre>
     <genre>soundtrack</genre>
     <genre>instrumental</genre>
     <genre>80s</genre>
-    <genre>electronic</genre>
     <genre>synth-pop</genre>
-    <genre>jazz-fusion</genre>
-    <genre>progressive-rock</genre>
   </genres>
 </album>

@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>cover</genre>
-    <genre>female-vocalists</genre>
-    <genre>covers</genre>
     <genre>rock</genre>
     <genre>alternative</genre>
     <genre>alternative-rock</genre>
+    <genre>female-vocalists</genre>
     <genre>90s</genre>
-    <genre>pop</genre>
-    <genre>celtic</genre>
-    <genre>pop-rock</genre>
-    <genre>indie-rock</genre>
-    <genre>indie</genre>
-    <genre>dream-pop</genre>
-    <genre>acoustic</genre>
   </genres>
 </album>

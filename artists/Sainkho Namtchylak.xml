@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>ambient</genre>
     <genre>folk</genre>
     <genre>downtempo</genre>
-    <genre>jazz</genre>
     <genre>experimental</genre>
-    <genre>free-jazz</genre>
-    <genre>female-vocalists</genre>
-    <genre>trip-hop</genre>
+    <genre>ambient</genre>
+    <genre>jazz</genre>
   </genres>
 </album>

@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop-punk</genre>
     <genre>punk-rock</genre>
-    <genre>rock</genre>
-    <genre>alternative-rock</genre>
     <genre>punk</genre>
+    <genre>rock</genre>
+    <genre>pop-punk</genre>
     <genre>alternative</genre>
-    <genre>90s</genre>
-    <genre>hard-rock</genre>
-    <genre>pop-rock</genre>
-    <genre>garage-rock</genre>
-    <genre>acoustic</genre>
-    <genre>power-pop</genre>
-    <genre>cover</genre>
   </genres>
 </album>

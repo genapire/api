@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>experimental</genre>
     <genre>instrumental</genre>
+    <genre>experimental</genre>
     <genre>progressive-rock</genre>
-    <genre>acoustic</genre>
-    <genre>classical</genre>
     <genre>ambient</genre>
-    <genre>chillout</genre>
-    <genre>post-rock</genre>
-    <genre>trip-hop</genre>
-    <genre>funk-metal</genre>
     <genre>guitar</genre>
-    <genre>progressive-metal</genre>
-    <genre>rock</genre>
-    <genre>alternative-metal</genre>
-    <genre>thrash-metal</genre>
-    <genre>metal</genre>
-    <genre>dark-ambient</genre>
-    <genre>death-metal</genre>
-    <genre>psychedelic-rock</genre>
-    <genre>psychedelic</genre>
   </genres>
 </album>

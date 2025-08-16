@@ -1,11 +1,9 @@
 {
   "genres": [
-    "rock",
-    "blues",
     "psychedelic-rock",
-    "hard-rock",
     "stoner-rock",
     "indie-pop",
-    "lo-fi"
+    "lo-fi",
+    "rock"
   ]
 }

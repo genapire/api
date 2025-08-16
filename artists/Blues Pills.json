@@ -1,11 +1,9 @@
 {
   "genres": [
-    "blues-rock",
     "psychedelic-rock",
+    "blues-rock",
     "rock",
     "swedish",
-    "stoner-rock",
-    "cover",
-    "hard-rock"
+    "stoner-rock"
   ]
 }

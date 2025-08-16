@@ -1,14 +1,9 @@
 {
   "genres": [
     "house",
-    "electronic",
-    "progressive-house",
-    "pop",
-    "synthpop",
     "dance",
+    "electronic",
     "electropop",
-    "british",
-    "electro-house",
-    "electronica"
+    "pop"
   ]
 }

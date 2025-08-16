@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative</genre>
-    <genre>80s</genre>
     <genre>alternative-rock</genre>
+    <genre>alternative</genre>
     <genre>rock</genre>
+    <genre>80s</genre>
     <genre>indie</genre>
-    <genre>cover</genre>
-    <genre>covers</genre>
-    <genre>punk</genre>
-    <genre>folk</genre>
-    <genre>post-punk</genre>
-    <genre>folk-rock</genre>
-    <genre>punk-rock</genre>
-    <genre>90s</genre>
   </genres>
 </album>

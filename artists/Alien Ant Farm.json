@@ -1,14 +1,9 @@
 {
   "genres": [
-    "rock",
-    "hard-rock",
-    "alternative",
     "alternative-rock",
+    "rock",
+    "alternative",
     "punk-rock",
-    "punk",
-    "alternative-metal",
-    "post-grunge",
-    "cover",
-    "covers"
+    "punk"
   ]
 }

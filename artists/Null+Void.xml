@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synthpop</genre>
     <genre>electronic</genre>
+    <genre>synthpop</genre>
     <genre>techno</genre>
     <genre>new-wave</genre>
     <genre>alternative</genre>
-    <genre>rock</genre>
-    <genre>glitch</genre>
-    <genre>minimal</genre>
-    <genre>ambient</genre>
-    <genre>experimental</genre>
   </genres>
 </album>

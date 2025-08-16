@@ -1,13 +1,9 @@
 {
   "genres": [
-    "dark-ambient",
-    "ambient-pop",
     "ambient",
+    "dark-ambient",
     "electronic",
-    "post-industrial",
-    "cover",
-    "post-rock",
-    "synthpop",
-    "christmas"
+    "ambient-pop",
+    "post-industrial"
   ]
 }

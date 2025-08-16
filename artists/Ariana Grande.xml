@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>christmas</genre>
-    <genre>rnb</genre>
-    <genre>soul</genre>
     <genre>pop</genre>
-    <genre>female-vocalists</genre>
+    <genre>rnb</genre>
     <genre>trap</genre>
-    <genre>electropop</genre>
-    <genre>house</genre>
-    <genre>cover</genre>
-    <genre>rap</genre>
-    <genre>hip-hop</genre>
+    <genre>female-vocalists</genre>
+    <genre>soul</genre>
   </genres>
 </album>

@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie</genre>
     <genre>electronic</genre>
     <genre>experimental</genre>
     <genre>electro</genre>
-    <genre>glitch</genre>
+    <genre>indie</genre>
     <genre>indie-pop</genre>
-    <genre>british</genre>
-    <genre>indietronica</genre>
-    <genre>instrumental</genre>
-    <genre>synthpop</genre>
-    <genre>idm</genre>
-    <genre>psychedelic</genre>
-    <genre>alternative-dance</genre>
   </genres>
 </album>

@@ -1,20 +1,9 @@
 {
   "genres": [
-    "electronic",
-    "synthpop",
-    "dream-pop",
-    "electropop",
-    "synthwave",
-    "american",
     "ambient",
-    "dark-ambient",
-    "soundtrack",
-    "indie",
-    "10s",
-    "progressive-electronic",
-    "ambient-pop",
-    "ambient-experimental",
-    "lounge",
-    "pop"
+    "electronic",
+    "synthwave",
+    "synthpop",
+    "dark-ambient"
   ]
 }

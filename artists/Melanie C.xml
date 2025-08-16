@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative</genre>
-    <genre>alternative-rock</genre>
-    <genre>indie</genre>
     <genre>pop</genre>
-    <genre>female-vocalists</genre>
     <genre>british</genre>
-    <genre>rock</genre>
+    <genre>female-vocalists</genre>
     <genre>dance</genre>
-    <genre>electropop</genre>
-    <genre>party</genre>
-    <genre>cover</genre>
-    <genre>pop-rock</genre>
-    <genre>female-vocalist</genre>
-    <genre>electronic</genre>
-    <genre>synthpop</genre>
+    <genre>rock</genre>
   </genres>
 </album>

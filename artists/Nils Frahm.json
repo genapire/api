@@ -1,17 +1,9 @@
 {
   "genres": [
-    "piano",
-    "ambient",
     "contemporary-classical",
+    "ambient",
+    "piano",
     "modern-classical",
-    "neoclassical",
-    "minimal",
-    "instrumental",
-    "ost",
-    "electronic",
-    "melancholic",
-    "neo-classical",
-    "classical",
-    "progressive-electronic"
+    "neoclassical"
   ]
 }

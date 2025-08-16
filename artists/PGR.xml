@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>ambient</genre>
-    <genre>dark-ambient</genre>
-    <genre>industrial</genre>
-    <genre>experimental</genre>
     <genre>italian</genre>
-    <genre>10s</genre>
+    <genre>ambient</genre>
+    <genre>experimental</genre>
     <genre>00s</genre>
-    <genre>rock</genre>
+    <genre>dark-ambient</genre>
   </genres>
 </album>

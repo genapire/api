@@ -1,11 +1,9 @@
 {
   "genres": [
-    "cover",
     "soundtrack",
     "instrumental",
     "classical",
-    "ost",
-    "piano",
-    "ambient"
+    "cover",
+    "ost"
   ]
 }

@@ -1,14 +1,9 @@
 {
   "genres": [
-    "blues-rock",
     "psychedelic-rock",
+    "blues-rock",
     "stoner-rock",
     "psychedelic",
-    "hard-rock",
-    "60s",
-    "acid-rock",
-    "psytrance",
-    "ambient",
-    "progressive-trance"
+    "hard-rock"
   ]
 }

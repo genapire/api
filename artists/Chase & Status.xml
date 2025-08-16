@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>electronic</genre>
-    <genre>dance</genre>
     <genre>drum-and-bass</genre>
+    <genre>electronic</genre>
     <genre>dubstep</genre>
-    <genre>british</genre>
+    <genre>dance</genre>
     <genre>hip-hop</genre>
-    <genre>reggae</genre>
-    <genre>dancehall</genre>
   </genres>
 </album>

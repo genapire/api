@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop-rock</genre>
-    <genre>alternative</genre>
     <genre>indie</genre>
+    <genre>alternative</genre>
     <genre>rock</genre>
     <genre>indie-rock</genre>
-    <genre>art-rock</genre>
     <genre>britpop</genre>
-    <genre>british</genre>
-    <genre>00s</genre>
-    <genre>melancholy</genre>
-    <genre>alternative-rock</genre>
-    <genre>progressive-rock</genre>
   </genres>
 </album>

@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>folk</genre>
-    <genre>90s</genre>
     <genre>female-vocalists</genre>
-    <genre>indie</genre>
-    <genre>pop</genre>
-    <genre>10s</genre>
-    <genre>electronic</genre>
-    <genre>trip-hop</genre>
+    <genre>folk</genre>
     <genre>alternative</genre>
-    <genre>00s</genre>
-    <genre>dub</genre>
+    <genre>indie</genre>
+    <genre>90s</genre>
   </genres>
 </album>

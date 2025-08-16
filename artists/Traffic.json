@@ -1,11 +1,9 @@
 {
   "genres": [
+    "classic-rock",
     "rock",
     "progressive-rock",
-    "classic-rock",
-    "psychedelic-rock",
     "60s",
-    "psychedelic",
-    "70s"
+    "psychedelic-rock"
   ]
 }

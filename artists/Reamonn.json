@@ -1,11 +1,9 @@
 {
   "genres": [
     "rock",
-    "alternative",
-    "alternative-rock",
     "pop",
-    "soft-rock",
-    "pop-rock",
-    "romantic"
+    "alternative-rock",
+    "alternative",
+    "soft-rock"
   ]
 }

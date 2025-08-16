@@ -1,14 +1,9 @@
 {
   "genres": [
-    "instrumental",
     "piano",
+    "instrumental",
     "jazz",
     "classical",
-    "modern-classical",
-    "post-punk",
-    "electronic",
-    "experimental",
-    "neoclassical",
-    "contemporary-classical"
+    "modern-classical"
   ]
 }

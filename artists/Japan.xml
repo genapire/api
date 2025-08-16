@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>glam-rock</genre>
-    <genre>post-punk</genre>
     <genre>new-wave</genre>
+    <genre>post-punk</genre>
     <genre>80s</genre>
-    <genre>cover</genre>
     <genre>electronic</genre>
-    <genre>rock</genre>
     <genre>art-rock</genre>
-    <genre>piano</genre>
   </genres>
 </album>

@@ -1,11 +1,9 @@
 {
   "genres": [
     "breakcore",
-    "classical",
     "experimental",
-    "idm",
-    "electronic",
-    "baroque",
-    "metal"
+    "metal",
+    "classical",
+    "idm"
   ]
 }

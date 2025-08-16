@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>indie</genre>
     <genre>rock</genre>
+    <genre>french</genre>
     <genre>progressive-pop</genre>
     <genre>cover</genre>
-    <genre>indie</genre>
-    <genre>pop</genre>
-    <genre>electronic</genre>
-    <genre>dance</genre>
-    <genre>french</genre>
-    <genre>indie-pop</genre>
-    <genre>folk</genre>
   </genres>
 </album>

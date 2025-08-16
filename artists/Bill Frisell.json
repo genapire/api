@@ -1,19 +1,9 @@
 {
   "genres": [
     "jazz",
+    "jazz-fusion",
     "guitar",
     "instrumental",
-    "jazz-fusion",
-    "jazz-guitar",
-    "americana",
-    "acoustic",
-    "free-jazz",
-    "avant-garde-jazz",
-    "contemporary-jazz",
-    "80s",
-    "experimental",
-    "piano",
-    "jazz-piano",
-    "00s"
+    "jazz-guitar"
   ]
 }

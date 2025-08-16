@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>female-vocalists</genre>
     <genre>experimental</genre>
+    <genre>female-vocalists</genre>
     <genre>electronic</genre>
     <genre>piano</genre>
     <genre>indie</genre>
-    <genre>synthpop</genre>
-    <genre>alternative-pop</genre>
-    <genre>trip-hop</genre>
-    <genre>ambient-pop</genre>
-    <genre>pop</genre>
-    <genre>electro</genre>
-    <genre>hip-hop</genre>
-    <genre>hiphop</genre>
-    <genre>indie-pop</genre>
-    <genre>female-vocals</genre>
   </genres>
 </album>

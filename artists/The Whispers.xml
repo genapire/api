@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>disco</genre>
-    <genre>funk</genre>
     <genre>soul</genre>
+    <genre>funk</genre>
+    <genre>disco</genre>
     <genre>80s</genre>
     <genre>dance</genre>
-    <genre>old-school-groove</genre>
-    <genre>christmas</genre>
-    <genre>rnb</genre>
-    <genre>boogie</genre>
-    <genre>70s</genre>
-    <genre>party</genre>
-    <genre>pop</genre>
   </genres>
 </album>

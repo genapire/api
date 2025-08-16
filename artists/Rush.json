@@ -1,15 +1,9 @@
 {
   "genres": [
     "progressive-rock",
-    "classic-rock",
-    "hard-rock",
     "rock",
-    "70s",
-    "instrumental",
-    "experimental",
-    "80s",
-    "new-wave",
-    "90s",
-    "cover"
+    "hard-rock",
+    "classic-rock",
+    "80s"
   ]
 }

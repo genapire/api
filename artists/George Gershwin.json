@@ -1,14 +1,9 @@
 {
   "genres": [
     "classical",
+    "jazz",
     "contemporary-classical",
     "baroque",
-    "soundtrack",
-    "jazz",
-    "piano",
-    "instrumental",
-    "female-vocalists",
-    "jazz-vocal",
-    "blues"
+    "soundtrack"
   ]
 }

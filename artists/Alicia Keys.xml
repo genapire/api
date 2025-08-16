@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soul</genre>
     <genre>rnb</genre>
+    <genre>soul</genre>
     <genre>female-vocalists</genre>
     <genre>pop</genre>
     <genre>american</genre>
-    <genre>soft-rock</genre>
-    <genre>blues</genre>
-    <genre>blues-rock</genre>
-    <genre>neo-soul</genre>
-    <genre>trip-hop</genre>
-    <genre>dance</genre>
-    <genre>house</genre>
-    <genre>electronic</genre>
-    <genre>deep-house</genre>
-    <genre>chillout</genre>
-    <genre>hip-hop</genre>
-    <genre>smooth-soul</genre>
-    <genre>christmas</genre>
-    <genre>piano</genre>
-    <genre>synthpop</genre>
   </genres>
 </album>

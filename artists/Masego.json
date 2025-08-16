@@ -1,12 +1,9 @@
 {
   "genres": [
-    "jazz",
     "rnb",
+    "jazz",
     "soul",
     "electronic",
-    "house",
-    "smooth-jazz",
-    "neo-soul",
-    "soul-jazz"
+    "house"
   ]
 }

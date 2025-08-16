@@ -1,14 +1,9 @@
 {
   "genres": [
     "rock",
-    "classic-rock",
     "hard-rock",
+    "classic-rock",
     "80s",
-    "70s",
-    "soft-rock",
-    "pop",
-    "90s",
-    "metal",
-    "female-vocalists"
+    "70s"
   ]
 }

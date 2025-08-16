@@ -1,20 +1,9 @@
 {
   "genres": [
     "hard-rock",
-    "blues-rock",
-    "classic-rock",
     "rock",
+    "classic-rock",
     "progressive-rock",
-    "heavy-metal",
-    "cover",
-    "instrumental",
-    "70s",
-    "80s",
-    "pop",
-    "psychedelic-rock",
-    "pop-rock",
-    "british",
-    "country",
-    "rock-and-roll"
+    "heavy-metal"
   ]
 }

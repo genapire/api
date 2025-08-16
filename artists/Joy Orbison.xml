@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>dubstep</genre>
     <genre>electronic</genre>
+    <genre>dubstep</genre>
     <genre>house</genre>
     <genre>deep-house</genre>
     <genre>experimental</genre>
-    <genre>ambient</genre>
-    <genre>downtempo</genre>
   </genres>
 </album>

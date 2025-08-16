@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>80s</genre>
     <genre>female-vocalists</genre>
-    <genre>country</genre>
-    <genre>jazz</genre>
-    <genre>oldies</genre>
-    <genre>vocal-jazz</genre>
-    <genre>easy-listening</genre>
     <genre>pop</genre>
-    <genre>blues</genre>
-    <genre>cover</genre>
-    <genre>covers</genre>
-    <genre>female-vocals</genre>
-    <genre>folk</genre>
-    <genre>90s</genre>
+    <genre>country</genre>
+    <genre>80s</genre>
+    <genre>jazz</genre>
   </genres>
 </album>

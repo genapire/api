@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz-fusion</genre>
-    <genre>jazz-funk</genre>
-    <genre>funk</genre>
     <genre>jazz</genre>
-    <genre>90s</genre>
-    <genre>soul</genre>
+    <genre>jazz-fusion</genre>
+    <genre>funk</genre>
     <genre>smooth-jazz</genre>
-    <genre>00s</genre>
-    <genre>disco</genre>
-    <genre>80s</genre>
-    <genre>rock</genre>
-    <genre>guitar</genre>
-    <genre>70s</genre>
-    <genre>jazz-piano</genre>
-    <genre>instrumental</genre>
-    <genre>latin</genre>
+    <genre>jazz-funk</genre>
   </genres>
 </album>

@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
     <genre>rock</genre>
     <genre>alternative</genre>
     <genre>alternative-rock</genre>
     <genre>britpop</genre>
-    <genre>pop-rock</genre>
-    <genre>art-rock</genre>
-    <genre>electronic</genre>
-    <genre>indie-pop</genre>
-    <genre>new-age</genre>
-    <genre>progressive-rock</genre>
-    <genre>synthpop</genre>
-    <genre>british</genre>
-    <genre>00s</genre>
-    <genre>indie</genre>
+    <genre>pop</genre>
   </genres>
 </album>

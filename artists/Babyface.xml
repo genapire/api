@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rnb</genre>
     <genre>soul</genre>
+    <genre>rnb</genre>
     <genre>pop</genre>
     <genre>rhythm-and-blues</genre>
-    <genre>holiday-soul</genre>
     <genre>christmas</genre>
-    <genre>90s</genre>
-    <genre>80s</genre>
-    <genre>00s</genre>
-    <genre>american</genre>
-    <genre>saxophone</genre>
   </genres>
 </album>

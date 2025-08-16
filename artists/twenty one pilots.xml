@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-pop</genre>
     <genre>alternative</genre>
-    <genre>electronic</genre>
-    <genre>indie</genre>
-    <genre>trip-hop</genre>
-    <genre>alt-pop</genre>
     <genre>rock</genre>
+    <genre>indie-pop</genre>
+    <genre>indie</genre>
     <genre>indie-rock</genre>
-    <genre>synthpop</genre>
-    <genre>new-wave</genre>
-    <genre>pop</genre>
-    <genre>alternative-rock</genre>
-    <genre>indietronica</genre>
-    <genre>rap</genre>
   </genres>
 </album>

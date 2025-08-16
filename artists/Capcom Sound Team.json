@@ -1,20 +1,9 @@
 {
   "genres": [
-    "video-game-music",
     "soundtrack",
+    "video-game-music",
     "japanese",
     "game-music",
-    "dark-ambient",
-    "jazz",
-    "ambient",
-    "instrumental",
-    "electronic",
-    "drum-and-bass",
-    "metal",
-    "video-game-soundtrack",
-    "videogame-soundtrack",
-    "post-industrial",
-    "industrial-metal",
-    "chiptune"
+    "instrumental"
   ]
 }

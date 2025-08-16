@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>instrumental</genre>
     <genre>post-rock</genre>
     <genre>post-metal</genre>
+    <genre>instrumental</genre>
     <genre>progressive-rock</genre>
     <genre>ambiental-sludge</genre>
-    <genre>sludge-metal</genre>
-    <genre>post-rock-essentials</genre>
   </genres>
 </album>

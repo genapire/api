@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>acoustic</genre>
     <genre>pop</genre>
-    <genre>alternative</genre>
+    <genre>acoustic</genre>
     <genre>rock</genre>
+    <genre>alternative</genre>
     <genre>pop-rock</genre>
-    <genre>reggae</genre>
-    <genre>alternative-rock</genre>
-    <genre>soft-rock</genre>
-    <genre>00s</genre>
-    <genre>american</genre>
-    <genre>folk</genre>
   </genres>
 </album>

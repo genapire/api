@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>instrumental</genre>
     <genre>post-rock</genre>
-    <genre>electronic</genre>
-    <genre>electro</genre>
-    <genre>ambient</genre>
-    <genre>shoegaze</genre>
+    <genre>instrumental</genre>
     <genre>indie</genre>
+    <genre>ambient</genre>
     <genre>alternative</genre>
-    <genre>experimental</genre>
-    <genre>rock</genre>
-    <genre>ambient-rock</genre>
-    <genre>calm</genre>
-    <genre>ost</genre>
   </genres>
 </album>

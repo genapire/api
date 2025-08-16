@@ -1,13 +1,9 @@
 {
   "genres": [
-    "techno",
-    "trance",
     "dance",
     "electronic",
-    "hard-trance",
-    "minimal",
-    "ambient",
-    "party",
-    "pop"
+    "trance",
+    "techno",
+    "hard-trance"
   ]
 }

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>ambient-pop</genre>
-    <genre>experimental</genre>
     <genre>ambient</genre>
     <genre>piano</genre>
     <genre>contemporary-classical</genre>
     <genre>modern-classical</genre>
+    <genre>ambient-pop</genre>
   </genres>
 </album>

@@ -1,13 +1,9 @@
 {
   "genres": [
-    "trance",
     "dance",
+    "trance",
     "techno",
     "electronic",
-    "cover",
-    "house",
-    "hardcore",
-    "pop",
-    "electro"
+    "house"
   ]
 }

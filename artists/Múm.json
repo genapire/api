@@ -1,14 +1,9 @@
 {
   "genres": [
-    "idm",
-    "ambient",
     "electronic",
+    "ambient",
     "post-rock",
     "experimental",
-    "pop",
-    "indie",
-    "trip-hop",
-    "instrumental",
-    "indietronica"
+    "idm"
   ]
 }

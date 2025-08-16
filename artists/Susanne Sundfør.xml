@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>experimental</genre>
-    <genre>instrumental</genre>
-    <genre>electronica</genre>
     <genre>female-vocalists</genre>
+    <genre>experimental</genre>
     <genre>electronic</genre>
-    <genre>ambient</genre>
     <genre>folk</genre>
-    <genre>jazz</genre>
     <genre>pop</genre>
-    <genre>piano-rock</genre>
-    <genre>folk-pop</genre>
-    <genre>synthpop</genre>
-    <genre>electropop</genre>
-    <genre>indie-pop</genre>
-    <genre>indie</genre>
   </genres>
 </album>

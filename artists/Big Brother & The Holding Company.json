@@ -1,12 +1,9 @@
 {
   "genres": [
+    "classic-rock",
     "rock",
     "blues",
     "psychedelic-rock",
-    "classic-rock",
-    "60s",
-    "psychedelic",
-    "blues-rock",
-    "female-vocalists"
+    "60s"
   ]
 }

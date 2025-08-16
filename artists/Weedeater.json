@@ -1,9 +1,9 @@
 {
   "genres": [
-    "stoner-rock",
-    "sludge-metal",
     "stoner-metal",
     "doom-metal",
-    "metal"
+    "sludge-metal",
+    "metal",
+    "stoner-rock"
   ]
 }

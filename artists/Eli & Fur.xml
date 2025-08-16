@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>deep-house</genre>
     <genre>house</genre>
     <genre>electronic</genre>
-    <genre>deep-house</genre>
     <genre>dance</genre>
     <genre>female-vocalists</genre>
-    <genre>chill-house</genre>
-    <genre>progressive-house</genre>
   </genres>
 </album>

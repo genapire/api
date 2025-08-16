@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>post-hardcore</genre>
     <genre>hardcore</genre>
+    <genre>post-hardcore</genre>
     <genre>metal</genre>
     <genre>alternative-rock</genre>
     <genre>rock</genre>
-    <genre>electronic</genre>
-    <genre>pop</genre>
-    <genre>alternative-metal</genre>
-    <genre>death-metal</genre>
-    <genre>experimental</genre>
-    <genre>ambient</genre>
-    <genre>trance</genre>
-    <genre>hard-rock</genre>
-    <genre>electropop</genre>
-    <genre>dubstep</genre>
-    <genre>nu-metal</genre>
-    <genre>punk</genre>
   </genres>
 </album>

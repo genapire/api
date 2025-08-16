@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>female-vocalists</genre>
     <genre>folk</genre>
+    <genre>female-vocalists</genre>
     <genre>indie</genre>
     <genre>americana</genre>
     <genre>folk-rock</genre>
-    <genre>rock</genre>
-    <genre>2020s-folk</genre>
-    <genre>female-vocals</genre>
-    <genre>2010s-folk</genre>
   </genres>
 </album>

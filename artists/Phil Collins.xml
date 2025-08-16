@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soft-rock</genre>
-    <genre>progressive-rock</genre>
-    <genre>british</genre>
     <genre>pop</genre>
-    <genre>80s</genre>
     <genre>rock</genre>
-    <genre>instrumental</genre>
+    <genre>80s</genre>
+    <genre>soft-rock</genre>
     <genre>classic-rock</genre>
-    <genre>art-rock</genre>
-    <genre>soundtrack</genre>
-    <genre>female-vocalists</genre>
-    <genre>pop-rock</genre>
-    <genre>new-wave</genre>
-    <genre>cover</genre>
-    <genre>soul</genre>
-    <genre>funk</genre>
-    <genre>dance-pop</genre>
   </genres>
 </album>

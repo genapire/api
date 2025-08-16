@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>downtempo</genre>
     <genre>trip-hop</genre>
+    <genre>downtempo</genre>
     <genre>electronic</genre>
     <genre>chillout</genre>
-    <genre>jazz</genre>
-    <genre>experimental</genre>
-    <genre>breaks</genre>
     <genre>ambient</genre>
-    <genre>acid-jazz</genre>
   </genres>
 </album>

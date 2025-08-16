@@ -1,19 +1,9 @@
 {
   "genres": [
-    "8-bit",
     "chiptune",
-    "progressive-rock",
+    "8-bit",
     "electronic",
-    "electronica",
     "ambient",
-    "video-game-music",
-    "noise",
-    "electro",
-    "electrofunk",
-    "progressive-electronica",
-    "indie",
-    "instrumental",
-    "techno",
-    "soundtrack"
+    "video-game-music"
   ]
 }

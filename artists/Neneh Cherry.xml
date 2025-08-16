@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soul</genre>
-    <genre>jazz</genre>
-    <genre>experimental</genre>
-    <genre>trip-hop</genre>
-    <genre>electronic</genre>
     <genre>pop</genre>
     <genre>swedish</genre>
+    <genre>soul</genre>
+    <genre>trip-hop</genre>
     <genre>female-vocalists</genre>
-    <genre>hip-hop</genre>
   </genres>
 </album>

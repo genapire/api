@@ -1,18 +1,9 @@
 {
   "genres": [
     "jazz",
+    "contemporary-jazz",
     "instrumental",
     "saxophone",
-    "jazz-piano",
-    "contemporary-jazz",
-    "experimental",
-    "dark-ambient",
-    "dark-jazz",
-    "jazz-fusion",
-    "avantgarde-jazz",
-    "british",
-    "modern-jazz",
-    "jazz-meets-east",
-    "vocal-jazz"
+    "experimental"
   ]
 }

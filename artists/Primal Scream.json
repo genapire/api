@@ -1,26 +1,9 @@
 {
   "genres": [
-    "00s",
-    "alternative-rock",
-    "soundtrack",
-    "rock",
-    "synthpop",
-    "alternative-dance",
-    "pop",
-    "alternative",
     "indie",
-    "electronic",
+    "rock",
+    "alternative",
     "90s",
-    "britpop",
-    "dub",
-    "cover",
-    "indie-rock",
-    "psychedelic-rock",
-    "garage-rock",
-    "80s",
-    "indie-pop",
-    "psychedelic",
-    "power-pop",
-    "instrumental"
+    "electronic"
   ]
 }

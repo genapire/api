@@ -1,24 +1,9 @@
 {
   "genres": [
-    "latin-rock",
     "rock",
+    "latin-rock",
     "classic-rock",
     "latin",
-    "guitar",
-    "jazz-fusion",
-    "blues",
-    "instrumental",
-    "80s",
-    "jazz-rock",
-    "70s",
-    "latin-jazz",
-    "90s",
-    "blues-rock",
-    "hard-rock",
-    "instrumental-rock",
-    "soul",
-    "hip-hop",
-    "rnb",
-    "neo-soul"
+    "guitar"
   ]
 }

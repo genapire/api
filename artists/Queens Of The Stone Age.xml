@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative-rock</genre>
     <genre>stoner-rock</genre>
     <genre>rock</genre>
+    <genre>alternative-rock</genre>
     <genre>hard-rock</genre>
-    <genre>10s</genre>
     <genre>alternative</genre>
-    <genre>cover</genre>
-    <genre>00s</genre>
-    <genre>american</genre>
   </genres>
 </album>

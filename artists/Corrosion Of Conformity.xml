@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>metal</genre>
     <genre>stoner-rock</genre>
     <genre>heavy-metal</genre>
-    <genre>hard-rock</genre>
-    <genre>metal</genre>
-    <genre>80s</genre>
-    <genre>sludge-metal</genre>
     <genre>stoner-metal</genre>
-    <genre>thrash-metal</genre>
-    <genre>rock</genre>
-    <genre>instrumental</genre>
-    <genre>hardcore</genre>
-    <genre>hardcore-punk</genre>
-    <genre>thrash</genre>
+    <genre>hard-rock</genre>
   </genres>
 </album>

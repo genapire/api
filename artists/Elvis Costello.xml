@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>new-wave</genre>
     <genre>rock</genre>
-    <genre>classic-rock</genre>
+    <genre>new-wave</genre>
     <genre>alternative</genre>
-    <genre>pop</genre>
-    <genre>british</genre>
-    <genre>90s</genre>
-    <genre>alt-rock</genre>
-    <genre>00s</genre>
+    <genre>classic-rock</genre>
     <genre>80s</genre>
-    <genre>soundtrack</genre>
-    <genre>covers</genre>
-    <genre>70s</genre>
-    <genre>country</genre>
-    <genre>folk</genre>
-    <genre>punk</genre>
-    <genre>pop-rock</genre>
-    <genre>soul</genre>
-    <genre>funk</genre>
   </genres>
 </album>

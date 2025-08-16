@@ -1,13 +1,9 @@
 {
   "genres": [
     "folk",
-    "classic-rock",
     "70s",
+    "classic-rock",
     "rock",
-    "cover",
-    "country",
-    "oldies",
-    "folk-rock",
-    "folk-pop"
+    "oldies"
   ]
 }

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop-rock</genre>
-    <genre>blues-rock</genre>
-    <genre>rock</genre>
     <genre>funk</genre>
     <genre>soul</genre>
+    <genre>rock</genre>
     <genre>indie</genre>
-    <genre>british</genre>
-    <genre>soundtrack</genre>
-    <genre>alternative-rock</genre>
+    <genre>pop-rock</genre>
   </genres>
 </album>

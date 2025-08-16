@@ -1,13 +1,9 @@
 {
   "genres": [
-    "rock",
     "alternative",
+    "rock",
     "alternative-rock",
     "90s",
-    "noise-rock",
-    "acoustic",
-    "american",
-    "hard-rock",
-    "cover"
+    "noise-rock"
   ]
 }

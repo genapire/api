@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>hard-rock</genre>
     <genre>rock</genre>
-    <genre>90s</genre>
+    <genre>hard-rock</genre>
     <genre>classic-rock</genre>
     <genre>80s</genre>
-    <genre>glam-metal</genre>
     <genre>heavy-metal</genre>
-    <genre>british</genre>
-    <genre>pop-rock</genre>
-    <genre>cover</genre>
   </genres>
 </album>

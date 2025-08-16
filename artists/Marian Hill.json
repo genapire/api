@@ -1,13 +1,9 @@
 {
   "genres": [
-    "electronic",
-    "alternative",
     "pop",
+    "electronic",
     "jazz",
-    "female-vocalist",
-    "female-vocals",
-    "indie",
-    "chillout",
-    "female-vocalists"
+    "alternative",
+    "female-vocalist"
   ]
 }

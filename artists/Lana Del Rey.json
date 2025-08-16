@@ -1,19 +1,9 @@
 {
   "genres": [
-    "soft-rock",
-    "rock",
     "indie",
-    "female-vocalists",
     "pop",
+    "female-vocalists",
     "indie-pop",
-    "alternative",
-    "country",
-    "folk",
-    "dream-pop",
-    "modern-classical",
-    "trip-hop",
-    "cover",
-    "rap",
-    "hip-hop"
+    "alternative"
   ]
 }

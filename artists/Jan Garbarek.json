@@ -1,10 +1,9 @@
 {
   "genres": [
-    "classical",
     "saxophone",
     "jazz",
+    "classical",
     "contemporary-jazz",
-    "70s",
-    "jazz-piano"
+    "70s"
   ]
 }

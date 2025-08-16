@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
-    <genre>electronica</genre>
     <genre>electronic</genre>
-    <genre>martial-industrial</genre>
     <genre>trance</genre>
-    <genre>soundtrack</genre>
+    <genre>electronica</genre>
     <genre>breaks</genre>
-    <genre>rock</genre>
-    <genre>alternative-rock</genre>
-    <genre>chill-house</genre>
-    <genre>downtempo</genre>
-    <genre>trip-hop</genre>
-    <genre>drum-and-bass</genre>
-    <genre>chillout</genre>
+    <genre>soundtrack</genre>
   </genres>
 </album>

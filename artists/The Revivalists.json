@@ -1,13 +1,9 @@
 {
   "genres": [
     "rock",
-    "alternative-rock",
     "soul",
+    "alternative-rock",
     "funk",
-    "alternative-dance",
-    "new-wave",
-    "jazz",
-    "indie-pop",
-    "blues-rock"
+    "jazz"
   ]
 }

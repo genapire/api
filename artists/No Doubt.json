@@ -1,18 +1,9 @@
 {
   "genres": [
-    "rock",
     "ska",
+    "rock",
     "pop",
     "alternative",
-    "female-vocalists",
-    "electronic",
-    "punk",
-    "christmas",
-    "cover",
-    "ska-punk",
-    "pop-rock",
-    "alternative-rock",
-    "90s",
-    "reggae"
+    "female-vocalists"
   ]
 }
