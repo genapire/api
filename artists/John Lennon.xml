@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>classic-rock</genre>
+    <genre>rock</genre>
+    <genre>british</genre>
+    <genre>70s</genre>
+    <genre>80s</genre>
+    <genre>pop</genre>
+    <genre>metal</genre>
+    <genre>ambient</genre>
+    <genre>cover</genre>
+    <genre>noise</genre>
+    <genre>experimental</genre>
+  </genres>
+</album>

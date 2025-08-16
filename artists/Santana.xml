@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>latin-rock</genre>
+    <genre>rock</genre>
+    <genre>classic-rock</genre>
+    <genre>latin</genre>
+    <genre>guitar</genre>
+    <genre>jazz-fusion</genre>
+    <genre>blues</genre>
+    <genre>instrumental</genre>
+    <genre>80s</genre>
+    <genre>jazz-rock</genre>
+    <genre>70s</genre>
+    <genre>latin-jazz</genre>
+    <genre>90s</genre>
+    <genre>blues-rock</genre>
+    <genre>hard-rock</genre>
+    <genre>instrumental-rock</genre>
+    <genre>soul</genre>
+    <genre>hip-hop</genre>
+    <genre>rnb</genre>
+    <genre>neo-soul</genre>
+  </genres>
+</album>

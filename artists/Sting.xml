@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>rock</genre>
+    <genre>pop</genre>
+    <genre>classic-rock</genre>
+    <genre>british</genre>
+    <genre>soft-rock</genre>
+    <genre>80s</genre>
+    <genre>latin</genre>
+    <genre>jazz</genre>
+    <genre>reggae</genre>
+    <genre>dancehall</genre>
+    <genre>hip-hop</genre>
+    <genre>rnb</genre>
+    <genre>90s</genre>
+    <genre>soundtrack</genre>
+    <genre>pop-rock</genre>
+    <genre>christmas</genre>
+    <genre>folk</genre>
+    <genre>symphonic-rock</genre>
+    <genre>00s</genre>
+    <genre>classical</genre>
+    <genre>rap</genre>
+    <genre>celtic</genre>
+    <genre>lounge</genre>
+  </genres>
+</album>

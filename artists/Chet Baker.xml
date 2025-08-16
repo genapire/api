@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>jazz</genre>
+    <genre>cool-jazz</genre>
+    <genre>vocal-jazz</genre>
+    <genre>blues</genre>
+    <genre>jazz-vibraphone</genre>
+    <genre>female-vocalists</genre>
+    <genre>latin</genre>
+    <genre>funk</genre>
+    <genre>latin-jazz</genre>
+    <genre>smooth-jazz</genre>
+    <genre>50s</genre>
+    <genre>romantic</genre>
+    <genre>piano</genre>
+    <genre>saxophone</genre>
+    <genre>jazz-vocal</genre>
+    <genre>swing</genre>
+    <genre>free-jazz</genre>
+    <genre>instrumental</genre>
+    <genre>jazz-fusion</genre>
+    <genre>90s</genre>
+    <genre>bossa-nova</genre>
+  </genres>
+</album>

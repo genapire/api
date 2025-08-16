@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>alternative-rock</genre>
+    <genre>rock</genre>
+    <genre>alternative</genre>
+    <genre>indie</genre>
+    <genre>indie-rock</genre>
+    <genre>hip-hop</genre>
+    <genre>90s</genre>
+    <genre>christmas</genre>
+    <genre>power-pop</genre>
+    <genre>cover</genre>
+    <genre>pop</genre>
+    <genre>pop-rock</genre>
+    <genre>metal</genre>
+    <genre>heavy-metal</genre>
+    <genre>power-metal</genre>
+    <genre>alt-rock</genre>
+    <genre>punk</genre>
+    <genre>piano-rock</genre>
+    <genre>emo</genre>
+    <genre>covers</genre>
+    <genre>classic</genre>
+    <genre>folk</genre>
+    <genre>alternative-metal</genre>
+    <genre>symphonic-rock</genre>
+    <genre>progressive-rock</genre>
+    <genre>hard-rock</genre>
+    <genre>electropop</genre>
+    <genre>garage-rock</genre>
+    <genre>american</genre>
+  </genres>
+</album>

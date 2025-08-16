@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>classic-rock</genre>
+    <genre>progressive-rock</genre>
+    <genre>rock</genre>
+    <genre>70s</genre>
+    <genre>british</genre>
+    <genre>symphonic-rock</genre>
+    <genre>pop</genre>
+    <genre>80s</genre>
+    <genre>synthpop</genre>
+    <genre>cover</genre>
+    <genre>art-rock</genre>
+    <genre>disco</genre>
+    <genre>pop-rock</genre>
+    <genre>soundtrack</genre>
+    <genre>electronic</genre>
+  </genres>
+</album>

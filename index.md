@@ -87,6 +87,36 @@ curl "https://genapire.online/artists/{artist}/albums/{album}.(xml|json)"
 
 But you can get more information.
 
+
+### GET genres for artist
+
+```bash
+curl "https://genapire.online/artists/{artist}.(xml|json)"
+```
+
+An example for ABBA:
+
+```bash
+curl "https://genapire.online/artists/ABBA.json"
+```
+
+Response:
+
+```json
+{
+  "genres": [
+    "pop",
+    "disco",
+    "70s",
+    "swedish",
+    "80s",
+    "spanish",
+    "rock",
+    "christmas"
+  ]
+}
+```
+
 ### GET albums for artist
 
 ```bash

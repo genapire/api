@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>hard-rock</genre>
+    <genre>blues-rock</genre>
+    <genre>classic-rock</genre>
+    <genre>rock</genre>
+    <genre>progressive-rock</genre>
+    <genre>heavy-metal</genre>
+    <genre>cover</genre>
+    <genre>instrumental</genre>
+    <genre>70s</genre>
+    <genre>80s</genre>
+    <genre>pop</genre>
+    <genre>psychedelic-rock</genre>
+    <genre>pop-rock</genre>
+    <genre>british</genre>
+    <genre>country</genre>
+    <genre>rock-and-roll</genre>
+  </genres>
+</album>

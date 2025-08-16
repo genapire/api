@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>punk</genre>
+    <genre>punk-rock</genre>
+    <genre>rock</genre>
+    <genre>classic-rock</genre>
+    <genre>90s</genre>
+    <genre>cover</genre>
+    <genre>70s</genre>
+    <genre>post-punk</genre>
+    <genre>hard-rock</genre>
+    <genre>heavy-metal</genre>
+    <genre>alternative-rock</genre>
+    <genre>80s</genre>
+    <genre>new-wave</genre>
+    <genre>garage-rock</genre>
+    <genre>jazz</genre>
+    <genre>ambient</genre>
+    <genre>art-rock</genre>
+    <genre>electronic</genre>
+    <genre>experimental</genre>
+    <genre>party</genre>
+    <genre>easy-listening</genre>
+  </genres>
+</album>

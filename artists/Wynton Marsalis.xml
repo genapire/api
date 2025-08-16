@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>jazz</genre>
+    <genre>cool-jazz</genre>
+    <genre>instrumental</genre>
+    <genre>smooth-jazz</genre>
+    <genre>christmas</genre>
+    <genre>classical</genre>
+    <genre>baroque</genre>
+    <genre>80s</genre>
+    <genre>contemporary-jazz</genre>
+    <genre>country</genre>
+    <genre>classic-country</genre>
+    <genre>00s</genre>
+    <genre>jazz-fusion</genre>
+    <genre>vocal</genre>
+    <genre>90s</genre>
+    <genre>classic</genre>
+  </genres>
+</album>

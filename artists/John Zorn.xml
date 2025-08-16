@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <genres>
+    <genre>experimental</genre>
+    <genre>jazz</genre>
+    <genre>noise</genre>
+    <genre>jazz-fusion</genre>
+    <genre>metal</genre>
+    <genre>free-jazz</genre>
+    <genre>blues</genre>
+    <genre>avant-garde-jazz</genre>
+    <genre>jazz-rock</genre>
+    <genre>contemporary-classical</genre>
+    <genre>classical</genre>
+    <genre>contemporary-jazz</genre>
+    <genre>folk</genre>
+    <genre>piano</genre>
+    <genre>american</genre>
+    <genre>modern-classical</genre>
+    <genre>instrumental</genre>
+    <genre>avantgarde-jazz</genre>
+    <genre>guitar</genre>
+    <genre>acoustic</genre>
+    <genre>00s</genre>
+    <genre>jazz-guitar</genre>
+    <genre>progressive-folk</genre>
+    <genre>funk-metal</genre>
+    <genre>jazz-funk</genre>
+    <genre>progressive-rock</genre>
+    <genre>rock</genre>
+    <genre>easy-listening</genre>
+    <genre>noise-rock</genre>
+  </genres>
+</album>
