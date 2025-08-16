@@ -191,7 +191,7 @@ If your need can be met while maintaining these assumptions, then it's a yes.
 
 **Q: Will you create a plugin for jellyfin/beets/any ?**
 
-**A:** I have thought about it and have already started some work on a plugin for jellyfin, but for now C# defeated me :) 
+**A:** I have thought about it and have already started some work on a plugin for [jellyfin](https://github.com/genapire/jellyfin-genapire-plugin). Work in progress ...
 I would gladly accept help in this area. The list of contributions can't stay empty! :)
 
 # Free, forever
