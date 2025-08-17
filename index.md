@@ -203,6 +203,12 @@ if you like to thank me.
 - [Ko-Fi](https://ko-fi.com/K3K11ABGW5)
 - [Patreon](https://patreon.com/Zenedith)
 
+# Stats
+
+#### Artists: 8068
+#### Albums: 100439
+
+
 # License
 
 The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).
