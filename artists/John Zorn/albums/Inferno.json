@@ -1,8 +1,8 @@
 {
   "genres": [
-    "metal",
-    "jazz",
     "experimental",
-    "free-jazz"
+    "free-jazz",
+    "jazz",
+    "metal"
   ]
 }

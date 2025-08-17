@@ -1,9 +1,9 @@
 {
   "genres": [
-    "soundtrack",
     "ambient",
-    "video-game-music",
     "electronic",
-    "game-music"
+    "game-music",
+    "soundtrack",
+    "video-game-music"
   ]
 }

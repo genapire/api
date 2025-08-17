@@ -1,9 +1,9 @@
 {
   "genres": [
-    "electronic",
-    "metal",
-    "dance",
     "ambient",
-    "chillout"
+    "chillout",
+    "dance",
+    "electronic",
+    "metal"
   ]
 }

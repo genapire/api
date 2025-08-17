@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz</genre>
-    <genre>swedish</genre>
-    <genre>instrumental</genre>
-    <genre>piano</genre>
     <genre>contemporary-classical</genre>
+    <genre>instrumental</genre>
+    <genre>jazz</genre>
+    <genre>piano</genre>
+    <genre>swedish</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "salsa",
     "dance",
-    "latin-jazz",
+    "jazz",
     "latin",
-    "jazz"
+    "latin-jazz",
+    "salsa"
   ]
 }

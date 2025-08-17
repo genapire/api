@@ -1,9 +1,9 @@
 {
   "genres": [
-    "funk-metal",
-    "funk",
-    "metal",
     "alternative",
+    "funk",
+    "funk-metal",
+    "metal",
     "rock"
   ]
 }

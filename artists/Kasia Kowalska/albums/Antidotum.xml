@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>polish</genre>
     <genre>classic-rock</genre>
-    <genre>rock</genre>
     <genre>poezja-spiewana</genre>
+    <genre>polish</genre>
     <genre>pop</genre>
+    <genre>rock</genre>
   </genres>
 </album>

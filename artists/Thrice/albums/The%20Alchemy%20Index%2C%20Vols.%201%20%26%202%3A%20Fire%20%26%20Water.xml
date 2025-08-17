@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>triphop</genre>
-    <genre>post-hardcore</genre>
     <genre>art-rock</genre>
+    <genre>post-hardcore</genre>
+    <genre>triphop</genre>
   </genres>
 </album>

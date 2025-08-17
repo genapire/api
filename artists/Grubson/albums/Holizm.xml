@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>drum-and-bass</genre>
-    <genre>reggae</genre>
-    <genre>ragga</genre>
     <genre>dancehall</genre>
+    <genre>drum-and-bass</genre>
+    <genre>ragga</genre>
     <genre>rap</genre>
+    <genre>reggae</genre>
   </genres>
 </album>

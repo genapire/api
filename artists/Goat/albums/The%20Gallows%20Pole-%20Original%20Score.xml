@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>psychedelic-rock</genre>
-    <genre>psychedelic</genre>
     <genre>afrobeat</genre>
-    <genre>swedish</genre>
+    <genre>psychedelic</genre>
+    <genre>psychedelic-rock</genre>
     <genre>rock</genre>
+    <genre>swedish</genre>
   </genres>
 </album>

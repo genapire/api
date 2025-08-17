@@ -1,8 +1,8 @@
 {
   "genres": [
-    "folk-metal",
-    "power-metal",
     "cover",
-    "folk"
+    "folk",
+    "folk-metal",
+    "power-metal"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "indie",
-    "emo",
-    "alternative",
     "acoustic",
+    "alternative",
+    "emo",
+    "indie",
     "rock"
   ]
 }

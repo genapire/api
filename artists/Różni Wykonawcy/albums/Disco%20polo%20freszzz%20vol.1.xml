@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
-    <genre>dance</genre>
-    <genre>thrash-metal</genre>
     <genre>90s</genre>
+    <genre>dance</genre>
+    <genre>pop</genre>
+    <genre>thrash-metal</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>shoegaze</genre>
     <genre>alternative</genre>
     <genre>dream-pop</genre>
     <genre>post-rock</genre>
+    <genre>shoegaze</genre>
   </genres>
 </album>

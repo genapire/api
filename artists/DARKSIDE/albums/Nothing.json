@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
     "dub",
-    "indietronica",
     "electronic",
-    "krautrock"
+    "indietronica",
+    "krautrock",
+    "rock"
   ]
 }

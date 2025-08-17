@@ -1,9 +1,9 @@
 {
   "genres": [
-    "soundtrack",
-    "dark-ambient",
-    "synthpop",
     "ambient",
-    "electronic"
+    "dark-ambient",
+    "electronic",
+    "soundtrack",
+    "synthpop"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "progressive-rock",
     "alternative-rock",
-    "rock",
     "art-rock",
-    "post-punk"
+    "post-punk",
+    "progressive-rock",
+    "rock"
   ]
 }

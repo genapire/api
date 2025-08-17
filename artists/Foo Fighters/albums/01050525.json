@@ -1,8 +1,8 @@
 {
   "genres": [
-    "rock",
-    "alternative-rock",
     "acoustic",
-    "cover"
+    "alternative-rock",
+    "cover",
+    "rock"
   ]
 }

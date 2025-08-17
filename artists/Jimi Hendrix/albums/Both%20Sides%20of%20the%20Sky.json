@@ -1,8 +1,8 @@
 {
   "genres": [
-    "rock",
-    "classic-rock",
     "blues",
-    "psychedelic-rock"
+    "classic-rock",
+    "psychedelic-rock",
+    "rock"
   ]
 }

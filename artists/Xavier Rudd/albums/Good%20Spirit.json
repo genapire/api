@@ -1,9 +1,9 @@
 {
   "genres": [
-    "surf",
-    "rock",
     "acoustic",
     "blues",
-    "reggae"
+    "reggae",
+    "rock",
+    "surf"
   ]
 }

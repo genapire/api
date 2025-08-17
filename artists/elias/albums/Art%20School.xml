@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>swedish</genre>
-    <genre>rock</genre>
     <genre>alternative</genre>
     <genre>indie</genre>
+    <genre>rock</genre>
+    <genre>swedish</genre>
   </genres>
 </album>

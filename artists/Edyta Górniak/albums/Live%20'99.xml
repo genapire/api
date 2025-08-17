@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
     <genre>classic</genre>
-    <genre>relax</genre>
     <genre>female-vocalists</genre>
+    <genre>pop</genre>
+    <genre>relax</genre>
   </genres>
 </album>

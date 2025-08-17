@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>cold-wave</genre>
     <genre>french</genre>
+    <genre>lo-fi</genre>
     <genre>new-wave</genre>
     <genre>surf</genre>
-    <genre>cold-wave</genre>
-    <genre>lo-fi</genre>
   </genres>
 </album>

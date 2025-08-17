@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop",
     "emo",
-    "rap",
     "hip-hop",
+    "pop",
+    "rap",
     "indie-rock"
   ]
 }

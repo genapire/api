@@ -1,9 +1,9 @@
 {
   "genres": [
-    "viking-metal",
     "folk-metal",
-    "melodic-death-metal",
     "instrumental",
-    "metal"
+    "melodic-death-metal",
+    "metal",
+    "viking-metal"
   ]
 }

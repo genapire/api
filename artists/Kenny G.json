@@ -1,8 +1,9 @@
 {
   "genres": [
-    "smooth-jazz",
     "jazz",
+    "smooth-jazz",
+    "instrumental",
     "saxophone",
-    "instrumental"
+    "easy-listening"
   ]
 }

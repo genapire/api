@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>krautrock</genre>
-    <genre>psychedelic</genre>
     <genre>60s</genre>
+    <genre>krautrock</genre>
     <genre>progressive-rock</genre>
+    <genre>psychedelic</genre>
   </genres>
 </album>

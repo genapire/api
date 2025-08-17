@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>disco</genre>
+    <genre>funk</genre>
+    <genre>house</genre>
     <genre>minimal</genre>
     <genre>techno</genre>
-    <genre>funk</genre>
-    <genre>disco</genre>
-    <genre>house</genre>
   </genres>
 </album>

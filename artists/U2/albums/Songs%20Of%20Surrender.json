@@ -1,9 +1,9 @@
 {
   "genres": [
     "acoustic",
-    "rock",
-    "soft-rock",
     "alternative-pop",
-    "downtempo"
+    "downtempo",
+    "rock",
+    "soft-rock"
   ]
 }

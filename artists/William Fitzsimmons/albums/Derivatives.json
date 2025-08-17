@@ -1,9 +1,9 @@
 {
   "genres": [
-    "folk",
-    "cover",
     "acoustic",
+    "cover",
     "electronic",
+    "folk",
     "indie"
   ]
 }

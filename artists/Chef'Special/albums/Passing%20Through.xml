@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>ska</genre>
     <genre>folk</genre>
-    <genre>pop</genre>
     <genre>funk</genre>
+    <genre>pop</genre>
+    <genre>ska</genre>
   </genres>
 </album>

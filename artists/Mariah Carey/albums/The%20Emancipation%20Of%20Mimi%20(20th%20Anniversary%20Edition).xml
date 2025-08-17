@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>hip-hop</genre>
-    <genre>rnb</genre>
     <genre>american</genre>
     <genre>dance-pop</genre>
+    <genre>hip-hop</genre>
+    <genre>rnb</genre>
   </genres>
 </album>

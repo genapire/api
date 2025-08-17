@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>swedish</genre>
-    <genre>pop</genre>
-    <genre>indie</genre>
-    <genre>relaxing</genre>
     <genre>female-vocalists</genre>
+    <genre>indie</genre>
+    <genre>pop</genre>
+    <genre>relaxing</genre>
+    <genre>swedish</genre>
   </genres>
 </album>

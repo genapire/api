@@ -1,9 +1,9 @@
 {
   "genres": [
-    "folk",
-    "indie",
-    "british",
     "acoustic",
-    "bluegrass"
+    "bluegrass",
+    "british",
+    "folk",
+    "indie"
   ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>latin</genre>
-    <genre>salsa</genre>
-    <genre>pop</genre>
     <genre>dance</genre>
+    <genre>latin</genre>
+    <genre>pop</genre>
+    <genre>salsa</genre>
   </genres>
 </album>

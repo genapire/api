@@ -1,9 +1,9 @@
 {
   "genres": [
-    "progressive-metal",
-    "progressive-rock",
-    "experimental",
     "ambient",
-    "metal"
+    "experimental",
+    "metal",
+    "progressive-metal",
+    "progressive-rock"
   ]
 }

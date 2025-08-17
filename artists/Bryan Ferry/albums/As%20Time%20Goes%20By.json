@@ -1,8 +1,8 @@
 {
   "genres": [
-    "jazz",
-    "swing",
     "cover",
-    "glam-rock"
+    "glam-rock",
+    "jazz",
+    "swing"
   ]
 }

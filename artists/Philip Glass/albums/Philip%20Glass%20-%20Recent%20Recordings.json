@@ -1,8 +1,8 @@
 {
   "genres": [
-    "classical",
-    "contemporary-classical",
     "ambient",
-    "baroque"
+    "baroque",
+    "classical",
+    "contemporary-classical"
   ]
 }

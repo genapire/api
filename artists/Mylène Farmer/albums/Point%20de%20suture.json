@@ -1,9 +1,9 @@
 {
   "genres": [
-    "french",
-    "pop",
-    "female-vocalists",
     "chanson-francaise",
-    "electropop"
+    "electropop",
+    "female-vocalists",
+    "french",
+    "pop"
   ]
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-pop</genre>
     <genre>folk-pop</genre>
-    <genre>folk</genre>
+    <genre>indie-pop</genre>
     <genre>acoustic</genre>
+    <genre>folk</genre>
     <genre>pop</genre>
   </genres>
 </album>

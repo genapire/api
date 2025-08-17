@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>reggae</genre>
     <genre>dub</genre>
+    <genre>reggae</genre>
     <genre>roots-reggae</genre>
     <genre>ska</genre>
   </genres>

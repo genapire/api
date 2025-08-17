@@ -1,9 +1,9 @@
 {
   "genres": [
-    "industrial-metal",
-    "nu-metal",
-    "metal",
     "industrial",
+    "industrial-metal",
+    "metal",
+    "nu-metal",
     "rock"
   ]
 }

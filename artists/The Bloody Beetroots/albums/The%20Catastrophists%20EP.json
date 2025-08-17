@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
     "alternative",
-    "electronic",
     "electro",
-    "guitar"
+    "electronic",
+    "guitar",
+    "rock"
   ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>psychedelic</genre>
     <genre>ambient</genre>
-    <genre>psytrance</genre>
     <genre>electronic</genre>
+    <genre>psychedelic</genre>
+    <genre>psytrance</genre>
   </genres>
 </album>

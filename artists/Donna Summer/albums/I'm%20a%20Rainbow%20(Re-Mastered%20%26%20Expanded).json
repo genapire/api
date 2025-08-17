@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop",
     "disco",
-    "soundtrack",
     "female-vocalists",
-    "soul"
+    "pop",
+    "soul",
+    "soundtrack"
   ]
 }

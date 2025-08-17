@@ -1,9 +1,9 @@
 {
   "genres": [
-    "house",
     "deep-house",
-    "jazz",
     "electronic",
-    "free-jazz"
+    "free-jazz",
+    "house",
+    "jazz"
   ]
 }

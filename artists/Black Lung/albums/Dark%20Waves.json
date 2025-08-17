@@ -1,9 +1,9 @@
 {
   "genres": [
-    "industrial",
-    "dark-ambient",
-    "experimental",
     "ambient",
-    "electronic"
+    "dark-ambient",
+    "electronic",
+    "experimental",
+    "industrial"
   ]
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rap</genre>
-    <genre>pop</genre>
     <genre>hip-hop</genre>
     <genre>indie-pop</genre>
+    <genre>pop</genre>
+    <genre>rap</genre>
     <genre>indie</genre>
   </genres>
 </album>

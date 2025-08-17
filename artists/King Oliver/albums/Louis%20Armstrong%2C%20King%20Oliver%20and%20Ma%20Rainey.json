@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz",
     "blues",
-    "classic-blues",
     "christmas",
-    "early-jazz"
+    "classic-blues",
+    "early-jazz",
+    "jazz"
   ]
 }

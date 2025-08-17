@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz",
-    "relaxing",
-    "oldies",
     "blues",
-    "cover"
+    "cover",
+    "jazz",
+    "oldies",
+    "relaxing"
   ]
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>polish</genre>
+    <genre>blues</genre>
     <genre>blues-rock</genre>
     <genre>classic-rock</genre>
+    <genre>polish</genre>
     <genre>rock</genre>
-    <genre>blues</genre>
   </genres>
 </album>

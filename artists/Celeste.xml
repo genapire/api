@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>post-hardcore</genre>
     <genre>black-metal</genre>
     <genre>french</genre>
+    <genre>post-hardcore</genre>
+    <genre>british</genre>
     <genre>jazz</genre>
-    <genre>soul</genre>
   </genres>
 </album>

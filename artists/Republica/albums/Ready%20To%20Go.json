@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
-    "pop",
     "alternative",
     "alternative-rock",
-    "female-vocalists"
+    "female-vocalists",
+    "pop",
+    "rock"
   ]
 }

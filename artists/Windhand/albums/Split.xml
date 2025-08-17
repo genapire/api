@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>metal</genre>
     <genre>doom-metal</genre>
-    <genre>stoner-metal</genre>
     <genre>heavy-metal</genre>
+    <genre>metal</genre>
+    <genre>stoner-metal</genre>
   </genres>
 </album>

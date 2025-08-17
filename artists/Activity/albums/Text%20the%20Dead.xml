@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>alternative-rock</genre>
+    <genre>ambient</genre>
     <genre>electronic</genre>
     <genre>experimental</genre>
     <genre>post-rock</genre>
-    <genre>ambient</genre>
-    <genre>alternative-rock</genre>
   </genres>
 </album>

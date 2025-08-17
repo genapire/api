@@ -1,9 +1,9 @@
 {
   "genres": [
-    "piano",
-    "jazz",
-    "italian",
     "baroque",
-    "instrumental"
+    "instrumental",
+    "italian",
+    "jazz",
+    "piano"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "cover",
-    "pop",
-    "synthpop",
     "britpop",
-    "electronic"
+    "cover",
+    "electronic",
+    "pop",
+    "synthpop"
   ]
 }

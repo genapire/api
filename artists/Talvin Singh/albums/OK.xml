@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indian</genre>
-    <genre>electronic</genre>
     <genre>90s</genre>
+    <genre>electronic</genre>
+    <genre>indian</genre>
   </genres>
 </album>

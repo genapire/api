@@ -1,9 +1,9 @@
 {
   "genres": [
-    "nu-metal",
-    "rap",
-    "hip-hop",
     "alternative-metal",
-    "alternative-rock"
+    "alternative-rock",
+    "hip-hop",
+    "nu-metal",
+    "rap"
   ]
 }

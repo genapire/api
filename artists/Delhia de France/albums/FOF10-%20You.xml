@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>experimental</genre>
-    <genre>indietronica</genre>
     <genre>electronic</genre>
+    <genre>experimental</genre>
     <genre>female-vocalists</genre>
+    <genre>indietronica</genre>
   </genres>
 </album>

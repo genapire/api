@@ -1,8 +1,8 @@
 {
   "genres": [
-    "pop",
-    "rock",
     "house",
-    "indie-pop"
+    "indie-pop",
+    "pop",
+    "rock"
   ]
 }

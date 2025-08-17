@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>psychedelic-rock</genre>
     <genre>70s</genre>
-    <genre>hard-rock</genre>
     <genre>blues-rock</genre>
+    <genre>hard-rock</genre>
+    <genre>psychedelic-rock</genre>
   </genres>
 </album>

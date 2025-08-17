@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
-    <genre>female-vocalists</genre>
-    <genre>cover</genre>
     <genre>80s</genre>
+    <genre>cover</genre>
+    <genre>female-vocalists</genre>
+    <genre>pop</genre>
   </genres>
 </album>

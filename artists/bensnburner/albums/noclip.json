@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz",
-    "soul",
     "funk",
+    "jazz",
     "pop",
-    "rnb"
+    "rnb",
+    "soul"
   ]
 }

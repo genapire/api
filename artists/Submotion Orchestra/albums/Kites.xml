@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>downtempo</genre>
-    <genre>trip-hop</genre>
-    <genre>nu-jazz</genre>
     <genre>chillout</genre>
+    <genre>downtempo</genre>
+    <genre>nu-jazz</genre>
+    <genre>trip-hop</genre>
   </genres>
 </album>

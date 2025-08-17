@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indian</genre>
-    <genre>female-vocalists</genre>
     <genre>electronic</genre>
+    <genre>female-vocalists</genre>
+    <genre>indian</genre>
     <genre>female-vocalist</genre>
   </genres>
 </album>

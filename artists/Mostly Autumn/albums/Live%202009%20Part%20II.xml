@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>progressive-rock</genre>
-    <genre>folk-rock</genre>
-    <genre>rock</genre>
-    <genre>progressive-folk</genre>
     <genre>female-vocalists</genre>
+    <genre>folk-rock</genre>
+    <genre>progressive-folk</genre>
+    <genre>progressive-rock</genre>
+    <genre>rock</genre>
   </genres>
 </album>

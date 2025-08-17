@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>alternative-metal</genre>
+    <genre>christian-metal</genre>
     <genre>nu-metal</genre>
     <genre>rock</genre>
-    <genre>christian-metal</genre>
-    <genre>alternative-metal</genre>
   </genres>
 </album>

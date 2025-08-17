@@ -1,9 +1,9 @@
 {
   "genres": [
-    "contemporary-classical",
-    "classical",
-    "modern-classical",
     "american",
-    "country"
+    "classical",
+    "contemporary-classical",
+    "country",
+    "modern-classical"
   ]
 }

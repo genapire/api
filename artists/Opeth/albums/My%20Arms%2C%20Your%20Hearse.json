@@ -1,8 +1,8 @@
 {
   "genres": [
-    "progressive-metal",
-    "progressive-death-metal",
     "death-metal",
-    "metal"
+    "metal",
+    "progressive-death-metal",
+    "progressive-metal"
   ]
 }

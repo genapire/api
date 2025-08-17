@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>blues</genre>
-    <genre>rock</genre>
     <genre>blues-rock</genre>
-    <genre>guitar</genre>
     <genre>classic-rock</genre>
+    <genre>guitar</genre>
+    <genre>rock</genre>
   </genres>
 </album>

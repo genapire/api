@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>british</genre>
-    <genre>pop</genre>
-    <genre>britpop</genre>
     <genre>alternative</genre>
+    <genre>british</genre>
+    <genre>britpop</genre>
+    <genre>pop</genre>
   </genres>
 </album>

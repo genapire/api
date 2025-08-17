@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>neo-psych</genre>
-    <genre>psychedelic-rock</genre>
     <genre>garage-rock</genre>
+    <genre>neo-psych</genre>
     <genre>psychedelic</genre>
+    <genre>psychedelic-rock</genre>
   </genres>
 </album>

@@ -1,8 +1,8 @@
 {
   "genres": [
-    "jazz",
     "free-jazz",
-    "vocal-jazz",
-    "instrumental"
+    "instrumental",
+    "jazz",
+    "vocal-jazz"
   ]
 }

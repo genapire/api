@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>neofolk</genre>
-    <genre>neoclassical</genre>
     <genre>folk</genre>
+    <genre>neoclassical</genre>
+    <genre>neofolk</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "space-rock",
     "electronic",
-    "rock",
     "jazz",
-    "psychedelic-rock"
+    "psychedelic-rock",
+    "rock",
+    "space-rock"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "genres": [
+    "classical",
     "contemporary-jazz",
-    "jazz-fusion",
     "jazz",
-    "saxophone",
-    "classical"
+    "jazz-fusion",
+    "saxophone"
   ]
 }

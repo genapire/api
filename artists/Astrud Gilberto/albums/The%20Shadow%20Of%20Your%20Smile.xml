@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>latin-jazz</genre>
-    <genre>jazz</genre>
-    <genre>bossa-nova</genre>
     <genre>60s</genre>
+    <genre>bossa-nova</genre>
+    <genre>jazz</genre>
+    <genre>latin-jazz</genre>
     <genre>vocal-jazz</genre>
   </genres>
 </album>

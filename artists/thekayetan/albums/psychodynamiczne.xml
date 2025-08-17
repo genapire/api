@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>electronic</genre>
-    <genre>polish</genre>
-    <genre>indie</genre>
     <genre>alternative</genre>
+    <genre>electronic</genre>
+    <genre>indie</genre>
     <genre>party</genre>
+    <genre>polish</genre>
   </genres>
 </album>

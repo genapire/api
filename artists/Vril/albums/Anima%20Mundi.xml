@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>ambient-techno</genre>
+    <genre>chillout</genre>
+    <genre>dub</genre>
     <genre>dub-techno</genre>
     <genre>techno</genre>
-    <genre>dub</genre>
-    <genre>chillout</genre>
-    <genre>ambient-techno</genre>
   </genres>
 </album>

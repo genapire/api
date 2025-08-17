@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>easy-listening</genre>
     <genre>jazz</genre>
     <genre>oldies</genre>
     <genre>vocal-jazz</genre>
-    <genre>easy-listening</genre>
   </genres>
 </album>

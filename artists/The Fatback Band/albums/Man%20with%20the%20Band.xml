@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>funk</genre>
     <genre>disco</genre>
-    <genre>soul</genre>
+    <genre>funk</genre>
     <genre>jazz-funk</genre>
+    <genre>soul</genre>
   </genres>
 </album>

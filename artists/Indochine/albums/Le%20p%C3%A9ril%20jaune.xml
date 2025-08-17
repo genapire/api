@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>new-wave</genre>
     <genre>80s</genre>
-    <genre>rock</genre>
     <genre>french</genre>
+    <genre>new-wave</genre>
+    <genre>rock</genre>
   </genres>
 </album>

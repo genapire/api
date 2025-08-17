@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>contemporary-classical</genre>
     <genre>electronic</genre>
     <genre>experimental</genre>
-    <genre>contemporary-classical</genre>
     <genre>indie-pop</genre>
-    <genre>indie</genre>
+    <genre>idm</genre>
   </genres>
 </album>

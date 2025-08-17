@@ -1,9 +1,9 @@
 {
   "genres": [
-    "contemporary-classical",
     "classical",
+    "contemporary-classical",
+    "jazz",
     "jazz-fusion",
-    "tango",
     "latin-jazz"
   ]
 }

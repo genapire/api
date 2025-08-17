@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>piano-rock</genre>
     <genre>alternative</genre>
+    <genre>piano-rock</genre>
     <genre>piano</genre>
     <genre>indie</genre>
-    <genre>rock</genre>
+    <genre>emo</genre>
   </genres>
 </album>

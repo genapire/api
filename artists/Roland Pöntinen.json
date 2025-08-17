@@ -1,9 +1,9 @@
 {
   "genres": [
-    "piano",
-    "swedish",
     "classical",
+    "classical-piano",
     "contemporary-classical",
-    "classical-piano"
+    "piano",
+    "swedish"
   ]
 }

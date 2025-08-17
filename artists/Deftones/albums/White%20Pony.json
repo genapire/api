@@ -1,9 +1,9 @@
 {
   "genres": [
-    "metal",
     "alternative",
     "alternative-metal",
-    "nu-metal",
-    "alternative-rock"
+    "alternative-rock",
+    "metal",
+    "nu-metal"
   ]
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>french</genre>
     <genre>80s</genre>
     <genre>female-vocalists</genre>
-    <genre>pop</genre>
+    <genre>french</genre>
     <genre>oldies</genre>
+    <genre>pop</genre>
   </genres>
 </album>

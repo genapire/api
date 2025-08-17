@@ -1,9 +1,9 @@
 {
   "genres": [
-    "piano",
     "classical",
-    "instrumental",
     "contemporary-classical",
+    "instrumental",
+    "piano",
     "relaxing"
   ]
 }

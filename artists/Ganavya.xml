@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz</genre>
     <genre>experimental</genre>
-    <genre>jazz-fusion</genre>
+    <genre>jazz</genre>
     <genre>free-jazz</genre>
+    <genre>jazz-fusion</genre>
     <genre>indian</genre>
   </genres>
 </album>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>piano</genre>
-    <genre>new-age</genre>
     <genre>instrumental</genre>
+    <genre>new-age</genre>
+    <genre>piano</genre>
   </genres>
 </album>

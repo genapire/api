@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>math-rock</genre>
-    <genre>instrumental-math-rock</genre>
     <genre>instrumental</genre>
+    <genre>instrumental-math-rock</genre>
+    <genre>math-rock</genre>
     <genre>post-rock</genre>
     <genre>rock</genre>
   </genres>

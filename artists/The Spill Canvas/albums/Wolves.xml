@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie</genre>
-    <genre>emo</genre>
-    <genre>alternative</genre>
     <genre>acoustic</genre>
+    <genre>alternative</genre>
+    <genre>emo</genre>
+    <genre>indie</genre>
     <genre>rock</genre>
   </genres>
 </album>

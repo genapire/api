@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>classical</genre>
     <genre>baroque</genre>
-    <genre>piano</genre>
+    <genre>classical</genre>
     <genre>instrumental</genre>
+    <genre>piano</genre>
   </genres>
 </album>

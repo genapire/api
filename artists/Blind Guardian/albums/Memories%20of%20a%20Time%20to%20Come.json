@@ -1,8 +1,8 @@
 {
   "genres": [
-    "power-metal",
-    "progressive-metal",
     "epic-metal",
-    "hard-rock"
+    "hard-rock",
+    "power-metal",
+    "progressive-metal"
   ]
 }

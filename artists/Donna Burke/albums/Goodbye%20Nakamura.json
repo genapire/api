@@ -1,9 +1,9 @@
 {
   "genres": [
-    "soundtrack",
-    "pop",
-    "video-game-music",
     "anime",
-    "female-vocalists"
+    "female-vocalists",
+    "pop",
+    "soundtrack",
+    "video-game-music"
   ]
 }

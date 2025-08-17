@@ -1,9 +1,9 @@
 {
   "genres": [
-    "power-metal",
-    "metal",
-    "folk-metal",
     "epic-metal",
-    "italy"
+    "folk-metal",
+    "italy",
+    "metal",
+    "power-metal"
   ]
 }

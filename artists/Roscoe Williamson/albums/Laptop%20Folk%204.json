@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop",
-    "rock",
     "folk",
     "indie",
-    "instrumental"
+    "instrumental",
+    "pop",
+    "rock"
   ]
 }

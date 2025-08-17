@@ -1,9 +1,9 @@
 {
   "genres": [
-    "french",
-    "folk",
     "chanson",
-    "pop",
-    "french-pop"
+    "folk",
+    "french",
+    "french-pop",
+    "pop"
   ]
 }

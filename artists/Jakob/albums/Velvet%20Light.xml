@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie</genre>
-    <genre>ambient</genre>
-    <genre>pop</genre>
     <genre>alternative</genre>
+    <genre>ambient</genre>
+    <genre>indie</genre>
+    <genre>pop</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>female-vocalists</genre>
-    <genre>swedish</genre>
     <genre>acoustic</genre>
+    <genre>female-vocalists</genre>
     <genre>pop</genre>
+    <genre>swedish</genre>
   </genres>
 </album>

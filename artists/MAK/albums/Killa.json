@@ -1,8 +1,8 @@
 {
   "genres": [
-    "folk",
-    "rock",
     "alternative",
-    "alternative-rock"
+    "alternative-rock",
+    "folk",
+    "rock"
   ]
 }

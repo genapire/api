@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>reggae</genre>
-    <genre>pop</genre>
-    <genre>dancehall</genre>
     <genre>dance</genre>
+    <genre>dancehall</genre>
+    <genre>pop</genre>
     <genre>rap</genre>
+    <genre>reggae</genre>
   </genres>
 </album>

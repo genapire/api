@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>hardcore</genre>
-    <genre>punk</genre>
-    <genre>hardcore-punk</genre>
     <genre>drum-and-bass</genre>
     <genre>dubstep</genre>
+    <genre>hardcore</genre>
+    <genre>hardcore-punk</genre>
+    <genre>punk</genre>
   </genres>
 </album>

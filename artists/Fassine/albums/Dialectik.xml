@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie</genre>
-    <genre>electronic</genre>
     <genre>alternative</genre>
-    <genre>trip-hop</genre>
+    <genre>electronic</genre>
     <genre>female-vocalists</genre>
+    <genre>indie</genre>
+    <genre>trip-hop</genre>
   </genres>
 </album>

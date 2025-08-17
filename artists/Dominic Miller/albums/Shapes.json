@@ -1,9 +1,9 @@
 {
   "genres": [
-    "classical",
-    "jazz-fusion",
-    "guitar",
     "acoustic",
-    "jazz"
+    "classical",
+    "guitar",
+    "jazz",
+    "jazz-fusion"
   ]
 }

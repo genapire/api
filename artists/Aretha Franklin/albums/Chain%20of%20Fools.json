@@ -1,9 +1,9 @@
 {
   "genres": [
-    "soul",
-    "female-vocalists",
-    "rhythm-and-blues",
     "blues",
-    "oldies"
+    "female-vocalists",
+    "oldies",
+    "rhythm-and-blues",
+    "soul"
   ]
 }

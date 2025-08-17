@@ -1,9 +1,9 @@
 {
   "genres": [
     "alternative-metal",
-    "modern-metal",
-    "melodic-death-metal",
     "alternative-rock",
-    "melodic-metalcore"
+    "melodic-death-metal",
+    "melodic-metalcore",
+    "modern-metal"
   ]
 }

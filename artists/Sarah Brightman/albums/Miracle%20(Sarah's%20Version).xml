@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>female-vocalists</genre>
     <genre>classical</genre>
+    <genre>female-vocalists</genre>
     <genre>new-age</genre>
     <genre>pop</genre>
   </genres>

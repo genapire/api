@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>art-rock</genre>
+    <genre>experimental</genre>
     <genre>progressive-rock</genre>
     <genre>rock</genre>
-    <genre>experimental</genre>
-    <genre>art-rock</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "alternative-rock",
-    "pop-rock",
-    "indie-rock",
     "alternative",
-    "electronic"
+    "alternative-rock",
+    "electronic",
+    "indie-rock",
+    "pop-rock"
   ]
 }

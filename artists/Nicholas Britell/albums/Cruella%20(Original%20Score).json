@@ -1,9 +1,9 @@
 {
   "genres": [
-    "soundtrack",
-    "jazz",
-    "rock",
     "classical",
-    "pop"
+    "jazz",
+    "pop",
+    "rock",
+    "soundtrack"
   ]
 }

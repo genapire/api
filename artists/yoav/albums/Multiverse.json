@@ -1,9 +1,9 @@
 {
   "genres": [
-    "indie",
     "acoustic",
-    "electronic",
     "alternative",
-    "british"
+    "british",
+    "electronic",
+    "indie"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "genres": [
-    "neoclassical",
     "classical",
-    "contemporary-classical"
+    "contemporary-classical",
+    "neoclassical"
   ]
 }

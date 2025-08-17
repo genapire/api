@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop",
-    "rock",
     "alternative",
+    "alternative-rock",
+    "pop",
     "pop-rock",
-    "alternative-rock"
+    "rock"
   ]
 }

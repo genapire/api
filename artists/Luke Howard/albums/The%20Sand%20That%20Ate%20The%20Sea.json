@@ -1,8 +1,8 @@
 {
   "genres": [
-    "piano",
-    "modern-classical",
     "contemporary-classical",
-    "neoclassical"
+    "modern-classical",
+    "neoclassical",
+    "piano"
   ]
 }

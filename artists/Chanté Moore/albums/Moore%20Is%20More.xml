@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>rnb</genre>
-    <genre>soul</genre>
     <genre>female-vocalists</genre>
     <genre>gospel</genre>
     <genre>pop</genre>
+    <genre>rnb</genre>
+    <genre>soul</genre>
   </genres>
 </album>

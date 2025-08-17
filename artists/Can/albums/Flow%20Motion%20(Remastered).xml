@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>funk</genre>
     <genre>krautrock</genre>
+    <genre>psychedelic</genre>
     <genre>psychedelic-rock</genre>
     <genre>rock</genre>
-    <genre>funk</genre>
-    <genre>psychedelic</genre>
   </genres>
 </album>

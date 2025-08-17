@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz</genre>
-    <genre>contemporary-jazz</genre>
-    <genre>swing</genre>
-    <genre>female-vocalists</genre>
     <genre>blues</genre>
+    <genre>contemporary-jazz</genre>
+    <genre>female-vocalists</genre>
+    <genre>jazz</genre>
+    <genre>swing</genre>
   </genres>
 </album>

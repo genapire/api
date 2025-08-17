@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>post-punk</genre>
-    <genre>industrial-rock</genre>
     <genre>80s</genre>
     <genre>industrial</genre>
+    <genre>industrial-rock</genre>
+    <genre>post-punk</genre>
   </genres>
 </album>

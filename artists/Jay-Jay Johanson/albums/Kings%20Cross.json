@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz",
     "alternative",
-    "trip-hop",
     "electronic",
-    "synthpop"
+    "jazz",
+    "synthpop",
+    "trip-hop"
   ]
 }

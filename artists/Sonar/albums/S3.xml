@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>polish</genre>
-    <genre>party</genre>
     <genre>industrial</genre>
     <genre>noise</genre>
+    <genre>party</genre>
+    <genre>polish</genre>
   </genres>
 </album>

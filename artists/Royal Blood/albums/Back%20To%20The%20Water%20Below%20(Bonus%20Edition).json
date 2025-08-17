@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
-    "garage-rock",
     "alternative-rock",
     "blues-rock",
-    "hard-rock"
+    "garage-rock",
+    "hard-rock",
+    "rock"
   ]
 }

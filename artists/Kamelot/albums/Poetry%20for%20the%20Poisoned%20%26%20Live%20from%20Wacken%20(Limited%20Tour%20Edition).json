@@ -1,9 +1,9 @@
 {
   "genres": [
-    "power-metal",
-    "symphonic-metal",
-    "progressive-metal",
+    "melodic-power-metal",
     "metal",
-    "melodic-power-metal"
+    "power-metal",
+    "progressive-metal",
+    "symphonic-metal"
   ]
 }

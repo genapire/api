@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>spanish</genre>
-    <genre>latino</genre>
     <genre>00s</genre>
+    <genre>latino</genre>
+    <genre>spanish</genre>
   </genres>
 </album>

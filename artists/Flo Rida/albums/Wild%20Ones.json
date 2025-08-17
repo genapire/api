@@ -1,8 +1,8 @@
 {
   "genres": [
-    "pop",
     "dance",
-    "rap",
-    "hip-hop"
+    "hip-hop",
+    "pop",
+    "rap"
   ]
 }

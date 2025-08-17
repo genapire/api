@@ -1,9 +1,9 @@
 {
   "genres": [
-    "idm",
-    "electronic",
     "ambient",
+    "electronic",
     "experimental",
-    "glitch"
+    "glitch",
+    "idm"
   ]
 }

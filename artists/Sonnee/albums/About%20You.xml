@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>electronica</genre>
-    <genre>dance</genre>
     <genre>chill</genre>
+    <genre>dance</genre>
+    <genre>electronica</genre>
     <genre>pop</genre>
   </genres>
 </album>

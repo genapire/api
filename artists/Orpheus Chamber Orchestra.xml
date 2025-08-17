@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>classical</genre>
     <genre>baroque</genre>
+    <genre>classical</genre>
     <genre>classic</genre>
     <genre>instrumental</genre>
   </genres>

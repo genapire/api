@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>classic-rock</genre>
-    <genre>rock</genre>
     <genre>60s</genre>
-    <genre>pop</genre>
+    <genre>classic-rock</genre>
     <genre>folk-pop</genre>
+    <genre>pop</genre>
+    <genre>rock</genre>
   </genres>
 </album>

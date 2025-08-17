@@ -1,8 +1,8 @@
 {
   "genres": [
-    "cover",
     "acoustic",
-    "indie",
-    "alternative"
+    "alternative",
+    "cover",
+    "indie"
   ]
 }

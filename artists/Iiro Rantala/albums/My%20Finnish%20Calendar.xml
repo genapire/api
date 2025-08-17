@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz-fusion</genre>
-    <genre>jazz</genre>
-    <genre>piano</genre>
     <genre>contemporary-classical</genre>
+    <genre>jazz</genre>
+    <genre>jazz-fusion</genre>
+    <genre>piano</genre>
   </genres>
 </album>

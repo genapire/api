@@ -1,8 +1,8 @@
 {
   "genres": [
-    "progressive-metal",
-    "sludge-metal",
     "metal",
-    "post-metal"
+    "post-metal",
+    "progressive-metal",
+    "sludge-metal"
   ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>british</genre>
+    <genre>gothic</genre>
     <genre>new-wave</genre>
     <genre>post-punk</genre>
-    <genre>gothic</genre>
-    <genre>british</genre>
   </genres>
 </album>

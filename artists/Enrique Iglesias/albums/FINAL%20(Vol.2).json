@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop",
-    "latin",
-    "spanish",
     "dance",
-    "latin-pop"
+    "latin",
+    "latin-pop",
+    "pop",
+    "spanish"
   ]
 }

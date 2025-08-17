@@ -1,9 +1,9 @@
 {
   "genres": [
-    "psychedelic-rock",
-    "stoner-rock",
-    "space-rock",
     "instrumental",
-    "psychedelic"
+    "psychedelic",
+    "psychedelic-rock",
+    "space-rock",
+    "stoner-rock"
   ]
 }

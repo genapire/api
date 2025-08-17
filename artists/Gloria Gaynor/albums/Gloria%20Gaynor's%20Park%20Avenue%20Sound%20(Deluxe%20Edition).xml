@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>disco</genre>
     <genre>70s</genre>
-    <genre>soul</genre>
+    <genre>disco</genre>
     <genre>pop</genre>
+    <genre>soul</genre>
   </genres>
 </album>

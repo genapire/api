@@ -1,9 +1,9 @@
 {
   "genres": [
-    "progressive-rock",
-    "jazz-fusion",
-    "experimental",
     "classic-rock",
+    "experimental",
+    "jazz-fusion",
+    "progressive-rock",
     "rock"
   ]
 }

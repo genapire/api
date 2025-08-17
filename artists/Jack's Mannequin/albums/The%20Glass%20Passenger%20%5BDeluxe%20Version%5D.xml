@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>piano-rock</genre>
-    <genre>piano</genre>
     <genre>alternative</genre>
     <genre>inspiring</genre>
+    <genre>piano</genre>
+    <genre>piano-rock</genre>
   </genres>
 </album>

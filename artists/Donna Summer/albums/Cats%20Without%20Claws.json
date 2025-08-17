@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop",
     "dance",
     "dance-pop",
-    "synthpop",
-    "female-vocalists"
+    "female-vocalists",
+    "pop",
+    "synthpop"
   ]
 }

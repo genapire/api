@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
     "alternative",
-    "jazz-rock",
     "jazz",
+    "jazz-rock",
+    "rock",
     "saxophone"
   ]
 }

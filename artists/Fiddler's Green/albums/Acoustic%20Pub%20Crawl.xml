@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>irish-folk</genre>
-    <genre>folk-rock</genre>
-    <genre>rock</genre>
-    <genre>folk</genre>
     <genre>celtic-punk</genre>
+    <genre>folk</genre>
+    <genre>folk-rock</genre>
+    <genre>irish-folk</genre>
+    <genre>rock</genre>
   </genres>
 </album>

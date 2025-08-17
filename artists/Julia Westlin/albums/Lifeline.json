@@ -1,9 +1,9 @@
 {
   "genres": [
-    "covers",
     "acoustic",
+    "covers",
+    "female-vocalists",
     "pop",
-    "swedish",
-    "female-vocalists"
+    "swedish"
   ]
 }

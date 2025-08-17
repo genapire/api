@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>japanese</genre>
-    <genre>jazz-fusion</genre>
-    <genre>jazz</genre>
     <genre>j-pop</genre>
+    <genre>japanese</genre>
+    <genre>jazz</genre>
+    <genre>jazz-fusion</genre>
     <genre>jpop</genre>
   </genres>
 </album>

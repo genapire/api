@@ -1,9 +1,9 @@
 {
   "genres": [
-    "covers",
     "acoustic",
+    "covers",
+    "instrumental",
     "pop",
-    "rock",
-    "instrumental"
+    "rock"
   ]
 }

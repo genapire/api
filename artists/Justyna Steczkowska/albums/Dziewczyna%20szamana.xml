@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>polish</genre>
-    <genre>pop</genre>
     <genre>90s</genre>
     <genre>alternative</genre>
     <genre>cover</genre>
+    <genre>polish</genre>
+    <genre>pop</genre>
   </genres>
 </album>

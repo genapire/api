@@ -1,9 +1,9 @@
 {
   "genres": [
-    "piano",
-    "folk",
     "british",
     "cover",
-    "female-vocalists"
+    "female-vocalists",
+    "folk",
+    "piano"
   ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>post-metal</genre>
     <genre>instrumental</genre>
-    <genre>sludge-metal</genre>
+    <genre>post-metal</genre>
     <genre>post-rock</genre>
+    <genre>sludge-metal</genre>
   </genres>
 </album>

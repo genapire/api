@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>house</genre>
-    <genre>deep-house</genre>
     <genre>dance</genre>
+    <genre>deep-house</genre>
     <genre>electronic</genre>
+    <genre>house</genre>
   </genres>
 </album>

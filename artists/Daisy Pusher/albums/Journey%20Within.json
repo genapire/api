@@ -1,8 +1,8 @@
 {
   "genres": [
-    "space-rock",
-    "psychedelic-rock",
     "experimental",
-    "instrumental"
+    "instrumental",
+    "psychedelic-rock",
+    "space-rock"
   ]
 }

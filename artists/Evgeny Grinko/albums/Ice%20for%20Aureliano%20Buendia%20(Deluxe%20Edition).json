@@ -1,9 +1,9 @@
 {
   "genres": [
-    "piano",
     "classical",
-    "modern-classical",
     "instrumental",
+    "modern-classical",
+    "piano",
     "post-punk"
   ]
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazz</genre>
-    <genre>instrumental</genre>
+    <genre>classical</genre>
     <genre>contemporary-classical</genre>
     <genre>dark-ambient</genre>
-    <genre>classical</genre>
+    <genre>instrumental</genre>
+    <genre>jazz</genre>
   </genres>
 </album>

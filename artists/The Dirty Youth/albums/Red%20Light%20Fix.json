@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
-    "punk",
-    "indie",
     "electronic",
-    "female-vocalists"
+    "female-vocalists",
+    "indie",
+    "punk",
+    "rock"
   ]
 }

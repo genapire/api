@@ -1,9 +1,9 @@
 {
   "genres": [
-    "electronic",
     "alternative",
-    "trip-hop",
     "ambient",
-    "psychedelic-rock"
+    "electronic",
+    "psychedelic-rock",
+    "trip-hop"
   ]
 }

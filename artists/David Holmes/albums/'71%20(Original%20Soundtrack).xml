@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soundtrack</genre>
-    <genre>electronic</genre>
-    <genre>trip-hop</genre>
-    <genre>ost</genre>
     <genre>chillout</genre>
+    <genre>electronic</genre>
+    <genre>ost</genre>
+    <genre>soundtrack</genre>
+    <genre>trip-hop</genre>
   </genres>
 </album>

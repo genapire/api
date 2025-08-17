@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>metal</genre>
-    <genre>industrial-metal</genre>
     <genre>heavy-metal</genre>
     <genre>industrial</genre>
+    <genre>industrial-metal</genre>
+    <genre>metal</genre>
   </genres>
 </album>

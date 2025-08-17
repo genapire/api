@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>electropop</genre>
+    <genre>folk</genre>
     <genre>pop</genre>
     <genre>pop-rock</genre>
-    <genre>folk</genre>
-    <genre>electropop</genre>
   </genres>
 </album>

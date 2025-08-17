@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synth-pop</genre>
-    <genre>electropop</genre>
-    <genre>synthpop</genre>
     <genre>alternative</genre>
+    <genre>electropop</genre>
+    <genre>synth-pop</genre>
+    <genre>synthpop</genre>
   </genres>
 </album>

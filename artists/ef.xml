@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>post-rock</genre>
     <genre>instrumental</genre>
-    <genre>swedish</genre>
+    <genre>post-rock</genre>
     <genre>experimental</genre>
+    <genre>swedish</genre>
     <genre>shoegaze</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
     "folk-metal",
-    "power-metal",
+    "folk-power-metal",
     "melodic-death-metal",
-    "symphonic-metal",
-    "folk-power-metal"
+    "power-metal",
+    "symphonic-metal"
   ]
 }

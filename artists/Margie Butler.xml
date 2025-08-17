@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>acoustic</genre>
     <genre>celtic</genre>
     <genre>celtic-hard</genre>
-    <genre>acoustic</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "new-age",
-    "jazz-fusion",
     "funk",
     "jazz",
+    "jazz-fusion",
+    "new-age",
     "saxophone"
   ]
 }

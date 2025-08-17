@@ -1,8 +1,8 @@
 {
   "genres": [
-    "soundtrack",
-    "film-score",
     "classical",
-    "instrumental"
+    "film-score",
+    "instrumental",
+    "soundtrack"
   ]
 }

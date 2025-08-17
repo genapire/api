@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz",
-    "saxophone",
     "blues",
     "classic-rock",
-    "cool-jazz"
+    "cool-jazz",
+    "jazz",
+    "saxophone"
   ]
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>reggae</genre>
     <genre>80s</genre>
-    <genre>pop</genre>
-    <genre>ska</genre>
     <genre>british</genre>
+    <genre>pop</genre>
+    <genre>reggae</genre>
+    <genre>ska</genre>
   </genres>
 </album>

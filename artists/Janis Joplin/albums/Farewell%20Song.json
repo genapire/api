@@ -1,9 +1,9 @@
 {
   "genres": [
-    "blues-rock",
-    "rock",
     "blues",
+    "blues-rock",
     "classic-rock",
-    "female-vocalists"
+    "female-vocalists",
+    "rock"
   ]
 }

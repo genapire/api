@@ -1,9 +1,9 @@
 {
   "genres": [
-    "punk",
-    "folk-punk",
-    "punk-rock",
     "acoustic",
+    "folk-punk",
+    "punk",
+    "punk-rock",
     "rock"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "disco",
-    "soft-rock",
-    "soul",
     "dance",
-    "rnb"
+    "disco",
+    "rnb",
+    "soft-rock",
+    "soul"
   ]
 }

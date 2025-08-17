@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soundtrack</genre>
     <genre>american</genre>
-    <genre>folk</genre>
+    <genre>soundtrack</genre>
+    <genre>acoustic</genre>
     <genre>female-vocalists</genre>
-    <genre>post-rock</genre>
+    <genre>folk</genre>
   </genres>
 </album>

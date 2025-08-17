@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz",
-    "soul",
     "experimental",
+    "jazz",
     "jazz-fusion",
-    "neo-soul"
+    "neo-soul",
+    "soul"
   ]
 }

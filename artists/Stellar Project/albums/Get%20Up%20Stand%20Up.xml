@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>trance</genre>
-    <genre>house</genre>
     <genre>dance</genre>
-    <genre>techno</genre>
     <genre>electronic</genre>
+    <genre>house</genre>
+    <genre>techno</genre>
+    <genre>trance</genre>
   </genres>
 </album>

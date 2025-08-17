@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>free-jazz</genre>
-    <genre>experimental</genre>
     <genre>classical</genre>
+    <genre>experimental</genre>
+    <genre>free-jazz</genre>
     <genre>jazz</genre>
   </genres>
 </album>

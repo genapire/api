@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>progressive-rock</genre>
-    <genre>art-rock</genre>
     <genre>80s</genre>
+    <genre>art-rock</genre>
     <genre>guitar</genre>
+    <genre>progressive-rock</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop-rock",
-    "rock",
-    "classic-rock",
     "60s",
-    "psychedelic-pop"
+    "classic-rock",
+    "pop-rock",
+    "psychedelic-pop",
+    "rock"
   ]
 }

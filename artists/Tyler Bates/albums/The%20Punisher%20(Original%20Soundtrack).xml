@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>soundtrack</genre>
-    <genre>instrumental</genre>
     <genre>hard-rock</genre>
+    <genre>instrumental</genre>
     <genre>post-rock</genre>
+    <genre>soundtrack</genre>
   </genres>
 </album>

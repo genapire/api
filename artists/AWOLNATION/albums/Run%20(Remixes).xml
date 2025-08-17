@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>electronic</genre>
-    <genre>trap</genre>
-    <genre>indie</genre>
     <genre>alternative</genre>
+    <genre>electronic</genre>
+    <genre>indie</genre>
     <genre>indie-rock</genre>
+    <genre>trap</genre>
   </genres>
 </album>

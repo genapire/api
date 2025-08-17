@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>80s</genre>
+    <genre>alternative-rock</genre>
     <genre>electronic</genre>
     <genre>rock</genre>
-    <genre>80s</genre>
     <genre>synthpop</genre>
-    <genre>alternative-rock</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "power-metal",
-    "heavy-metal",
     "cover",
+    "heavy-metal",
     "metal",
+    "power-metal",
     "swedish"
   ]
 }

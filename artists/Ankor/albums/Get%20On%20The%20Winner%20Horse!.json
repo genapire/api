@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock-n-roll",
-    "metal",
-    "female-vocalist",
     "alternative-rock",
-    "melodic-death-metal"
+    "female-vocalist",
+    "melodic-death-metal",
+    "metal",
+    "rock-n-roll"
   ]
 }

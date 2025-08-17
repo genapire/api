@@ -2,9 +2,9 @@
 <album>
   <genres>
     <genre>alternative</genre>
-    <genre>rock</genre>
     <genre>alternative-rock</genre>
-    <genre>covers</genre>
     <genre>classic</genre>
+    <genre>covers</genre>
+    <genre>rock</genre>
   </genres>
 </album>

@@ -1,8 +1,8 @@
 {
   "genres": [
-    "pop",
     "classic",
-    "relax",
-    "female-vocalists"
+    "female-vocalists",
+    "pop",
+    "relax"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "genres": [
-    "rock",
-    "soft-rock",
     "country-rock",
-    "folk-rock"
+    "folk-rock",
+    "rock",
+    "soft-rock"
   ]
 }

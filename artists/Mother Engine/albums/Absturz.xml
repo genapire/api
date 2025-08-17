@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>psychedelic-rock</genre>
-    <genre>instrumental</genre>
-    <genre>stoner-rock</genre>
     <genre>hard-rock</genre>
+    <genre>instrumental</genre>
+    <genre>psychedelic-rock</genre>
     <genre>rock</genre>
+    <genre>stoner-rock</genre>
   </genres>
 </album>

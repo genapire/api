@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
-    "hard-rock",
-    "classic-rock",
     "10s",
-    "blues-rock"
+    "blues-rock",
+    "classic-rock",
+    "hard-rock",
+    "rock"
   ]
 }

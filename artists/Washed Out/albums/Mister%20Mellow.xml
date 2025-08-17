@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>chillwave</genre>
-    <genre>electronic</genre>
-    <genre>dream-pop</genre>
     <genre>chillout</genre>
+    <genre>chillwave</genre>
+    <genre>dream-pop</genre>
+    <genre>electronic</genre>
     <genre>lounge</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>punk-rock</genre>
     <genre>celtic-punk</genre>
-    <genre>folk-punk-rock</genre>
     <genre>folk-punk</genre>
+    <genre>folk-punk-rock</genre>
+    <genre>punk-rock</genre>
   </genres>
 </album>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>post-metal</genre>
     <genre>instrumental</genre>
+    <genre>post-metal</genre>
     <genre>post-rock</genre>
     <genre>instrumental-rock</genre>
-    <genre>progressive-metal</genre>
+    <genre>post-hardcore</genre>
   </genres>
 </album>

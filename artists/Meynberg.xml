@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>house</genre>
     <genre>deep-house</genre>
+    <genre>house</genre>
     <genre>chill-house</genre>
-    <genre>black-metal</genre>
-    <genre>swedish</genre>
+    <genre>acoustic</genre>
+    <genre>alternative</genre>
   </genres>
 </album>

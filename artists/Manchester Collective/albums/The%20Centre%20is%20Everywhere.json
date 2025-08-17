@@ -1,9 +1,9 @@
 {
   "genres": [
-    "instrumental",
-    "contemporary-classical",
     "baroque",
+    "contemporary-classical",
     "electronic",
-    "experimental"
+    "experimental",
+    "instrumental"
   ]
 }

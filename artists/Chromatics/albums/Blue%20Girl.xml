@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synthpop</genre>
     <genre>dream-pop</genre>
     <genre>italo-disco</genre>
+    <genre>synthpop</genre>
   </genres>
 </album>

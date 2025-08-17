@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>house</genre>
     <genre>deep-house</genre>
-    <genre>minimal</genre>
     <genre>electronic</genre>
     <genre>electronica</genre>
+    <genre>house</genre>
+    <genre>minimal</genre>
   </genres>
 </album>

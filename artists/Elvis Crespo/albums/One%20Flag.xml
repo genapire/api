@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>merengue</genre>
     <genre>hip-hop</genre>
     <genre>latin</genre>
+    <genre>merengue</genre>
     <genre>rap</genre>
     <genre>salsa</genre>
   </genres>

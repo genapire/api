@@ -1,8 +1,8 @@
 {
   "genres": [
-    "pop",
-    "classic-rock",
     "american",
+    "classic-rock",
+    "pop",
     "dance",
     "disco"
   ]

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "doom-jazz",
-    "dark-jazz",
-    "jazz",
     "ambient",
-    "dark-ambient"
+    "dark-ambient",
+    "dark-jazz",
+    "doom-jazz",
+    "jazz"
   ]
 }

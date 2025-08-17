@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>90s</genre>
     <genre>acoustic</genre>
+    <genre>blues</genre>
     <genre>funk</genre>
     <genre>soul</genre>
-    <genre>blues</genre>
-    <genre>90s</genre>
   </genres>
 </album>

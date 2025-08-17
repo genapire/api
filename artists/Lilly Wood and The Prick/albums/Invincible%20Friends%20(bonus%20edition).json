@@ -1,8 +1,8 @@
 {
   "genres": [
-    "rock",
-    "progressive-pop",
     "cover",
-    "indie"
+    "indie",
+    "progressive-pop",
+    "rock"
   ]
 }

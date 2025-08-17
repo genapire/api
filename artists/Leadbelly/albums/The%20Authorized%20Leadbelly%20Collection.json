@@ -1,9 +1,9 @@
 {
   "genres": [
-    "blues",
-    "folk",
-    "classic-blues",
     "acoustic",
-    "classic"
+    "blues",
+    "classic",
+    "classic-blues",
+    "folk"
   ]
 }

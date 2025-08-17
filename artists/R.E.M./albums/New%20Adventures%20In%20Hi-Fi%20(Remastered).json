@@ -1,9 +1,9 @@
 {
   "genres": [
-    "hard-rock",
     "alternative-rock",
-    "country-rock",
     "american",
-    "folk-rock"
+    "country-rock",
+    "folk-rock",
+    "hard-rock"
   ]
 }

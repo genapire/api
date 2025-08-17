@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>dance</genre>
+    <genre>female-vocalists</genre>
+    <genre>latin</genre>
     <genre>pop</genre>
     <genre>rnb</genre>
-    <genre>latin</genre>
-    <genre>female-vocalists</genre>
-    <genre>dance</genre>
   </genres>
 </album>

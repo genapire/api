@@ -1,9 +1,9 @@
 {
   "genres": [
-    "progressive-rock",
     "classic-rock",
     "classical",
-    "rock",
-    "instrumental"
+    "instrumental",
+    "progressive-rock",
+    "rock"
   ]
 }

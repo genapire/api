@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>country</genre>
     <genre>americana</genre>
-    <genre>folk</genre>
+    <genre>country</genre>
     <genre>bluegrass</genre>
+    <genre>folk</genre>
     <genre>blues-rock</genre>
   </genres>
 </album>

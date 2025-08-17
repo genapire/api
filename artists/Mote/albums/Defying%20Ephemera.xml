@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>stoner-rock</genre>
     <genre>contemporary-classical</genre>
-    <genre>psychedelic</genre>
-    <genre>piano</genre>
     <genre>modern-classical</genre>
+    <genre>piano</genre>
+    <genre>psychedelic</genre>
+    <genre>stoner-rock</genre>
   </genres>
 </album>

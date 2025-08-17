@@ -1,9 +1,9 @@
 {
   "genres": [
-    "power-metal",
     "heavy-metal",
-    "thrash-metal",
     "metal",
-    "symphonic-metal"
+    "power-metal",
+    "symphonic-metal",
+    "thrash-metal"
   ]
 }

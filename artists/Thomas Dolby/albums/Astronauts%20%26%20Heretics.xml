@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>synthpop</genre>
-    <genre>soft-rock</genre>
-    <genre>new-wave</genre>
-    <genre>electronic</genre>
     <genre>80s</genre>
+    <genre>electronic</genre>
+    <genre>new-wave</genre>
+    <genre>soft-rock</genre>
+    <genre>synthpop</genre>
   </genres>
 </album>

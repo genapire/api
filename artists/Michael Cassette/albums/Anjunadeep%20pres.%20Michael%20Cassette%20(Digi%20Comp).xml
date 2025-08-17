@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>progressive-house</genre>
-    <genre>trance</genre>
-    <genre>progressive-trance</genre>
     <genre>electronic</genre>
     <genre>house</genre>
+    <genre>progressive-house</genre>
+    <genre>progressive-trance</genre>
+    <genre>trance</genre>
   </genres>
 </album>

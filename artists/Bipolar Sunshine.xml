@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>french</genre>
-    <genre>electronic</genre>
     <genre>dance</genre>
+    <genre>electronic</genre>
+    <genre>french</genre>
     <genre>trap</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "modern-classical",
     "ambient",
+    "classical",
     "contemporary-classical",
-    "neoclassical",
-    "classical"
+    "modern-classical",
+    "neoclassical"
   ]
 }

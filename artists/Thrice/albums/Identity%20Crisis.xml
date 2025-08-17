@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>hardcore</genre>
+    <genre>melodic-hardcore</genre>
+    <genre>pop-punk</genre>
     <genre>post-hardcore</genre>
     <genre>punk-rock</genre>
-    <genre>pop-punk</genre>
-    <genre>melodic-hardcore</genre>
-    <genre>hardcore</genre>
   </genres>
 </album>

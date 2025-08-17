@@ -1,9 +1,9 @@
 {
   "genres": [
-    "psychedelic",
-    "rock",
-    "psychedelic-rock",
     "indie",
-    "indie-rock"
+    "indie-rock",
+    "psychedelic",
+    "psychedelic-rock",
+    "rock"
   ]
 }

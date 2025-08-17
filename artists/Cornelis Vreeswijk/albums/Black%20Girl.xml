@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>swedish</genre>
-    <genre>chill</genre>
     <genre>acoustic</genre>
+    <genre>chill</genre>
+    <genre>swedish</genre>
   </genres>
 </album>

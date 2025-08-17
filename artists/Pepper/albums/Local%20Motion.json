@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
     "dub",
-    "ska",
     "punk",
-    "reggae"
+    "reggae",
+    "rock",
+    "ska"
   ]
 }

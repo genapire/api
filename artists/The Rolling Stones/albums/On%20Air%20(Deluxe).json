@@ -1,9 +1,9 @@
 {
   "genres": [
-    "classic-rock",
-    "rock",
-    "garage-rock",
     "60s",
-    "rhythm-and-blues"
+    "classic-rock",
+    "garage-rock",
+    "rhythm-and-blues",
+    "rock"
   ]
 }

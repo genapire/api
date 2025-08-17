@@ -1,9 +1,9 @@
 {
   "genres": [
-    "rock",
-    "latin-rock",
     "classic-rock",
+    "instrumental",
     "latin",
-    "instrumental"
+    "latin-rock",
+    "rock"
   ]
 }

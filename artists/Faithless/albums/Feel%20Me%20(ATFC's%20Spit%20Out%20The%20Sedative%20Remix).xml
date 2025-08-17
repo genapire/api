@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>british</genre>
+    <genre>dance</genre>
     <genre>electronic</genre>
     <genre>house</genre>
     <genre>trip-hop</genre>
-    <genre>british</genre>
-    <genre>dance</genre>
   </genres>
 </album>

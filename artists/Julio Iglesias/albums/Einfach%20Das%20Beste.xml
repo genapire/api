@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>romantic</genre>
-    <genre>spanish</genre>
     <genre>latin</genre>
     <genre>pop</genre>
+    <genre>romantic</genre>
+    <genre>spanish</genre>
   </genres>
 </album>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>modern-classical</genre>
-    <genre>electroacoustic</genre>
     <genre>ambient</genre>
+    <genre>electroacoustic</genre>
+    <genre>modern-classical</genre>
   </genres>
 </album>

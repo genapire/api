@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>cover</genre>
-    <genre>classic-rock</genre>
-    <genre>rock</genre>
     <genre>blues</genre>
+    <genre>classic-rock</genre>
+    <genre>cover</genre>
     <genre>indie</genre>
+    <genre>rock</genre>
   </genres>
 </album>

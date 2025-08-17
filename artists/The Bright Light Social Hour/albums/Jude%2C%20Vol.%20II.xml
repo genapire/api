@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>indie-rock</genre>
-    <genre>indie</genre>
     <genre>blues-rock</genre>
-    <genre>rock</genre>
+    <genre>indie</genre>
+    <genre>indie-rock</genre>
     <genre>psychedelic</genre>
+    <genre>rock</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "cover",
-    "classic-rock",
-    "rock",
     "blues",
-    "indie"
+    "classic-rock",
+    "cover",
+    "indie",
+    "rock"
   ]
 }

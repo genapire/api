@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>funk-metal</genre>
-    <genre>funk</genre>
-    <genre>metal</genre>
     <genre>alternative</genre>
+    <genre>funk</genre>
+    <genre>funk-metal</genre>
+    <genre>metal</genre>
     <genre>rock</genre>
   </genres>
 </album>

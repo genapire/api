@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>doom-metal</genre>
-    <genre>atmospheric-doom-metal</genre>
     <genre>atmospheric-black-metal</genre>
+    <genre>atmospheric-doom-metal</genre>
+    <genre>doom-metal</genre>
     <genre>folk-metal</genre>
   </genres>
 </album>

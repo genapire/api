@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz",
-    "swing",
-    "female-vocalists",
     "blues",
-    "oldies"
+    "female-vocalists",
+    "jazz",
+    "oldies",
+    "swing"
   ]
 }

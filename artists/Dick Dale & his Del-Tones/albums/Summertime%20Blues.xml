@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>surf</genre>
     <genre>60s</genre>
     <genre>cover</genre>
+    <genre>surf</genre>
   </genres>
 </album>

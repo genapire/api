@@ -1,9 +1,9 @@
 {
   "genres": [
-    "pop",
-    "synthpop",
-    "house",
     "dance",
-    "electropop"
+    "electropop",
+    "house",
+    "pop",
+    "synthpop"
   ]
 }

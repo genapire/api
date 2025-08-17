@@ -1,9 +1,9 @@
 {
   "genres": [
-    "indie",
-    "shoegaze",
-    "dream-pop",
     "ambient",
-    "pop"
+    "dream-pop",
+    "indie",
+    "pop",
+    "shoegaze"
   ]
 }

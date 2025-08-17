@@ -1,9 +1,9 @@
 {
   "genres": [
-    "country",
-    "folk",
-    "americana",
     "alternative-pop",
-    "alternative-rock"
+    "alternative-rock",
+    "americana",
+    "country",
+    "folk"
   ]
 }

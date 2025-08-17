@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>country</genre>
     <genre>70s</genre>
-    <genre>female-vocalists</genre>
+    <genre>country</genre>
     <genre>cover</genre>
+    <genre>female-vocalists</genre>
   </genres>
 </album>

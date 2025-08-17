@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>surf</genre>
     <genre>60s</genre>
-    <genre>rock</genre>
     <genre>instrumental</genre>
+    <genre>rock</genre>
+    <genre>surf</genre>
   </genres>
 </album>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>alternative-rock</genre>
     <genre>alternative</genre>
-    <genre>rock</genre>
-    <genre>post-grunge</genre>
+    <genre>alternative-rock</genre>
     <genre>instrumental</genre>
+    <genre>post-grunge</genre>
+    <genre>rock</genre>
   </genres>
 </album>

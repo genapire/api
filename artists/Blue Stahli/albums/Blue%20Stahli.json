@@ -1,9 +1,9 @@
 {
   "genres": [
-    "industrial",
     "electronic",
-    "metal",
+    "industrial",
+    "industrial-metal",
     "industrial-rock",
-    "industrial-metal"
+    "metal"
   ]
 }

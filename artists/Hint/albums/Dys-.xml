@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>progressive-metal</genre>
-    <genre>noise</genre>
-    <genre>experimental</genre>
     <genre>downtempo</genre>
+    <genre>experimental</genre>
+    <genre>noise</genre>
+    <genre>progressive-metal</genre>
   </genres>
 </album>

@@ -1,9 +1,9 @@
 {
   "genres": [
-    "oldies",
     "60s",
-    "pop",
     "country",
-    "female-vocalists"
+    "female-vocalists",
+    "oldies",
+    "pop"
   ]
 }

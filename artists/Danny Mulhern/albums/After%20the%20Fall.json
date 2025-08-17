@@ -1,9 +1,9 @@
 {
   "genres": [
+    "classical",
     "contemporary-classical",
     "instrumental",
-    "piano",
-    "classical",
-    "modern-classical"
+    "modern-classical",
+    "piano"
   ]
 }

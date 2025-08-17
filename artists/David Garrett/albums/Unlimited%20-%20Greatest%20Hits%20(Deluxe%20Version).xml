@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>instrumental</genre>
-    <genre>cover</genre>
-    <genre>classical</genre>
     <genre>classic</genre>
+    <genre>classical</genre>
+    <genre>cover</genre>
+    <genre>instrumental</genre>
   </genres>
 </album>

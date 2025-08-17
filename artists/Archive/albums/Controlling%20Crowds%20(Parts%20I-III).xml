@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>trip-hop</genre>
     <genre>alternative</genre>
-    <genre>progressive-rock</genre>
     <genre>electronic</genre>
+    <genre>progressive-rock</genre>
+    <genre>trip-hop</genre>
   </genres>
 </album>

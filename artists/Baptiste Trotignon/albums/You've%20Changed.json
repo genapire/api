@@ -1,9 +1,9 @@
 {
   "genres": [
-    "jazz-fusion",
     "jazz",
-    "piano",
+    "jazz-fusion",
     "jazz-piano",
-    "modern-jazz"
+    "modern-jazz",
+    "piano"
   ]
 }

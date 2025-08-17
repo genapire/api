@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>covers</genre>
-    <genre>cover</genre>
     <genre>bossa-nova</genre>
+    <genre>cover</genre>
+    <genre>covers</genre>
     <genre>french</genre>
   </genres>
 </album>

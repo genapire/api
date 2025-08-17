@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>neoclassical</genre>
     <genre>ambient</genre>
-    <genre>shoegaze</genre>
-    <genre>post-rock</genre>
     <genre>british</genre>
+    <genre>neoclassical</genre>
+    <genre>post-rock</genre>
+    <genre>shoegaze</genre>
   </genres>
 </album>

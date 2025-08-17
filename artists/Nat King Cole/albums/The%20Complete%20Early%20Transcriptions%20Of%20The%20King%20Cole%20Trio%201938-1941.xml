@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>blues</genre>
     <genre>jazz</genre>
+    <genre>oldies</genre>
     <genre>saxophone</genre>
     <genre>swing</genre>
-    <genre>blues</genre>
-    <genre>oldies</genre>
   </genres>
 </album>

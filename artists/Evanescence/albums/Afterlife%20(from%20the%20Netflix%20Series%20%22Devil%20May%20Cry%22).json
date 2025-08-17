@@ -1,9 +1,9 @@
 {
   "genres": [
-    "metal",
-    "hard-rock",
     "alternative-metal",
-    "soundtrack",
-    "gothic-metal"
+    "gothic-metal",
+    "hard-rock",
+    "metal",
+    "soundtrack"
   ]
 }

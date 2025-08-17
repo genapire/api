@@ -1,9 +1,9 @@
 {
   "genres": [
-    "instrumental",
     "acoustic",
-    "guitar",
     "flamenco",
+    "guitar",
+    "instrumental",
     "latin"
   ]
 }

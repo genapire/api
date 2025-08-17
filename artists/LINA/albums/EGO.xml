@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop</genre>
     <genre>electro</genre>
     <genre>neo-soul</genre>
+    <genre>pop</genre>
     <genre>soul</genre>
   </genres>
 </album>
