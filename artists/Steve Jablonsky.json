@@ -1,8 +1,9 @@
 {
   "genres": [
-    "instrumental",
     "soundtrack",
-    "melancholic",
-    "film-score"
+    "instrumental",
+    "video-game-soundtrack",
+    "videogame-soundtrack",
+    "ost"
   ]
 }

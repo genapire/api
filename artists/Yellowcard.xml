@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>ambient-pop</genre>
-    <genre>dream-pop</genre>
+    <genre>pop-punk</genre>
+    <genre>punk-rock</genre>
+    <genre>rock</genre>
+    <genre>alternative</genre>
+    <genre>punk</genre>
   </genres>
 </album>

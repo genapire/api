@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>instrumental</genre>
     <genre>soundtrack</genre>
-    <genre>melancholic</genre>
-    <genre>film-score</genre>
+    <genre>instrumental</genre>
+    <genre>video-game-soundtrack</genre>
+    <genre>videogame-soundtrack</genre>
+    <genre>ost</genre>
   </genres>
 </album>
