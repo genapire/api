@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>pop-rock</genre>
+    <genre>pop</genre>
+    <genre>rock</genre>
+    <genre>piano</genre>
+    <genre>soundtrack</genre>
+    <genre>70s</genre>
   </genres>
 </album>

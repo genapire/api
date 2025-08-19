@@ -1,9 +1,7 @@
 {
   "genres": [
-    "french",
     "chanson",
-    "chanson-francaise",
-    "classical",
-    "contemporary-classical"
+    "french",
+    "chanson-francaise"
   ]
 }

@@ -1,8 +1,9 @@
 {
   "genres": [
-    "classical",
-    "contemporary-classical",
     "jazz",
-    "modern-classical"
+    "free-jazz",
+    "avant-garde-jazz",
+    "saxophone",
+    "psychedelic"
   ]
 }

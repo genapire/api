@@ -3,5 +3,8 @@
   <genres>
     <genre>jazz</genre>
     <genre>saxophone</genre>
+    <genre>blues</genre>
+    <genre>cool-jazz</genre>
+    <genre>jazz-fusion</genre>
   </genres>
 </album>

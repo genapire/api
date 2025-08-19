@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>funk</genre>
     <genre>hip-hop</genre>
     <genre>jazz</genre>
+    <genre>funk</genre>
     <genre>rap</genre>
+    <genre>instrumental-hip-hop</genre>
   </genres>
 </album>

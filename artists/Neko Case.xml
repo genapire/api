@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>americana</genre>
     <genre>female-vocalists</genre>
-    <genre>country</genre>
     <genre>indie</genre>
-    <genre>indie-rock</genre>
+    <genre>folk</genre>
+    <genre>americana</genre>
+    <genre>country</genre>
   </genres>
 </album>

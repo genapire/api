@@ -1,3 +1,9 @@
 {
-  "genres": []
+  "genres": [
+    "jazz",
+    "swing",
+    "blues",
+    "oldies",
+    "30s"
+  ]
 }

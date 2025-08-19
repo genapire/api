@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>classical</genre>
     <genre>experimental</genre>
-    <genre>free-jazz</genre>
-    <genre>noise</genre>
+    <genre>indie</genre>
+    <genre>indie-rock</genre>
+    <genre>post-rock</genre>
+    <genre>classical</genre>
   </genres>
 </album>

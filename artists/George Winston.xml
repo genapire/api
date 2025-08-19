@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>christmas</genre>
     <genre>piano</genre>
+    <genre>new-age</genre>
+    <genre>instrumental</genre>
+    <genre>classical</genre>
+    <genre>christmas</genre>
   </genres>
 </album>

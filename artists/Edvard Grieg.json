@@ -1,8 +1,9 @@
 {
   "genres": [
     "classical",
-    "classical-piano",
     "piano",
+    "romantic",
+    "classical-piano",
     "classic"
   ]
 }

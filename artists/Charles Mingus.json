@@ -1,8 +1,9 @@
 {
   "genres": [
-    "american",
-    "instrumental",
     "jazz",
+    "jazz-fusion",
+    "instrumental",
+    "cool-jazz",
     "piano"
   ]
 }
