@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Hamlet</name>
+  <albums>
+    <album>Directo</album>
+    <album>El Inferno</album>
+    <album>Piano</album>
+  </albums>
+</artist>

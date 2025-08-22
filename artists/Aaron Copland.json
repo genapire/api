@@ -1,8 +1,9 @@
 {
   "genres": [
-    "baroque",
     "classical",
     "contemporary-classical",
-    "soundtrack"
+    "american",
+    "instrumental",
+    "baroque"
   ]
 }

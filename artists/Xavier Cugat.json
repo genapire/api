@@ -1,3 +1,9 @@
 {
-  "genres": []
+  "genres": [
+    "latin",
+    "jazz",
+    "instrumental",
+    "lounge",
+    "tango"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "genres": [
-    "dub",
     "reggae",
-    "roots-reggae"
+    "roots-reggae",
+    "cover",
+    "oldies",
+    "lovers-rock"
   ]
 }

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>drone-metal</genre>
+    <genre>dark-ambient</genre>
     <genre>ambient</genre>
-    <genre>experimental</genre>
+    <genre>drone-doom</genre>
+    <genre>doom-metal</genre>
   </genres>
 </album>

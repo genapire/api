@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>baroque</genre>
     <genre>classical</genre>
     <genre>contemporary-classical</genre>
-    <genre>soundtrack</genre>
+    <genre>american</genre>
+    <genre>instrumental</genre>
+    <genre>baroque</genre>
   </genres>
 </album>
