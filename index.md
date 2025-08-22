@@ -205,8 +205,8 @@ if you like to thank me.
 
 # Stats
 
-#### Artists: 11404
-#### Albums: 149022
+#### Artists: 12627
+#### Albums: 190830
 
 
 # License
