@@ -3,5 +3,8 @@
   <genres>
     <genre>jazz</genre>
     <genre>latin-jazz</genre>
+    <genre>latin</genre>
+    <genre>bossa-nova</genre>
+    <genre>jazz-fusion</genre>
   </genres>
 </album>

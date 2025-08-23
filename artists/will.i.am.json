@@ -1,9 +1,9 @@
 {
   "genres": [
     "hip-hop",
-    "pop",
-    "funk",
     "rap",
-    "rnb"
+    "funk",
+    "rnb",
+    "pop"
   ]
 }

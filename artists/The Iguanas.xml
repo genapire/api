@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>garage-rock</genre>
+    <genre>rock</genre>
+    <genre>60s</genre>
+    <genre>classic-rock</genre>
     <genre>alternative</genre>
-    <genre>electronic</genre>
-    <genre>indie</genre>
-    <genre>instrumental</genre>
-    <genre>soundtrack</genre>
   </genres>
 </album>

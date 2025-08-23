@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <artist>
-  <name>Les Compagnons de la Chanson</name>
+  <name>Les Compagnons De La Chanson</name>
   <albums>
+    <album>Gold</album>
+    <album>Heritage - Le Chant De Mallory - Polydor (1963-1965)</album>
+    <album>Heritage - Les Comédiens - Polydor (1962-1963)</album>
+    <album>Heritage - Marie Du Bord De L'Eau - Polydor (1965-1966)</album>
+    <album>Le marchand de bonheur ... - 20 succès</album>
+    <album>Le Meilleur (Remastered)</album>
+    <album>Le Meilleur des Compagnons de la Chanson</album>
+    <album>Le palmarès de nos chansons</album>
+    <album>Les "showmen" de la chanson</album>
+    <album>Les chansons d'or</album>
     <album>Les Compagnons De La Chanson</album>
+    <album>Les Compagnons de la Chanson : Les cavaliers du ciel (Histoire Française)</album>
+    <album>Les trois cloches</album>
+    <album>Meilleure collection française: le meilleur de Les Compagnons De La Chanson</album>
+    <album>Nos jeunes années</album>
+    <album>Vénus (Mono Version)</album>
   </albums>
 </artist>

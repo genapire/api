@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>classic</genre>
     <genre>classical</genre>
+    <genre>french</genre>
+    <genre>romantic</genre>
+    <genre>classic</genre>
     <genre>classical-piano</genre>
-    <genre>piano</genre>
   </genres>
 </album>

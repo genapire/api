@@ -1,7 +1,9 @@
 {
   "genres": [
-    "guitar",
     "jazz",
-    "jazz-vocal"
+    "jazz-guitar",
+    "guitar",
+    "swing",
+    "instrumental"
   ]
 }

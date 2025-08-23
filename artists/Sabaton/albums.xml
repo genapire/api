@@ -2,7 +2,9 @@
 <artist>
   <name>Sabaton</name>
   <albums>
+    <album>Angels Calling</album>
     <album>Attero Dominatus (Re-Armed)</album>
+    <album>Bismarck</album>
     <album>Carolus Rex (English Version) (Bonus Version)</album>
     <album>Carolus Rex (English)</album>
     <album>Carolus Rex (Swedish)</album>
@@ -11,11 +13,17 @@
     <album>Heroes (Track Commentary Version)</album>
     <album>Heroes of the Great War</album>
     <album>Heroes on Tour</album>
+    <album>Hordes of Khan</album>
+    <album>In the Army Now</album>
+    <album>Legends</album>
     <album>Metalizer (Re-Armed)</album>
     <album>Primo Victoria (Re-Armed)</album>
+    <album>Steel Commanders</album>
     <album>Stories From The Western Front</album>
     <album>Swedish Empire (Live)</album>
+    <album>Templars</album>
     <album>The Art of War (Re-Armed)</album>
+    <album>The Attack of the Dead Men (Live in Moscow)</album>
     <album>The Great Show (The Great Tour Live In Prague, 2020)</album>
     <album>The Great War</album>
     <album>The Great War (History Version)</album>
@@ -25,6 +33,7 @@
     <album>The Symphony To End All Wars (Symphonic Version)</album>
     <album>The War to End All Wars</album>
     <album>The War To End All Wars (History Edition)</album>
+    <album>Weapons Of The Modern Age</album>
     <album>World War Live - Battle of the Baltic Sea</album>
   </albums>
 </artist>

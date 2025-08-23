@@ -1,3 +1,9 @@
 {
-  "genres": []
+  "genres": [
+    "progressive-rock",
+    "classic-rock",
+    "folk",
+    "rock",
+    "folk-rock"
+  ]
 }
