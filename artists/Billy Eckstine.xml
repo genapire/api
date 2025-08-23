@@ -2,6 +2,9 @@
 <album>
   <genres>
     <genre>jazz</genre>
+    <genre>swing</genre>
+    <genre>blues</genre>
+    <genre>jazz-vocal</genre>
     <genre>oldies</genre>
   </genres>
 </album>

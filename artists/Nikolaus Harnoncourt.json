@@ -1,7 +1,9 @@
 {
   "genres": [
-    "classic",
     "classical",
+    "baroque",
+    "christmas",
+    "classic",
     "instrumental"
   ]
 }

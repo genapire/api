@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Company</name>
+  <albums>
+    <album>A Little Night Music</album>
+    <album>Little Shop Of Horrors</album>
+    <album>Milk & Honey</album>
+    <album>Monty Python's Spamalot</album>
+    <album>The Addams Family (Original Cast Recording)</album>
+  </albums>
+</artist>

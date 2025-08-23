@@ -1,7 +1,9 @@
 {
   "genres": [
-    "bossa-nova",
     "jazz",
-    "jazz-fusion"
+    "jazz-fusion",
+    "funk",
+    "latin-jazz",
+    "latin"
   ]
 }
