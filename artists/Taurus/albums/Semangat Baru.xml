@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>brazilian</genre>
+    <genre>speed-metal</genre>
     <genre>thrash-metal</genre>
   </genres>
 </album>

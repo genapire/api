@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>choral</genre>
     <genre>classical</genre>
     <genre>christmas</genre>
     <genre>vocal</genre>
     <genre>jazz</genre>
-    <genre>jazz-vocal</genre>
   </genres>
 </album>

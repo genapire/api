@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>irish</genre>
     <genre>celtic</genre>
     <genre>classical</genre>
     <genre>irish-folk</genre>
     <genre>soundtrack</genre>
-    <genre>vocal</genre>
   </genres>
 </album>

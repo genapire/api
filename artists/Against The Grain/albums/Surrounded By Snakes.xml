@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>speed-metal</genre>
+    <genre>speed-rock</genre>
     <genre>thrash</genre>
     <genre>thrash-metal</genre>
   </genres>

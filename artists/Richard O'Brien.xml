@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>musical</genre>
     <genre>soundtrack</genre>
     <genre>glam-rock</genre>
     <genre>new-wave</genre>
     <genre>soundtracks</genre>
-    <genre>rock</genre>
   </genres>
 </album>

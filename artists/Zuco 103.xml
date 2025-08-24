@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>brazilian</genre>
     <genre>acid-jazz</genre>
     <genre>lounge</genre>
     <genre>jazz</genre>
     <genre>electronic</genre>
-    <genre>chillout</genre>
   </genres>
 </album>

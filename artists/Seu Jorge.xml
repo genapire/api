@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>brazilian</genre>
     <genre>samba</genre>
     <genre>folk</genre>
     <genre>acoustic</genre>
     <genre>00s</genre>
-    <genre>bossa-nova</genre>
   </genres>
 </album>

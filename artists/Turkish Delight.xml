@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>turkish</genre>
     <genre>experimental</genre>
     <genre>stoner-rock</genre>
     <genre>math-rock</genre>
     <genre>cover</genre>
-    <genre>dream-pop</genre>
   </genres>
 </album>

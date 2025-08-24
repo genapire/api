@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>deutsch</genre>
     <genre>pop</genre>
     <genre>electronic</genre>
     <genre>female-vocalists</genre>
     <genre>00s</genre>
-    <genre>minimal</genre>
   </genres>
 </album>

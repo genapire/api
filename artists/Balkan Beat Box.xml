@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>balkan</genre>
     <genre>electronic</genre>
     <genre>folk</genre>
     <genre>electronica</genre>
     <genre>alternative</genre>
-    <genre>alternative-dance</genre>
   </genres>
 </album>

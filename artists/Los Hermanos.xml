@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>brazilian</genre>
     <genre>rock</genre>
     <genre>alternative-rock</genre>
     <genre>indie</genre>
     <genre>indie-rock</genre>
-    <genre>deep-house</genre>
   </genres>
 </album>
