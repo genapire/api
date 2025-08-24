@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>christian-metal</genre>
     <genre>metal</genre>
     <genre>heavy-metal</genre>
     <genre>hardcore</genre>
-    <genre>christian-metalcore</genre>
+    <genre>melodic-metalcore</genre>
+    <genre>alternative-metal</genre>
   </genres>
 </album>
