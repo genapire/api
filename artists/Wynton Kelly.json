@@ -1,7 +1,9 @@
 {
   "genres": [
-    "cool-jazz",
     "jazz",
-    "jazz-piano"
+    "jazz-piano",
+    "piano",
+    "american",
+    "cool-jazz"
   ]
 }

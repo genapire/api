@@ -1,9 +1,9 @@
 {
   "genres": [
-    "bossa-nova",
     "jazz",
-    "latin-jazz",
-    "samba",
-    "saxophone"
+    "bossa-nova",
+    "jazz-guitar",
+    "guitar",
+    "latin"
   ]
 }

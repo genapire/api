@@ -2,5 +2,9 @@
 <album>
   <genres>
     <genre>classical</genre>
+    <genre>piano</genre>
+    <genre>instrumental</genre>
+    <genre>classical-piano</genre>
+    <genre>classical-music</genre>
   </genres>
 </album>

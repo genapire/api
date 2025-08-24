@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>jazz</genre>
+    <genre>swing</genre>
     <genre>film-music</genre>
     <genre>soundtrack</genre>
+    <genre>oldies</genre>
   </genres>
 </album>

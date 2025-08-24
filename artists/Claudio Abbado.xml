@@ -2,5 +2,9 @@
 <album>
   <genres>
     <genre>classical</genre>
+    <genre>romantic</genre>
+    <genre>pop</genre>
+    <genre>instrumental</genre>
+    <genre>contemporary-classical</genre>
   </genres>
 </album>

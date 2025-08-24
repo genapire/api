@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>jazzfanatics</genre>
     <genre>jazz</genre>
     <genre>jazz-fusion</genre>
+    <genre>instrumental</genre>
+    <genre>jazzfanatics</genre>
   </genres>
 </album>

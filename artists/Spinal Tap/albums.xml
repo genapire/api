@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Spinal Tap</name>
+  <albums>
+    <album>Back From the Dead</album>
+    <album>Stonehenge</album>
+    <album>This Is Spinal Tap</album>
+  </albums>
+</artist>

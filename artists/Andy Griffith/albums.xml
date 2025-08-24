@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Andy Griffith</name>
+  <albums>
+    <album>Greatest Hits From The 1950's</album>
+    <album>Just for Laughs</album>
+    <album>Someone Else</album>
+    <album>What It Was, Was Football</album>
+  </albums>
+</artist>

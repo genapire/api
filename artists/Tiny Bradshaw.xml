@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>folk</genre>
-    <genre>oldies</genre>
     <genre>rhythm-and-blues</genre>
+    <genre>oldies</genre>
     <genre>swing</genre>
+    <genre>jazz</genre>
+    <genre>folk</genre>
   </genres>
 </album>

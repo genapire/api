@@ -1,3 +1,8 @@
 {
-  "genres": []
+  "genres": [
+    "jazz",
+    "saxophone",
+    "jazz-fusion",
+    "cool-jazz"
+  ]
 }

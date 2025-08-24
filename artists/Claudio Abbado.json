@@ -1,5 +1,9 @@
 {
   "genres": [
-    "classical"
+    "classical",
+    "romantic",
+    "pop",
+    "instrumental",
+    "contemporary-classical"
   ]
 }

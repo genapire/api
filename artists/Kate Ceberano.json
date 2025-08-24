@@ -1,8 +1,9 @@
 {
   "genres": [
-    "female-vocalists",
     "jazz",
     "pop",
-    "soul"
+    "soul",
+    "female-vocalists",
+    "acoustic"
   ]
 }

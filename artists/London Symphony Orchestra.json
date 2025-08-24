@@ -1,8 +1,9 @@
 {
   "genres": [
-    "jazz",
     "classical",
-    "contemporary-classical",
-    "modern-classical"
+    "instrumental",
+    "soundtrack",
+    "british",
+    "french"
   ]
 }

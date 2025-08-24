@@ -1,9 +1,9 @@
 {
   "genres": [
     "classical",
-    "contemporary-classical",
     "ambient",
-    "classical-music",
+    "contemporary-classical",
+    "romantic",
     "instrumental"
   ]
 }

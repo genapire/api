@@ -1,7 +1,9 @@
 {
   "genres": [
-    "ambient",
     "classical",
-    "neoclassical"
+    "instrumental",
+    "contemporary-classical",
+    "classic",
+    "baroque"
   ]
 }

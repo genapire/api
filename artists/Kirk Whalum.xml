@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>funk</genre>
-    <genre>jazz</genre>
-    <genre>jazz-fusion</genre>
     <genre>smooth-jazz</genre>
+    <genre>jazz</genre>
+    <genre>saxophone</genre>
+    <genre>jazz-fusion</genre>
+    <genre>relax</genre>
   </genres>
 </album>

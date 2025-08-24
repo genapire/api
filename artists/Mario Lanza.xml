@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>classic</genre>
     <genre>classical</genre>
+    <genre>classic</genre>
+    <genre>50s</genre>
+    <genre>italian</genre>
+    <genre>oldies</genre>
   </genres>
 </album>

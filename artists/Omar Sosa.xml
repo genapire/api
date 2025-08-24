@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>contemporary-jazz</genre>
-    <genre>italian</genre>
     <genre>jazz</genre>
+    <genre>piano</genre>
+    <genre>latin</genre>
+    <genre>latin-jazz</genre>
+    <genre>smooth-jazz</genre>
   </genres>
 </album>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>jazz</genre>
     <genre>contemporary-jazz</genre>
     <genre>instrumental</genre>
-    <genre>jazz</genre>
     <genre>smooth-jazz</genre>
+    <genre>free-jazz</genre>
   </genres>
 </album>
