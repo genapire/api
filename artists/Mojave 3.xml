@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>alt-country</genre>
     <genre>indie</genre>
     <genre>dream-pop</genre>
     <genre>shoegaze</genre>
     <genre>indie-pop</genre>
-    <genre>country</genre>
   </genres>
 </album>
