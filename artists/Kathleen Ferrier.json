@@ -1,3 +1,9 @@
 {
-  "genres": []
+  "genres": [
+    "classical",
+    "female-vocalists",
+    "folk",
+    "classic",
+    "instrumental"
+  ]
 }

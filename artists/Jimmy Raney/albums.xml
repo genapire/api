@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Jimmy Raney</name>
+  <albums>
+    <album>'A''</album>
+    <album>"A" + 2 Guitars</album>
+    <album>After All</album>
+    <album>Body and Soul</album>
+    <album>Classic Jimmy Raney, Vol. 1</album>
+    <album>Minor</album>
+    <album>Some Other Spring</album>
+    <album>The Cool Jazz Sounds of Jimmy Raney, Vol. 2</album>
+    <album>Two Jims and Zoot</album>
+    <album>Two Jims And Zoot</album>
+  </albums>
+</artist>
