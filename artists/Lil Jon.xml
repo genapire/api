@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>crunk</genre>
-    <genre>dirty-south</genre>
-    <genre>hip-hop</genre>
     <genre>rap</genre>
+    <genre>crunk</genre>
+    <genre>hip-hop</genre>
+    <genre>dirty-south</genre>
+    <genre>dancehall</genre>
   </genres>
 </album>

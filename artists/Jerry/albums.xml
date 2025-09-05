@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Jerry</name>
+  <albums>
+    <album>Showstopper</album>
+    <album>The College Dropout</album>
+  </albums>
+</artist>

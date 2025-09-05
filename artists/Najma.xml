@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
+    <genre>indian</genre>
     <genre>electronic</genre>
     <genre>female-vocalists</genre>
-    <genre>indian</genre>
-    <genre>female-vocalist</genre>
+    <genre>ghazal</genre>
+    <genre>world-fusion</genre>
   </genres>
 </album>

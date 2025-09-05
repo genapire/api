@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>dub</genre>
     <genre>turkish</genre>
+    <genre>folk</genre>
+    <genre>psychedelic</genre>
+    <genre>experimental</genre>
+    <genre>dub</genre>
   </genres>
 </album>

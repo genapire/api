@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <name>Tom Smith</name>
+  <albums>
+    <album>And They Say I've Got Talent</album>
+    <album>Musical Pictures</album>
+    <album>Shades of the Moon</album>
+  </albums>
+</artist>
