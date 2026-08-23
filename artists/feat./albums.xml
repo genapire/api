@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <artist>
-  <name>Feat.</name>
+  <name>feat.</name>
   <albums>
-    <album>Black Music</album>
-    <album>Black Music Remixes</album>
-    <album>Blossom</album>
-    <album>Insomnia</album>
-    <album>The Day</album>
+    <album>Cut Me</album>
+    <album>Face The Music</album>
+    <album>From the Reach</album>
+    <album>Le Général</album>
+    <album>Singles and Favourites</album>
+    <album>Soft Machine</album>
+    <album>Soultry, Jazzy, & Sexy</album>
+    <album>The Concert for Bangladesh</album>
+    <album>The Tel Aviv Session</album>
   </albums>
 </artist>

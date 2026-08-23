@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <artist>
-  <name>The Silk Demise</name>
+  <name>the silk demise</name>
   <albums>
+    <album>Cinematika</album>
+    <album>Decade</album>
+    <album>Midnight Eyes</album>
     <album>Music For A Film</album>
+    <album>Night Sessions</album>
+    <album>Revenant</album>
   </albums>
 </artist>
