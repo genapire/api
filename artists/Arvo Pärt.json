@@ -1,8 +1,9 @@
 {
   "genres": [
     "classical",
-    "choral",
     "contemporary-classical",
-    "saxophone"
+    "choral",
+    "saxophone",
+    "modern-classical"
   ]
 }
