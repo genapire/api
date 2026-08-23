@@ -205,10 +205,11 @@ if you like to thank me.
 
 # Stats
 
-#### Artists: 30137
-#### Albums: 1048576
+#### Artists: 28828
+#### Albums: 330453
 
 
 # License
 
-The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).root@unraid:/mnt/user/raiomore/compose_projects/api#
+The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
