@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>party</genre>
-    <genre>electronic</genre>
     <genre>electropop</genre>
-    <genre>synthpop</genre>
+    <genre>party</genre>
+    <genre>futurepop</genre>
+    <genre>tech-house</genre>
+    <genre>electronic</genre>
   </genres>
 </album>

@@ -37,7 +37,7 @@ To use this knowledge base, you need an HTTP client capable of making simple req
 ## JSON
 
 ```bash
-curl "https://genapire.online/artists/ABBA/albums/Waterloo%20(Deluxe%20Edition).json"
+curl "https://genapire.mobulum.com/artists/ABBA/albums/Waterloo%20(Deluxe%20Edition).json"
 ```
 
 The response is as follows:
@@ -58,7 +58,7 @@ The response is as follows:
 Now the same for XML:
 
 ```bash
-curl "https://genapire.online/artists/ABBA/albums/Waterloo%20(Deluxe%20Edition).xml"
+curl "https://genapire.mobulum.com/artists/ABBA/albums/Waterloo%20(Deluxe%20Edition).xml"
 ```
 
 The response is as follows:
@@ -82,7 +82,7 @@ So, to get genres for a given artist and album, just call this endpoint:
 ### GET genres
 
 ```bash
-curl "https://genapire.online/artists/{artist}/albums/{album}.(xml|json)"
+curl "https://genapire.mobulum.com/artists/{artist}/albums/{album}.(xml|json)"
 ```
 
 But you can get more information.
@@ -91,13 +91,13 @@ But you can get more information.
 ### GET genres for artist
 
 ```bash
-curl "https://genapire.online/artists/{artist}.(xml|json)"
+curl "https://genapire.mobulum.com/artists/{artist}.(xml|json)"
 ```
 
 An example for ABBA:
 
 ```bash
-curl "https://genapire.online/artists/ABBA.json"
+curl "https://genapire.mobulum.com/artists/ABBA.json"
 ```
 
 Response:
@@ -120,13 +120,13 @@ Response:
 ### GET albums for artist
 
 ```bash
-curl "https://genapire.online/artists/{artist}/albums.(xml|json)"
+curl "https://genapire.mobulum.com/artists/{artist}/albums.(xml|json)"
 ```
 
 Now let’s fetch all available albums with genres for ABBA:
 
 ```bash
-curl "https://genapire.online/artists/ABBA/albums.json"
+curl "https://genapire.mobulum.com/artists/ABBA/albums.json"
 ```
 
 ```json
@@ -165,7 +165,7 @@ Similarly for XML—just change the extension.
 There’s one more way to use genAPIre: fetch all available artists in genAPIre with genres for their albums.
 
 ```bash
-curl "https://genapire.online/artists.(xml|json)"
+curl "https://genapire.mobulum.com/artists.(xml|json)"
 ```
 
 I won’t show the response because it’s long and changes over time. I’m constantly working on it—for myself and for
@@ -211,4 +211,4 @@ if you like to thank me.
 
 # License
 
-The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).root@unraid:/mnt/user/raiomore/compose_projects/api#
