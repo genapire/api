@@ -12,10 +12,10 @@ title: "Welcome to GenAPIre"
 <!-- BADGES_START -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/rwJcE5Zwez)
-[![Artists](https://img.shields.io/badge/Artists-29.2k%2B-blue)](https://genapire.mobulum.com)
-[![Albums](https://img.shields.io/badge/Albums-333.1k%2B-informational)](https://genapire.mobulum.com)
+[![Artists](https://img.shields.io/badge/Artists-32.4k%2B-blue)](https://genapire.mobulum.com)
+[![Albums](https://img.shields.io/badge/Albums-337.3k%2B-informational)](https://genapire.mobulum.com)
 [![Unique Genres](https://img.shields.io/badge/Genres-563-purple)](https://genapire.mobulum.com)
-[![Genre Assignments](https://img.shields.io/badge/Assignments-1.13M%2B-success)](https://genapire.mobulum.com)
+[![Genre Assignments](https://img.shields.io/badge/Assignments-1.14M%2B-success)](https://genapire.mobulum.com)
 <!-- BADGES_END -->
 
 # What
@@ -228,35 +228,35 @@ if you like to thank me.
 
 | Metric | Count |
 | :--- | :--- |
-| **Artists** | 29,191 |
-| **Albums** | 333,063 |
+| **Artists** | 32,401 |
+| **Albums** | 337,319 |
 | **Unique Genres** | 563 |
-| **Total Genre Assignments** | 1,125,338 |
+| **Total Genre Assignments** | 1,137,431 |
 
 ### Top 20 Genres
 
 | Rank | Genre | Albums | Share |
 | :---: | :--- | :--- | :--- |
-| 1 | **jazz** | 49,963 | 15.0% |
-| 2 | **rock** | 49,532 | 14.9% |
-| 3 | **electronic** | 43,378 | 13.0% |
-| 4 | **pop** | 42,474 | 12.8% |
-| 5 | **female-vocalists** | 35,375 | 10.6% |
-| 6 | **soul** | 24,746 | 7.4% |
-| 7 | **oldies** | 23,710 | 7.1% |
-| 8 | **dance** | 23,631 | 7.1% |
-| 9 | **classic-rock** | 22,902 | 6.9% |
-| 10 | **instrumental** | 21,867 | 6.6% |
-| 11 | **80s** | 19,218 | 5.8% |
-| 12 | **blues** | 17,957 | 5.4% |
-| 13 | **classical** | 17,934 | 5.4% |
-| 14 | **ambient** | 17,685 | 5.3% |
-| 15 | **hip-hop** | 17,509 | 5.3% |
-| 16 | **60s** | 17,176 | 5.2% |
-| 17 | **folk** | 16,011 | 4.8% |
-| 18 | **house** | 15,605 | 4.7% |
-| 19 | **trance** | 15,542 | 4.7% |
-| 20 | **alternative** | 14,655 | 4.4% |
+| 1 | **jazz** | 50,345 | 14.9% |
+| 2 | **rock** | 49,813 | 14.8% |
+| 3 | **electronic** | 44,015 | 13.0% |
+| 4 | **pop** | 42,905 | 12.7% |
+| 5 | **female-vocalists** | 35,625 | 10.6% |
+| 6 | **soul** | 25,031 | 7.4% |
+| 7 | **dance** | 23,724 | 7.0% |
+| 8 | **oldies** | 23,723 | 7.0% |
+| 9 | **classic-rock** | 22,923 | 6.8% |
+| 10 | **instrumental** | 22,233 | 6.6% |
+| 11 | **80s** | 19,261 | 5.7% |
+| 12 | **classical** | 18,678 | 5.5% |
+| 13 | **blues** | 18,049 | 5.4% |
+| 14 | **ambient** | 17,906 | 5.3% |
+| 15 | **hip-hop** | 17,726 | 5.3% |
+| 16 | **60s** | 17,187 | 5.1% |
+| 17 | **folk** | 16,309 | 4.8% |
+| 18 | **house** | 15,825 | 4.7% |
+| 19 | **trance** | 15,583 | 4.6% |
+| 20 | **alternative** | 14,852 | 4.4% |
 <!-- STATS_END -->
 
 # License

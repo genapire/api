@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <album>
   <genres>
-    <genre>folk</genre>
-    <genre>indie-folk</genre>
-    <genre>indie-pop</genre>
     <genre>techno</genre>
+    <genre>indie-folk</genre>
+    <genre>folk</genre>
+    <genre>soft-rock</genre>
+    <genre>indie-pop</genre>
   </genres>
 </album>

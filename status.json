@@ -1,194 +1,194 @@
 {
   "status": "ok",
-  "updatedAt": "2026-10-29T21:11:05.080Z",
-  "artists": 29191,
-  "artistsFormatted": "29,191",
-  "albums": 333063,
-  "albumsFormatted": "333,063",
+  "updatedAt": "2026-10-29T21:29:06.010Z",
+  "artists": 32401,
+  "artistsFormatted": "32,401",
+  "albums": 337319,
+  "albumsFormatted": "337,319",
   "uniqueGenres": 563,
   "uniqueGenresFormatted": "563",
-  "totalGenreAssignments": 1125338,
-  "totalGenreAssignmentsFormatted": "1,125,338",
+  "totalGenreAssignments": 1137431,
+  "totalGenreAssignmentsFormatted": "1,137,431",
   "badges": {
-    "artists": "29.2k+",
-    "albums": "333.1k+",
+    "artists": "32.4k+",
+    "albums": "337.3k+",
     "genres": "563",
-    "assignments": "1.13M+"
+    "assignments": "1.14M+"
   },
   "topGenres": [
     {
       "rank": 1,
       "genre": "jazz",
-      "count": 49963,
-      "formatted": "49,963",
-      "percentage": "15.0%"
+      "count": 50345,
+      "formatted": "50,345",
+      "percentage": "14.9%"
     },
     {
       "rank": 2,
       "genre": "rock",
-      "count": 49532,
-      "formatted": "49,532",
-      "percentage": "14.9%"
+      "count": 49813,
+      "formatted": "49,813",
+      "percentage": "14.8%"
     },
     {
       "rank": 3,
       "genre": "electronic",
-      "count": 43378,
-      "formatted": "43,378",
+      "count": 44015,
+      "formatted": "44,015",
       "percentage": "13.0%"
     },
     {
       "rank": 4,
       "genre": "pop",
-      "count": 42474,
-      "formatted": "42,474",
-      "percentage": "12.8%"
+      "count": 42905,
+      "formatted": "42,905",
+      "percentage": "12.7%"
     },
     {
       "rank": 5,
       "genre": "female-vocalists",
-      "count": 35375,
-      "formatted": "35,375",
+      "count": 35625,
+      "formatted": "35,625",
       "percentage": "10.6%"
     },
     {
       "rank": 6,
       "genre": "soul",
-      "count": 24746,
-      "formatted": "24,746",
+      "count": 25031,
+      "formatted": "25,031",
       "percentage": "7.4%"
     },
     {
       "rank": 7,
-      "genre": "oldies",
-      "count": 23710,
-      "formatted": "23,710",
-      "percentage": "7.1%"
+      "genre": "dance",
+      "count": 23724,
+      "formatted": "23,724",
+      "percentage": "7.0%"
     },
     {
       "rank": 8,
-      "genre": "dance",
-      "count": 23631,
-      "formatted": "23,631",
-      "percentage": "7.1%"
+      "genre": "oldies",
+      "count": 23723,
+      "formatted": "23,723",
+      "percentage": "7.0%"
     },
     {
       "rank": 9,
       "genre": "classic-rock",
-      "count": 22902,
-      "formatted": "22,902",
-      "percentage": "6.9%"
+      "count": 22923,
+      "formatted": "22,923",
+      "percentage": "6.8%"
     },
     {
       "rank": 10,
       "genre": "instrumental",
-      "count": 21867,
-      "formatted": "21,867",
+      "count": 22233,
+      "formatted": "22,233",
       "percentage": "6.6%"
     },
     {
       "rank": 11,
       "genre": "80s",
-      "count": 19218,
-      "formatted": "19,218",
-      "percentage": "5.8%"
+      "count": 19261,
+      "formatted": "19,261",
+      "percentage": "5.7%"
     },
     {
       "rank": 12,
-      "genre": "blues",
-      "count": 17957,
-      "formatted": "17,957",
-      "percentage": "5.4%"
+      "genre": "classical",
+      "count": 18678,
+      "formatted": "18,678",
+      "percentage": "5.5%"
     },
     {
       "rank": 13,
-      "genre": "classical",
-      "count": 17934,
-      "formatted": "17,934",
+      "genre": "blues",
+      "count": 18049,
+      "formatted": "18,049",
       "percentage": "5.4%"
     },
     {
       "rank": 14,
       "genre": "ambient",
-      "count": 17685,
-      "formatted": "17,685",
+      "count": 17906,
+      "formatted": "17,906",
       "percentage": "5.3%"
     },
     {
       "rank": 15,
       "genre": "hip-hop",
-      "count": 17509,
-      "formatted": "17,509",
+      "count": 17726,
+      "formatted": "17,726",
       "percentage": "5.3%"
     },
     {
       "rank": 16,
       "genre": "60s",
-      "count": 17176,
-      "formatted": "17,176",
-      "percentage": "5.2%"
+      "count": 17187,
+      "formatted": "17,187",
+      "percentage": "5.1%"
     },
     {
       "rank": 17,
       "genre": "folk",
-      "count": 16011,
-      "formatted": "16,011",
+      "count": 16309,
+      "formatted": "16,309",
       "percentage": "4.8%"
     },
     {
       "rank": 18,
       "genre": "house",
-      "count": 15605,
-      "formatted": "15,605",
+      "count": 15825,
+      "formatted": "15,825",
       "percentage": "4.7%"
     },
     {
       "rank": 19,
       "genre": "trance",
-      "count": 15542,
-      "formatted": "15,542",
-      "percentage": "4.7%"
+      "count": 15583,
+      "formatted": "15,583",
+      "percentage": "4.6%"
     },
     {
       "rank": 20,
       "genre": "alternative",
-      "count": 14655,
-      "formatted": "14,655",
+      "count": 14852,
+      "formatted": "14,852",
       "percentage": "4.4%"
     },
     {
       "rank": 21,
       "genre": "swing",
-      "count": 14596,
-      "formatted": "14,596",
-      "percentage": "4.4%"
+      "count": 14611,
+      "formatted": "14,611",
+      "percentage": "4.3%"
     },
     {
       "rank": 22,
-      "genre": "70s",
-      "count": 14396,
-      "formatted": "14,396",
+      "genre": "indie",
+      "count": 14429,
+      "formatted": "14,429",
       "percentage": "4.3%"
     },
     {
       "rank": 23,
-      "genre": "indie",
-      "count": 14037,
-      "formatted": "14,037",
-      "percentage": "4.2%"
+      "genre": "70s",
+      "count": 14424,
+      "formatted": "14,424",
+      "percentage": "4.3%"
     },
     {
       "rank": 24,
       "genre": "soundtrack",
-      "count": 13781,
-      "formatted": "13,781",
+      "count": 13986,
+      "formatted": "13,986",
       "percentage": "4.1%"
     },
     {
       "rank": 25,
       "genre": "rap",
-      "count": 12952,
-      "formatted": "12,952",
+      "count": 13117,
+      "formatted": "13,117",
       "percentage": "3.9%"
     }
   ]
