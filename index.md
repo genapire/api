@@ -9,6 +9,15 @@ layout: home
 title: "Welcome to GenAPIre"
 ---
 
+<!-- BADGES_START -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/rwJcE5Zwez)
+[![Artists](https://img.shields.io/badge/Artists-29.2k%2B-blue)](https://genapire.mobulum.com)
+[![Albums](https://img.shields.io/badge/Albums-333.1k%2B-informational)](https://genapire.mobulum.com)
+[![Unique Genres](https://img.shields.io/badge/Genres-563-purple)](https://genapire.mobulum.com)
+[![Genre Assignments](https://img.shields.io/badge/Assignments-1.13M%2B-success)](https://genapire.mobulum.com)
+<!-- BADGES_END -->
+
 # What
 
 GenAPIre is a response to the need for free access to music genres describing your music, provided in a normalized way,
@@ -86,7 +95,6 @@ curl "https://genapire.mobulum.com/artists/{artist}/albums/{album}.(xml|json)"
 ```
 
 But you can get more information.
-
 
 ### GET genres for artist
 
@@ -168,8 +176,18 @@ There’s one more way to use genAPIre: fetch all available artists in genAPIre 
 curl "https://genapire.mobulum.com/artists.(xml|json)"
 ```
 
-I won’t show the response because it’s long and changes over time. I’m constantly working on it—for myself and for
-you :)
+### GET database statistics and status
+
+Fetch real-time database metrics, genre totals, and top genres distribution:
+
+```bash
+# JSON (available as /stats.json and /status.json)
+curl "https://genapire.mobulum.com/stats.json"
+curl "https://genapire.mobulum.com/status.json"
+
+# XML
+curl "https://genapire.mobulum.com/stats.xml"
+```
 
 # FAQ
 
@@ -205,11 +223,42 @@ if you like to thank me.
 
 # Stats
 
-#### Artists: 28828
-#### Albums: 330453
+<!-- STATS_START -->
+### Database Overview
 
+| Metric | Count |
+| :--- | :--- |
+| **Artists** | 29,191 |
+| **Albums** | 333,063 |
+| **Unique Genres** | 563 |
+| **Total Genre Assignments** | 1,125,338 |
+
+### Top 20 Genres
+
+| Rank | Genre | Albums | Share |
+| :---: | :--- | :--- | :--- |
+| 1 | **jazz** | 49,963 | 15.0% |
+| 2 | **rock** | 49,532 | 14.9% |
+| 3 | **electronic** | 43,378 | 13.0% |
+| 4 | **pop** | 42,474 | 12.8% |
+| 5 | **female-vocalists** | 35,375 | 10.6% |
+| 6 | **soul** | 24,746 | 7.4% |
+| 7 | **oldies** | 23,710 | 7.1% |
+| 8 | **dance** | 23,631 | 7.1% |
+| 9 | **classic-rock** | 22,902 | 6.9% |
+| 10 | **instrumental** | 21,867 | 6.6% |
+| 11 | **80s** | 19,218 | 5.8% |
+| 12 | **blues** | 17,957 | 5.4% |
+| 13 | **classical** | 17,934 | 5.4% |
+| 14 | **ambient** | 17,685 | 5.3% |
+| 15 | **hip-hop** | 17,509 | 5.3% |
+| 16 | **60s** | 17,176 | 5.2% |
+| 17 | **folk** | 16,011 | 4.8% |
+| 18 | **house** | 15,605 | 4.7% |
+| 19 | **trance** | 15,542 | 4.7% |
+| 20 | **alternative** | 14,655 | 4.4% |
+<!-- STATS_END -->
 
 # License
 
 The genAPIre is licensed under the [MIT license](https://opensource.org/licenses/MIT).
-

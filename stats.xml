@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stats>
+  <status>ok</status>
+  <updatedAt>2026-10-29T21:11:05.080Z</updatedAt>
+  <artists>29191</artists>
+  <albums>333063</albums>
+  <uniqueGenres>563</uniqueGenres>
+  <totalGenreAssignments>1125338</totalGenreAssignments>
+  <topGenres>
+    <genre rank="1" name="jazz" count="49963" percentage="15.0%" />
+    <genre rank="2" name="rock" count="49532" percentage="14.9%" />
+    <genre rank="3" name="electronic" count="43378" percentage="13.0%" />
+    <genre rank="4" name="pop" count="42474" percentage="12.8%" />
+    <genre rank="5" name="female-vocalists" count="35375" percentage="10.6%" />
+    <genre rank="6" name="soul" count="24746" percentage="7.4%" />
+    <genre rank="7" name="oldies" count="23710" percentage="7.1%" />
+    <genre rank="8" name="dance" count="23631" percentage="7.1%" />
+    <genre rank="9" name="classic-rock" count="22902" percentage="6.9%" />
+    <genre rank="10" name="instrumental" count="21867" percentage="6.6%" />
+    <genre rank="11" name="80s" count="19218" percentage="5.8%" />
+    <genre rank="12" name="blues" count="17957" percentage="5.4%" />
+    <genre rank="13" name="classical" count="17934" percentage="5.4%" />
+    <genre rank="14" name="ambient" count="17685" percentage="5.3%" />
+    <genre rank="15" name="hip-hop" count="17509" percentage="5.3%" />
+    <genre rank="16" name="60s" count="17176" percentage="5.2%" />
+    <genre rank="17" name="folk" count="16011" percentage="4.8%" />
+    <genre rank="18" name="house" count="15605" percentage="4.7%" />
+    <genre rank="19" name="trance" count="15542" percentage="4.7%" />
+    <genre rank="20" name="alternative" count="14655" percentage="4.4%" />
+    <genre rank="21" name="swing" count="14596" percentage="4.4%" />
+    <genre rank="22" name="70s" count="14396" percentage="4.3%" />
+    <genre rank="23" name="indie" count="14037" percentage="4.2%" />
+    <genre rank="24" name="soundtrack" count="13781" percentage="4.1%" />
+    <genre rank="25" name="rap" count="12952" percentage="3.9%" />
+  </topGenres>
+</stats>

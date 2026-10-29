@@ -1,0 +1,195 @@
+{
+  "status": "ok",
+  "updatedAt": "2026-10-29T21:11:05.080Z",
+  "artists": 29191,
+  "artistsFormatted": "29,191",
+  "albums": 333063,
+  "albumsFormatted": "333,063",
+  "uniqueGenres": 563,
+  "uniqueGenresFormatted": "563",
+  "totalGenreAssignments": 1125338,
+  "totalGenreAssignmentsFormatted": "1,125,338",
+  "badges": {
+    "artists": "29.2k+",
+    "albums": "333.1k+",
+    "genres": "563",
+    "assignments": "1.13M+"
+  },
+  "topGenres": [
+    {
+      "rank": 1,
+      "genre": "jazz",
+      "count": 49963,
+      "formatted": "49,963",
+      "percentage": "15.0%"
+    },
+    {
+      "rank": 2,
+      "genre": "rock",
+      "count": 49532,
+      "formatted": "49,532",
+      "percentage": "14.9%"
+    },
+    {
+      "rank": 3,
+      "genre": "electronic",
+      "count": 43378,
+      "formatted": "43,378",
+      "percentage": "13.0%"
+    },
+    {
+      "rank": 4,
+      "genre": "pop",
+      "count": 42474,
+      "formatted": "42,474",
+      "percentage": "12.8%"
+    },
+    {
+      "rank": 5,
+      "genre": "female-vocalists",
+      "count": 35375,
+      "formatted": "35,375",
+      "percentage": "10.6%"
+    },
+    {
+      "rank": 6,
+      "genre": "soul",
+      "count": 24746,
+      "formatted": "24,746",
+      "percentage": "7.4%"
+    },
+    {
+      "rank": 7,
+      "genre": "oldies",
+      "count": 23710,
+      "formatted": "23,710",
+      "percentage": "7.1%"
+    },
+    {
+      "rank": 8,
+      "genre": "dance",
+      "count": 23631,
+      "formatted": "23,631",
+      "percentage": "7.1%"
+    },
+    {
+      "rank": 9,
+      "genre": "classic-rock",
+      "count": 22902,
+      "formatted": "22,902",
+      "percentage": "6.9%"
+    },
+    {
+      "rank": 10,
+      "genre": "instrumental",
+      "count": 21867,
+      "formatted": "21,867",
+      "percentage": "6.6%"
+    },
+    {
+      "rank": 11,
+      "genre": "80s",
+      "count": 19218,
+      "formatted": "19,218",
+      "percentage": "5.8%"
+    },
+    {
+      "rank": 12,
+      "genre": "blues",
+      "count": 17957,
+      "formatted": "17,957",
+      "percentage": "5.4%"
+    },
+    {
+      "rank": 13,
+      "genre": "classical",
+      "count": 17934,
+      "formatted": "17,934",
+      "percentage": "5.4%"
+    },
+    {
+      "rank": 14,
+      "genre": "ambient",
+      "count": 17685,
+      "formatted": "17,685",
+      "percentage": "5.3%"
+    },
+    {
+      "rank": 15,
+      "genre": "hip-hop",
+      "count": 17509,
+      "formatted": "17,509",
+      "percentage": "5.3%"
+    },
+    {
+      "rank": 16,
+      "genre": "60s",
+      "count": 17176,
+      "formatted": "17,176",
+      "percentage": "5.2%"
+    },
+    {
+      "rank": 17,
+      "genre": "folk",
+      "count": 16011,
+      "formatted": "16,011",
+      "percentage": "4.8%"
+    },
+    {
+      "rank": 18,
+      "genre": "house",
+      "count": 15605,
+      "formatted": "15,605",
+      "percentage": "4.7%"
+    },
+    {
+      "rank": 19,
+      "genre": "trance",
+      "count": 15542,
+      "formatted": "15,542",
+      "percentage": "4.7%"
+    },
+    {
+      "rank": 20,
+      "genre": "alternative",
+      "count": 14655,
+      "formatted": "14,655",
+      "percentage": "4.4%"
+    },
+    {
+      "rank": 21,
+      "genre": "swing",
+      "count": 14596,
+      "formatted": "14,596",
+      "percentage": "4.4%"
+    },
+    {
+      "rank": 22,
+      "genre": "70s",
+      "count": 14396,
+      "formatted": "14,396",
+      "percentage": "4.3%"
+    },
+    {
+      "rank": 23,
+      "genre": "indie",
+      "count": 14037,
+      "formatted": "14,037",
+      "percentage": "4.2%"
+    },
+    {
+      "rank": 24,
+      "genre": "soundtrack",
+      "count": 13781,
+      "formatted": "13,781",
+      "percentage": "4.1%"
+    },
+    {
+      "rank": 25,
+      "genre": "rap",
+      "count": 12952,
+      "formatted": "12,952",
+      "percentage": "3.9%"
+    }
+  ]
+}
