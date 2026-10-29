@@ -57,12 +57,12 @@ const workerCode = `
     const albumsDir = path.join(root, artist, "albums");
     let albumFiles;
     try {
-      albumFiles = fs.readdirSync(albumsDir);
+      albumFiles = fs.readdirSync(albumsDir, { recursive: true });
     } catch {
       continue;
     }
     for (const f of albumFiles) {
-      if (!f.endsWith(".json")) continue;
+      if (typeof f !== "string" || !f.endsWith(".json")) continue;
       totalAlbums++;
       let content;
       try {
